@@ -1,4 +1,4 @@
-![Whatcom STEM Logo](/Whatcom_STEM_horizontal_logo_primary.svg)
+![Whatcom STEM Logo](/assets/images/Whatcom_STEM_horizontal_logo_primary.svg)
 
 # Our Mission
 Develop and promote STEM learning experiences for all people of all ages.
