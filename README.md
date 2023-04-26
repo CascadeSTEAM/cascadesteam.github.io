@@ -1,3 +1,12 @@
+<style>
+  .header {
+    display: none;
+  }
+  .footer {
+    display: none;
+  }
+</style>
+
 ![Whatcom STEM Logo](/assets/images/Whatcom_STEM_horizontal_logo_primary.svg)
 
 # Our Mission
