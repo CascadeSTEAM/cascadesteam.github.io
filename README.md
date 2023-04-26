@@ -26,4 +26,4 @@ Free. Open to everyone. All are welcome. Family friendly. Bring your friends! Se
 * **Monthly Social** - Fourth Thursday at 5pm at various locations. Check Meetup for the location of the month.
 
 # Contact
-Interested in helping build Whatcom STEM? Volunteer? Have a question? Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan) at [michaelbgan@gmail.com](mailto:michaelbgan@gmail.com) or [360-499-2099](360-499-2099) for all inquiries.
+Interested in helping build Whatcom STEM? Volunteer? Have a question? Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan) at [michaelbgan@gmail.com](mailto:michaelbgan@gmail.com) or [360-499-2099](tel:360-499-2099) for all inquiries.
