@@ -36,10 +36,10 @@ STEM education is a powerful framework to promote curiosity and creativity, enco
 We advocate STEM education through development and promotion of events, activities, and programs, including a community hub, community groups, and mentorship. We invite collaboration with community partners in shared purpose.
 
 # Events
-Free. Open to everyone. All are welcome. Family friendly. Bring your friends! See our [Meetup Page](https://meetup.com/whatcom-stem) for all events!
+Free. Open to everyone. All are welcome. Family friendly. Bring your friends! See our [Meetup Page](https://meetup.com/whatcomstem) for all events!
 
 * **Weekly Virtual Happy Hour** - Mondays at 5pm at the [Community Hub](http://discord.whatcomstem.org)
-* **Monthly Social** - Fourth Thursday at 5pm at various locations. Check our [Meetup Page](https://meetup.com/whatcom-stem) for the location of the month.
+* **Monthly Social** - Fourth Thursday at 5pm at various locations. Check our [Meetup Page](https://meetup.com/whatcomstem) for the location of the month.
 
 # Community Hub
 Join our [Community Hub](http://discord.whatcomstem.org) (Discord) to connect virtually with our community for discussion, planning, and virtual events. Discord is a fantastic online platform for public and private text, audio, and video chat.
