@@ -1,4 +1,15 @@
-# Whatcom STEM Organization Overview
+style>
+  .header {
+    display: none;
+  }
+  .footer {
+    display: none;
+  }
+</style>
+
+[![Whatcom STEM Logo](/assets/images/Whatcom_STEM_horizontal_logo_primary.svg)](https://whatcomstem.org)
+
+# Organization Overview
 
 Updated 2023-05-09
 
