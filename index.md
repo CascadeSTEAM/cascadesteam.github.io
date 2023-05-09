@@ -19,7 +19,7 @@ Whatcom STEM will focus on STEM Education, Career Connected Learning, Digital Li
 
 Are you passionate about the opportunities and development of Whatcom STEM? We are an open community and welcome your guidance as we prepare to launch.
 
-Please see our proposed [Whatcom STEM Organization Overview](https://docs.google.com/document/d/15iCC05XWVzwmabpgk_LfChioKYI_xCOmmc3lhOmLhFA/edit?usp=sharing) for a better understanding of our purpose, mission, values, and structure. We welcome your input through the [Whatcom STEM Community Survey](https://docs.google.com/forms/d/e/1FAIpQLSe2md9BoX-WF953GCqkOx6kTWhe2z6jEgSkTGy2qKn4jia9Iw/viewform). 
+Please see our proposed [Whatcom STEM Organization Overview](/organization.html) for a better understanding of our purpose, mission, values, and structure. We welcome your input through the [Whatcom STEM Community Survey](https://docs.google.com/forms/d/e/1FAIpQLSe2md9BoX-WF953GCqkOx6kTWhe2z6jEgSkTGy2qKn4jia9Iw/viewform). 
 
 We look forward to building Whatcom STEM with you!
 
