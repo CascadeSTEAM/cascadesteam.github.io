@@ -19,11 +19,11 @@ Whatcom STEM will focus on STEM Education, Career Connected Learning, Digital Li
 
 Are you passionate about the opportunities and development of Whatcom STEM? We are an open community and welcome your guidance as we prepare to launch.
 
-Please see our proposed [Whatcom STEM Organization Overview](/organization.html) for a better understanding of our purpose, mission, values, and structure. We welcome your input through the [Whatcom STEM Community Survey](https://docs.google.com/forms/d/e/1FAIpQLSe2md9BoX-WF953GCqkOx6kTWhe2z6jEgSkTGy2qKn4jia9Iw/viewform). 
+Please see our proposed [Whatcom STEM Organization Overview](/organization.html) for a better understanding of our purpose, mission, values, and structure. We welcome your input through the [Whatcom STEM Community Survey](http://survey.whatcomstem.org). 
 
 We look forward to building Whatcom STEM with you!
 
-For discussion, please join us at our [Community Hub](https://discord.com/invite/a8PhjyxH2t) (Discord) in the #feedback channel. For inquiries please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan) at [michaelbgan@gmail.com](mailto:michaelbgan@gmail.com) or [360-499-2099](tel:13604992099).
+For discussion, please join us at our [Community Hub](http://discord.whatcomstem.org) (Discord) in the #feedback channel. For inquiries please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan) at [michaelbgan@gmail.com](mailto:michaelbgan@gmail.com) or [360-499-2099](tel:13604992099).
 
 # Our Mission
 Develop and promote STEM learning experiences for all people of all ages.
@@ -38,14 +38,14 @@ We advocate STEM education through development and promotion of events, activiti
 # Events
 Free. Open to everyone. All are welcome. Family friendly. Bring your friends! See our [Meetup Page](https://meetup.com/whatcom-stem) for all events!
 
-* **Weekly Virtual Happy Hour** - Mondays at 5pm at the [Community Hub](https://discord.com/invite/a8PhjyxH2t)
+* **Weekly Virtual Happy Hour** - Mondays at 5pm at the [Community Hub](http://discord.whatcomstem.org)
 * **Monthly Social** - Fourth Thursday at 5pm at various locations. Check our [Meetup Page](https://meetup.com/whatcom-stem) for the location of the month.
 
 # Community Hub
-Join our [Community Hub](https://discord.com/invite/a8PhjyxH2t) (Discord) to connect virtually with our community for discussion, planning, and virtual events. Discord is a fantastic online platform for public and private text, audio, and video chat.
+Join our [Community Hub](http://discord.whatcomstem.org) (Discord) to connect virtually with our community for discussion, planning, and virtual events. Discord is a fantastic online platform for public and private text, audio, and video chat.
 
 # Meetup
-Join our [Meetup Page](https://meetup.com/whatcom-stem) for emailed event announcements and to RSVP for events.
+Join our [Meetup Page](https://meetup.com/whatcomstem) for emailed event announcements and to RSVP for events.
 
 # LinkedIn
 Join our [LinkedIn Page](https://linkedin.com/company/whatcomstem) to share our activity with your professional network. We appreciate your support and boosting of our message.
