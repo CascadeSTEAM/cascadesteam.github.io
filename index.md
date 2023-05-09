@@ -7,7 +7,7 @@
   }
 </style>
 
-![Whatcom STEM Logo](/assets/images/Whatcom_STEM_horizontal_logo_primary.svg)
+[![Whatcom STEM Logo](/assets/images/Whatcom_STEM_horizontal_logo_primary.svg)](https://whatcomstem.org)
 
 # Announcement
 
