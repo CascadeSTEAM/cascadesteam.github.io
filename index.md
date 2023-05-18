@@ -48,7 +48,10 @@ Join our [Community Hub](http://discord.whatcomstem.org) (Discord) to connect vi
 Join our [Meetup Page](https://meetup.com/whatcomstem) for emailed event announcements and to RSVP for events.
 
 # LinkedIn
-Join our [LinkedIn Page](https://linkedin.com/company/whatcomstem) to share our activity with your professional network. We appreciate your support and boosting of our message.
+Join our [LinkedIn Page](https://linkedin.com/company/whatcomstem) to share our activity with your professional network.
+
+# Facebook
+Join our [Facebook Page](https://facebook.com/whatcomstem) to share our activity with your personal network.
 
 # Contact
 Interested in helping build Whatcom STEM? Volunteer? Have a question? Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan) at [michaelbgan@gmail.com](mailto:michaelbgan@gmail.com) or [360-499-2099](tel:13604992099) for all inquiries.
