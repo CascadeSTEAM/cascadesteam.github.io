@@ -36,5 +36,8 @@ Join our [Community Hub](http://discord.cascadesteam.org) (Discord) to connect v
 - [LinkedIn](https://linkedin.com/company/cascadesteam) to share our activity with your professional network.
 - [Facebook](https://facebook.com/cascadesteam) to share our activity with your personal network.
 
+## Organizational Structure
+See our [Organization Page](/organization.md) for our formation and organizational details in development.
+
 ## Contact
 Interested to get involved? Volunteer? Have a question? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org) or [360-499-2099](tel:3604992099).
