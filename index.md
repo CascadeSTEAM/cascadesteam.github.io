@@ -7,51 +7,34 @@
   }
 </style>
 
-[![Whatcom STEM Logo](/assets/images/Whatcom_STEM_horizontal_logo_primary.svg)](https://whatcomstem.org)
+[![Cascade STEAM Mark](/assets/images/Cascade_STEAM_mark_primary.svg)](https://cascadesteam.org)
 
-# Announcement
+# Cascade STEAM
 
-May 9, 2023
+## About Us
+Cascade STEAM is a newly forming nonprofit organization dedicated to improving STEM Education, Career Connected Learning, Digital Literacy, and Digital Equity for all people of all ages.
 
-Whatcom STEM is forming as a new 501(c)(3) nonprofit organization.
+STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, and Mathematics. STEAM education is a powerful framework to promote curiosity and creativity, encourage a shared learning experience, and build tools to solve important life challenges. We advocate STEAM education through development and promotion of events, activities, and programs. We invite collaboration with community partners in shared purpose.
 
-Whatcom STEM will focus on STEM Education, Career Connected Learning, Digital Literacy, and Digital Equity for all people of all ages. 
+Interested to get involved? Volunteer? Have a question? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org) or [360-499-2099](tel:13604992099).
 
-Are you passionate about the opportunities and development of Whatcom STEM? We are an open community and welcome your guidance as we prepare to launch.
+## News
+- [October 9, 2023: Formation Announcement](/news-2023-10-09.md)
+- [May 9, 2023: Forming Announcement](/news-2023-05-09.md)
 
-Please see our proposed [Whatcom STEM Organization Overview](/organization.html) for a better understanding of our purpose, mission, values, and structure. We welcome your input through the [Whatcom STEM Community Survey](http://survey.whatcomstem.org). 
+## Events
+Free. Open to everyone. All are welcome. Family friendly. Bring your friends! See our [Meetup Page](https://meetup.com/cascadesteam) for all events!
 
-We look forward to building Whatcom STEM with you!
+- **Weekly Virtual Happy Hour** - Mondays at 5pm at the [Community Hub](http://discord.cascadesteam.org)
+- **Monthly Social** - Monthly at various locations. Check our [Meetup Page](https://meetup.com/cascadesteam) for details of the month.
 
-For discussion, please join us at our [Community Hub](http://discord.whatcomstem.org) (Discord) in the #feedback channel. For inquiries please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan) at [michaelbgan@gmail.com](mailto:michaelbgan@gmail.com) or [360-499-2099](tel:13604992099).
+## Community Hub
+Join our [Community Hub](http://discord.cascadesteam.org) (Discord) to connect virtually with our community for discussion, planning, and virtual events. Discord is a fantastic online platform for public and private text, audio, and video chat.
 
-# Our Mission
-Develop and promote STEM learning experiences for all people of all ages.
+## Social Media
+- [Meetup](https://meetup.com/cascadesteam) for emailed event announcements and to RSVP for events.
+- [LinkedIn](https://linkedin.com/company/cascadesteam) to share our activity with your professional network.
+- [Facebook](https://facebook.com/cascadesteam) to share our activity with your personal network.
 
-# About Us
-Whatcom STEM is a newly forming nonprofit organization dedicated to improving STEM Education, Career Connected Learning, Digital Literacy, and Digital Equity for all people of all ages.
-
-STEM education is a powerful framework to promote curiosity and creativity, encourage a shared learning experience, and build tools to solve important life challenges.
-
-We advocate STEM education through development and promotion of events, activities, and programs, including a community hub, community groups, and mentorship. We invite collaboration with community partners in shared purpose.
-
-# Events
-Free. Open to everyone. All are welcome. Family friendly. Bring your friends! See our [Meetup Page](https://meetup.com/whatcomstem) for all events!
-
-* **Weekly Virtual Happy Hour** - Mondays at 5pm at the [Community Hub](http://discord.whatcomstem.org)
-* **Monthly Social** - Fourth Thursday at 5pm at various locations. Check our [Meetup Page](https://meetup.com/whatcomstem) for the location of the month.
-
-# Community Hub
-Join our [Community Hub](http://discord.whatcomstem.org) (Discord) to connect virtually with our community for discussion, planning, and virtual events. Discord is a fantastic online platform for public and private text, audio, and video chat.
-
-# Meetup
-Join our [Meetup Page](https://meetup.com/whatcomstem) for emailed event announcements and to RSVP for events.
-
-# LinkedIn
-Join our [LinkedIn Page](https://linkedin.com/company/whatcomstem) to share our activity with your professional network.
-
-# Facebook
-Join our [Facebook Page](https://facebook.com/whatcomstem) to share our activity with your personal network.
-
-# Contact
-Interested in helping build Whatcom STEM? Volunteer? Have a question? Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan) at [michaelbgan@gmail.com](mailto:michaelbgan@gmail.com) or [360-499-2099](tel:13604992099) for all inquiries.
+## Contact
+Interested to get involved? Volunteer? Have a question? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org) or [360-499-2099](tel:3604992099).
