@@ -7,7 +7,7 @@
   }
 </style>
 
-[![Cascade STEAM Mark](/assets/images/Cascade_STEAM_mark_primary.svg)](https://cascadesteam.org)
+[![Cascade STEAM Logo](/assets/images/Cascade_STEAM_horizontal_logo_primary_1.png)](https://cascadesteam.org)
 
 # Organization Overview
 Updated 2023-10-09
