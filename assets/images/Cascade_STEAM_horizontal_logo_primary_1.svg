@@ -14,6 +14,8 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title126">Cascade STEAM horizontal logo primary</title>
   <sodipodi:namedview
      id="namedview2327"
      pagecolor="#ffffff"
@@ -25,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="2.6021111"
-     inkscape:cx="250.56578"
-     inkscape:cy="93.770016"
-     inkscape:window-width="1452"
+     inkscape:cx="74.554849"
+     inkscape:cy="94.538623"
+     inkscape:window-width="1916"
      inkscape:window-height="1023"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -38,14 +40,12 @@
     <style
        id="style2279">.a{fill:#34b0bf;}.b{fill:#0a2c3f;}.c{fill:#d46329;}</style>
   </defs>
-  <title
-     id="title2283">Whatcom_STEM_horizontal_logo_primary</title>
   <metadata
      id="metadata2329">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
-        <dc:title>Whatcom_STEM_horizontal_logo_primary</dc:title>
+        <dc:title>Cascade STEAM horizontal logo primary</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
