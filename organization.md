@@ -47,8 +47,38 @@ In alignment with organization purpose, mission, and values, we will facilitate 
 - Advocate through development and promotion of events, activities, and programs.
 - Collaborate with community partners in shared purpose.
 
-## Events
+## Organization
+Functions via Board, Committees, and (future) Staff. Staff is vacant or volunteer until the organization establishes adequate funding. Board and Committee expansion is via invitation from the Board President upon Board approval.
 
+### Board Officers
+- Michael Gan, President
+- Garth Johnson, Vice President
+- Joshua Buker, Secretary
+- Leslie Brendible, Treasurer
+
+### Board Composition
+The Board is to be composed of diverse individuals representing (1) science, technology, engineering, arts, and mathematics, (2) education, (3) industry, (4) local government, and (5) community interests.
+
+### Board Terms
+Board Members serve in a volunteer capacity indefinitely, until either resignation or dismissal. All official Board activity will be delivered in writing, including invitation, acceptance, resignation, and dismissal.
+
+### Committees
+Committees assist in creation and management of core organization tasks. Committees are designed to be led by a board member, and be composed of board members, (future) staff, and community members. Objectives are determined by agreement between the Board and each respective Committee. Input and participation from the community is incredibly important to ensure alignment of community interests.
+
+- Executive: Strategize and manage alignment of priorities.
+- Engagement: Strategize and execute communications, marketing, and outreach.
+- Program: Strategize and manage organization activities, including programs and events.
+- Finance: Strategize financial support, management, and related filings.
+- Advisory: Represent and reflect community interests and advocate for the organization in the community.
+
+## Financial Support
+- Federal Grants
+- Washington State Grants
+- Partner Grants and Contracts
+- Supporting Members
+- Donations
+
+## Events
 - Weekly Virtual Social Event
 - Monthly Social Event
 - Monthly Community Service Event (TBD)
@@ -74,34 +104,3 @@ Community Engagement
 - Community Partners
 - Consulting
 - Volunteers
-
-## Financial Support
-- Federal Grants
-- Washington State Grants
-- Partner Grants and Contracts
-- Supporting Members
-- Donations
-
-## Organization
-Functions via Board, Committees, and (future) Staff. Staff is vacant or volunteer until the organization establishes adequate funding. Board and Committee expansion is via invitation from the Board President upon Board approval.
-
-### Board Officers
-- Michael Gan, President
-- Garth Johnson, Vice President
-- Joshua Buker, Secretary
-- Leslie Brendible, Treasurer
-
-### Board Composition
-The Board is to be composed of diverse individuals representing (1) science, technology, engineering, arts, and mathematics, (2) education, (3) industry, (4) local government, and (5) community interests.
-
-### Board Terms
-Board Members serve in a volunteer capacity indefinitely, until either resignation or dismissal. All official Board activity will be delivered in writing, including invitation, acceptance, resignation, and dismissal.
-
-### Committees
-Committees assist in creation and management of core organization tasks. Committees are designed to be led by a board member, and be composed of board members, (future) staff, and community members. Objectives are determined by agreement between the Board and each respective Committee. Input and participation from the community is incredibly important to ensure alignment of community interests.
-
-- Executive: Strategize and manage alignment of priorities.
-- Engagement: Strategize and execute communications, marketing, and outreach.
-- Program: Strategize and manage organization activities, including programs and events.
-- Finance: Strategize financial support, management, and related filings.
-- Advisory: Represent and reflect community interests and advocate for the organization in the community.
