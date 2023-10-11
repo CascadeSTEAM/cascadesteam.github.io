@@ -10,7 +10,7 @@
 [![Cascade STEAM Logo](/assets/images/Cascade_STEAM_horizontal_logo_primary_1.png)](https://cascadesteam.org)
 
 # Organization Overview
-Updated 2023-10-09
+Updated 2023-10-11
 
 ## Reference Documents
 - [Articles of Incorporation](/docs/Cascade STEAM Articles of Incorporation 2023-09-15.pdf)
