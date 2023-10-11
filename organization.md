@@ -19,12 +19,12 @@ Updated 2023-10-09
 
 ## Legal Organization
 - Washington State Nonprofit Corporation, UBI# 605 334 640
-- USA Federal 501(c)(3) Nonprofit, FEIN# 93-3592339 (not yet filed)
+- USA Federal 501(c)(3) Nonprofit, FEIN# 93-3592339 (Future. Not yet filed.)
 
 ## About
 Cascade STEAM is a newly forming nonprofit organization dedicated to improving STEM Education, Career Connected Learning, Digital Literacy, and Digital Equity for all people of all ages.
 
-STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, and Mathematics. STEAM education is a powerful framework to promote curiosity and creativity, encourage a shared learning experience, and build tools to solve important life challenges. We advocate STEAM education through development and promotion of events, activities, and programs. We invite collaboration with community partners in shared purpose.
+STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, and Mathematics. STEAM education is a powerful framework to promote curiosity and creativity, encourage a shared learning experience, and build tools to solve important life challenges. We advocate through development and promotion of events, activities, and programs, and invite collaboration with community partners in shared purpose.
 
 ## Mission
 Develop and promote STEAM Education, Career Connected Learning, Digital Literacy, and Digital Equity for all people of all ages.
