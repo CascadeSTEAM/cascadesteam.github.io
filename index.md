@@ -12,23 +12,28 @@
 # Cascade STEAM
 
 ## About Us
-Cascade STEAM is a newly forming nonprofit organization dedicated to improving STEAM Education, Career Connected Learning, Digital Literacy, and Digital Equity for all people of all ages.
+Cascade STEAM is a new 501(c)(3) nonprofit organization dedicated to improving STEAM Education, Career Connected Learning, Digital Literacy, and Digital Equity for all people of all ages.
 
 STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, and Mathematics. STEAM education is a powerful framework to promote curiosity and creativity, encourage a shared learning experience, and build tools to solve important life challenges. We advocate through development and promotion of events, activities, and programs, and invite collaboration with community partners in shared purpose.
 
 ## News
-- [October 11, 2023: Formation Announcement](/news-2023-10-11.md)
-- [May 9, 2023: Forming Announcement](/news-2023-05-09.md)
+- [October 11, 2023: Cascade STEAM Name Change](/news-2023-10-11.md)
+- [May 9, 2023: Whatcom STEM Announcement](/news-2023-05-09.md)
 
 ## Events
-Free. Open to everyone. All are welcome. Family friendly. Bring your friends! See our [Meetup Page](https://meetup.com/cascadesteam) for all events!
+Free. Open to everyone. All are welcome. Family friendly. Bring your friends! See our [Meetup Page](https://meetup.com/cascadesteam) for all events. See descriptions of our programs below.
 
-Recurring Events:
-- **Weekly Virtual Happy Hour** - Mondays at 5pm at the [Community Hub](http://discord.cascadesteam.org).
-- **Monthly Social** - Monthly at various locations. See our [Meetup Page](https://meetup.com/cascadesteam) each month for details.
+## Programs
+- **Community Groups**: Organizing communities of aspiring, current, or retired professionals focusing on a STEAM subtopic, including Citizen Science, Cybersecurity, Data Engineering, Engineering, IT, Linux (collab with [LinuxFest Northwest](https://lfnw.org), Software Development (collab with [Bellingham Codes](https://https://bellingham.codes)), and growing.
+- **Mentorship**: Connecting students and professionals, junior and senior professionals, and/or peers for organized and supportive personal and professional betterment.
+- **Internship** - Supporting students through internship and benefitting local nonprofit community partners through the execution of student projects.
+- **Group Projects**: Shared learning experiences focusing on educational concepts.
+- **Community Projects**: Shared learning experiences focusing on community impact, often collaborating with community partners.
+- **Volunteers**: Organizing the volunteer needs of both Cascade STEAM programs and facilitating the STEAM-related needs of community partners.
+- **Digital Navigators**: Providing basic technology support to the community, focusing on community service, social services, and community impact. 
 
 ## Community Hub
-Join our [Community Hub](http://discord.cascadesteam.org) (Discord) to connect virtually with our community for discussion, planning, and virtual events. Discord is a fantastic online platform for public and private text, audio, and video chat.
+Join our [Community Hub](http://discord.cascadesteam.org) to connect virtually with our community for discussion, planning, and virtual events. Discord is a free online platform for public and private text, audio, and video chat.
 
 ## Social Media
 - [Meetup](https://meetup.com/cascadesteam) for emailed event announcements and to RSVP for events.
@@ -36,10 +41,10 @@ Join our [Community Hub](http://discord.cascadesteam.org) (Discord) to connect v
 - [Facebook](https://facebook.com/cascadesteam) to share our activity with your personal network.
 
 ## *Get Involved!*
-Cascade STEAM is seeking to grow diverse and passionate leadership and volunteer teams. We will expand our Board of Directors to assist in governance, launch Working Committees to strategize and execute our mission and community engagement, and establish an Advisory Committee to ensure alignment of our mission with community interests. Are you a professional in the fields of science, technology, engineering, arts, or mathematics? Do you represent education, industry, local government, or workforce development? Are you interested in contributing to the mission of Cascade STEAM? Consider joining our Board of Directors, Advisory Committee, and/or our Working Committees! Please share your interests via our [Community Survey](http://community-survey.cascadesteam.org) and join conversation and planning in progress at the [Cascade STEAM Community Hub](https://discord.cascadesteam.org).
+Are you a professional in the fields of science, technology, engineering, arts, or mathematics? Do you represent education, industry, local government, or workforce development? Are you interested in contributing to the mission of Cascade STEAM? Please share your interests via our [Community Survey](http://community-survey.cascadesteam.org) and contact us to discuss!
 
 ## Organizational Structure
 See our [Organization Page](/organization.md) for our formation and organizational details in development.
 
 ## Contact Us
-Interested to get involved? Volunteer? Have a question? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org) [360-499-2099](tel:3604992099), or via the [Cascade STEAM Community Hub](http://discord.cascadesteam.org) **@Michael Gan**.
+Interested to get involved? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://discord.cascadesteam.org).
