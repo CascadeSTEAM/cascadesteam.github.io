@@ -24,7 +24,7 @@ STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, an
 Free. Open to everyone. All are welcome. Family friendly. Bring your friends! See our [Meetup Page](https://meetup.com/cascadesteam) for all events. See descriptions of our programs below.
 
 ## Programs
-- **Community Groups**: Organizing communities of aspiring, current, or retired professionals focusing on a STEAM subtopic, including Citizen Science, Cybersecurity, Data Engineering, Engineering, IT, Linux (collab with [LinuxFest Northwest](https://lfnw.org), Software Development (collab with [Bellingham Codes](https://https://bellingham.codes)), and growing.
+- **Community Groups**: Organizing communities of aspiring, current, or retired professionals focusing on a STEAM subtopic, including Citizen Science, Cybersecurity, Data Engineering, Engineering, IT, Linux (collab with [LinuxFest Northwest](https://lfnw.org)), Software Development (collab with [Bellingham Codes](https://https://bellingham.codes)), and growing.
 - **Mentorship**: Connecting students and professionals, junior and senior professionals, and/or peers for organized and supportive personal and professional betterment.
 - **Internship** - Supporting students through internship and benefitting local nonprofit community partners through the execution of student projects.
 - **Group Projects**: Shared learning experiences focusing on educational concepts.
