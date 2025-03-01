@@ -24,7 +24,8 @@ STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, an
 Free. Open to everyone. All are welcome. Family friendly. Bring your friends! See our [Meetup Page](https://meetup.com/cascadesteam) for all events. See descriptions of our programs below.
 
 ## Programs
-- **Community Groups**: Organizing communities of aspiring, current, or retired professionals focusing on a STEAM subtopic, including Citizen Science, Cybersecurity, Data Engineering, Engineering, IT, Linux (collab with [LinuxFest Northwest](https://lfnw.org)), Software Development (collab with [Bellingham Codes](https://https://bellingham.codes)), and growing.
+Our efforts are organized into programs, each of which is rooted in education, shared learning experiences, building relationships, and community impact, including:
+- **Community Groups**: Organizing communities of aspiring, current, or retired professionals focusing on a STEAM subtopic, including Citizen Science, Cybersecurity, Data Engineering, Engineering, IT, Linux, and Software Development. Efforts are in open collaboration with community partners, including [Bellingham Codes](https://https://bellingham.codes), [Bellingham Makerspace](https://bellinghammakerspace.org), [BTC Raspberry Pi Club](https://www.raspberrypiclub.org), and [LinuxFest Northwest](https://lfnw.org).
 - **Mentorship**: Connecting students and professionals, junior and senior professionals, and/or peers for organized and supportive personal and professional betterment.
 - **Internship** - Supporting students through internship and benefitting local nonprofit community partners through the execution of student projects.
 - **Group Projects**: Shared learning experiences focusing on educational concepts.
@@ -36,7 +37,7 @@ Free. Open to everyone. All are welcome. Family friendly. Bring your friends! Se
 Join our [Community Hub](http://discord.cascadesteam.org) to connect virtually with our community for discussion, planning, and virtual events. Discord is a free online platform for public and private text, audio, and video chat.
 
 ## Social Media
-- [Meetup](https://meetup.com/cascadesteam) for emailed event announcements and to RSVP for events.
+- [Meetup](https://meetup.com/cascadesteam) to receive event announcements and to RSVP for events.
 - [LinkedIn](https://linkedin.com/company/cascadesteam) to share our activity with your professional network.
 - [Facebook](https://facebook.com/cascadesteam) to share our activity with your personal network.
 
