@@ -26,12 +26,12 @@ Free. Open to everyone. All are welcome. Family friendly. Bring your friends! Se
 ## Programs
 Our efforts are organized into programs, each of which is rooted in education, shared learning experiences, building relationships, and community impact, including:
 - **Community Groups**: Organizing communities of aspiring, current, or retired professionals focusing on a STEAM subtopic, including Citizen Science, Cybersecurity, Data Engineering, Engineering, IT, Linux, and Software Development. Efforts are in open collaboration with community partners, including [Bellingham Codes](https://https://bellingham.codes), [Bellingham Makerspace](https://bellinghammakerspace.org), [BTC Raspberry Pi Club](https://www.raspberrypiclub.org), and [LinuxFest Northwest](https://lfnw.org).
-- **Mentorship**: Connecting students and professionals, junior and senior professionals, and/or peers for organized and supportive personal and professional betterment.
+- **Mentorship**: Connecting students and professionals, junior and senior professionals, and/or peers for organized and supportive personal and professional improvement.
 - **Internship** - Supporting students through internship and benefitting local nonprofit community partners through the execution of student projects.
 - **Group Projects**: Shared learning experiences focusing on educational concepts.
 - **Community Projects**: Shared learning experiences focusing on community impact, often collaborating with community partners.
 - **Volunteers**: Organizing the volunteer needs of both Cascade STEAM programs and facilitating the STEAM-related needs of community partners.
-- **Digital Navigators**: Providing basic technology support to the community, focusing on community service, social services, and community impact. 
+- **Digital Navigators**: Providing basic technology support to the community, focusing on community service and supporting social service providers. 
 
 ## Community Hub
 Join our [Community Hub](http://discord.cascadesteam.org) to connect virtually with our community for discussion, planning, and virtual events. Discord is a free online platform for public and private text, audio, and video chat.
