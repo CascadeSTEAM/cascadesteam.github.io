@@ -23,9 +23,9 @@ For Spring/Summer 2025, Mentorship is designed for college students, professiona
 
 - You must be 18 years of age by May 1, 2025 to apply.
 - If you are not yet a member of the [Cascade STEAM Community Hub](http://discord.cascadesteam.org) (Discord), please [create a Discord account](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started) and join the server. We use Discord for public, private, and group communications.
-- Submit your application to participate as a Mentee, Mentor, or Peer Mentor Partner by April 30, 2025.
+- Submit your application to participate as a Mentee, Mentor, or Peer Mentor Partner by April 28, 2025.
 - Mentorship Program Organizers will match applicants based on interests.
-- Mentorship Pairs are introduced in early May.
+- Mentorship Pairs are introduced on May 1, 2025.
 - Participants meet with their mentorship partner ~twice per month for ~one hour in May, June, & July. A mentorship handbook will be provided to help provide a positive mentorship experience for all.
 - While organized mentorship activities for this cohort end after a three month period, we encourage participants to stay connected.
 
@@ -37,7 +37,7 @@ Mentorship is integrated into Cascade STEAM Community Groups, each convening sep
 
 ## Data Policy
 
-ALL information submitted will remain confidential and is only used by Cascade STEAM Mentorship Organizers to facilitate the program.
+All information submitted will remain confidential and is only used by Cascade STEAM Mentorship Organizers to facilitate the program.
 
 ## About Cascade STEAM
 
@@ -46,4 +46,5 @@ Cascade STEAM is a 501(c)(3) nonprofit organization dedicated to improving STEAM
 STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, and Mathematics. STEAM education is a powerful framework to promote curiosity and creativity, encourage a shared learning experience, and build tools to solve important life challenges. We advocate through development and promotion of events, activities, and programs, and invite collaboration with community partners in shared purpose.
 
 ## Contact Us
+
 Interested to get involved? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://discord.cascadesteam.org).
