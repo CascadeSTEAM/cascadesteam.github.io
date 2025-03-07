@@ -17,7 +17,7 @@ Cascade STEAM is a new 501(c)(3) nonprofit organization dedicated to improving S
 STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, and Mathematics. STEAM education is a powerful framework to promote curiosity and creativity, encourage a shared learning experience, and build tools to solve important life challenges. We advocate through development and promotion of events, activities, and programs, and invite collaboration with community partners in shared purpose.
 
 ## News
-- [May 6, 2025: Mentorship Program Launches](/mentorship.md)
+- [March 6, 2025: Mentorship Program Launch](/mentorship.md)
 - [October 11, 2023: Cascade STEAM Name Change](/news-2023-10-11.md)
 - [May 9, 2023: Whatcom STEM Announcement](/news-2023-05-09.md)
 
