@@ -28,7 +28,7 @@ Free. Open to everyone. All are welcome. Family friendly. Bring your friends! Se
 Our efforts are organized into programs, each of which is rooted in education, shared learning experiences, building relationships, and community impact, including:
 - **Community Groups**: Organizing communities of aspiring, current, or retired professionals focusing on a STEAM subtopic, including Citizen Science, Cybersecurity, Data Engineering, Engineering, IT, Linux, and Software Development. Efforts are in open collaboration with community partners, including [Bellingham Codes](https://bellingham.codes), [Bellingham Makerspace](https://bellinghammakerspace.org), [BTC Raspberry Pi Club](https://www.raspberrypiclub.org), and [LinuxFest Northwest](https://lfnw.org).
 - **[Mentorship](/mentorship.md)**: Connecting students and professionals, junior and senior professionals, and/or peers for organized and supportive personal and professional improvement.
-- **Internship** - Supporting students through internship and benefitting local nonprofit community partners through the execution of student projects.
+- **Internship**: Supporting students through internship and benefitting local nonprofit community partners through the execution of student projects.
 - **Workshops**: Instructor-led events and activities focusing on educational concepts.
 - **Group Projects**: Shared learning experiences focusing on educational concepts.
 - **Community Projects**: Shared learning experiences focusing on community impact, often collaborating with community partners.
@@ -47,7 +47,7 @@ Join our [Community Hub](http://discord.cascadesteam.org) to connect virtually w
 Are you a professional in the fields of science, technology, engineering, arts, or mathematics? Do you represent education, industry, local government, or workforce development? Are you interested in contributing to the mission of Cascade STEAM? Please share your interests via our [Community Survey](http://community-survey.cascadesteam.org) and contact us to discuss!
 
 ## Organizational Structure
-See our [Organization Page](/organization.md) for our formation and organizational details in development.
+See our [Organization Page](/organization.md) for our organizational details in development.
 
 ## Contact Us
 Interested to get involved? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://discord.cascadesteam.org).
