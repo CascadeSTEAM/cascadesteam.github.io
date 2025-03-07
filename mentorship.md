@@ -1,9 +1,9 @@
-style>
+<style>
   .header {
-	display: none;
+    display: none;
   }
   .footer {
-	display: none;
+    display: none;
   }
 </style>
 
@@ -28,6 +28,8 @@ For Spring/Summer 2025, Mentorship is designed for college students, professiona
 - Mentorship Pairs are introduced in early May.
 - Participants meet with their mentorship partner ~twice per month for ~one hour in May, June, & July. A mentorship handbook will be provided to help provide a positive mentorship experience for all.
 - While organized mentorship activities for this cohort end after a three month period, we encourage participants to stay connected.
+
+[> APPLY NOW <](https://forms.gle/rZ5ExToQ8iWdXo5u8)
 
 ## Community Groups
 
