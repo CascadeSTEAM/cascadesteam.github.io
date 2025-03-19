@@ -17,16 +17,16 @@ Cascade STEAM Community Groups convene aspiring, current, and retired profession
 *Free. Open to Everyone. All are welcome. Family Friendly. Bring your friends!*
 
 ## Current Community Groups
-Each Cascade STEAM Community Group is led by volunteer organizers and meets separately in a recurring ~monthly meeting. All scheduled events can be found on the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam).
+Each Community Group is led by volunteer organizers and meets separately in a recurring ~monthly meeting. Scheduled events can be found on the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) and the [Bellingham Codes Meetup Page](https://meetup.com/bellinghamcodes).
 
 Community Groups include: 
-- **Bellingham Linux Users Group** led by Brian Parks and [Garth Johnson](mailto:garth.johnson@cascadesteam.org) in collaboration with [LinuxFest Northwest](https://lfnw.org)
-- **Citizen Science** led by [Gil Lund](mailto:gil.lund@cascadesteam.org) and [Michael Gan](mailto:michael.gan@cascadesteam.org)
-- **Cybersecurity** led by [David Hirsch](mailto:david.hirsch@cascadesteam.org) and [Marty Mulholland](mailto:marty.mulholland@cascadesteam.org)
-- **Data Engineering** led by [Ian Hogan](mailto:ian.hogan@cascadesteam.org) and [Ryan Christensen](mailto:ryan.christensen@cascadesteam.org)
-- **Software Development** led by [Kevin Stock](mailto:kevin@toolhouse.com) and [Ryan Shupe](mailto:ryan.shupe@gmail.com) in collaboration with [Bellingham Codes](https://bellingham.codes)
+- **Bellingham Codes** led by [Kevin Stock](mailto:kevin@toolhouse.com) and [Ryan Shupe](mailto:ryan.shupe@gmail.com) in collaboration with [Bellingham Codes](https://bellingham.codes) focusing on all aspects of software development.
+- **Bellingham Linux Users Group** led by Brian Parks and [Garth Johnson](mailto:garth.johnson@cascadesteam.org) in collaboration with [LinuxFest Northwest](https://lfnw.org) focusing on the Linux operating system, open source hardware, and open source software.
+- **Citizen Science** led by [Gil Lund](mailto:gil.lund@cascadesteam.org) and [Michael Gan](mailto:michael.gan@cascadesteam.org) focusing on science and community science projects.
+- **Cybersecurity** led by [David Hirsch](mailto:david.hirsch@cascadesteam.org) and [Marty Mulholland](mailto:marty.mulholland@cascadesteam.org) focusing on all aspects of cybersecurity.
+- **Data Engineering** led by [Ian Hogan](mailto:ian.hogan@cascadesteam.org) and [Ryan Christensen](mailto:ryan.christensen@cascadesteam.org) focusing on all aspects of data engineering, including data storage and access, artificial intelligence (AI), machine learning (ML), and large language models (LLMs).
 
-## Collaboration
+## Partners
 Cascade STEAM Community Groups are made possible through the commitment of volunteer organizers and open collaboration of partners, including:
 
 Community Partners:
