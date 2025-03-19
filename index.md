@@ -17,16 +17,17 @@ Cascade STEAM is a new 501(c)(3) nonprofit organization dedicated to improving S
 STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, and Mathematics. STEAM education is a powerful framework to promote curiosity and creativity, encourage a shared learning experience, and build tools to solve important life challenges. We advocate through development and promotion of events, activities, and programs, and invite collaboration with community partners in shared purpose.
 
 ## News
-- [Cascade STEAM Mentorship Program Launches](/mentorship)
+- [March 19, 2025: Cascade STEAM Community Groups Launched](/community-groups)
+- [March 6, 2025: Cascade STEAM Mentorship Program Launched](/mentorship)
 
-See our [News Page](/news) for more.
+See our [News Page](/news) for past topics.
 
 ## Events
 Free. Open to everyone. All are welcome. Family friendly. Bring your friends! See our [Meetup Page](https://meetup.com/cascadesteam) for all scheduled events and descriptions of our programs below.
 
 ## Programs
 Our efforts are organized into programs, each of which is rooted in education, shared learning experiences, building relationships, and positive community impact, including:
-- **Community Groups**: Organizing communities of aspiring, current, and retired professionals focusing on a STEAM topic.
+- **[Community Groups](/community-groups)**: Organizing communities of aspiring, current, and retired professionals focusing on a STEAM topic.
 - **[Mentorship](/mentorship)**: Connecting students and professionals, junior and senior professionals, and/or peers for organized and supportive personal and professional improvement.
 - **Internship**: Supporting students through internship and benefitting local nonprofit community partners through the execution of student projects.
 - **Workshops**: Instructor-led events and activities focusing on an educational topic.
