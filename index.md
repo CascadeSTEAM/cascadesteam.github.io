@@ -18,8 +18,8 @@ STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, an
 
 ## News
 - [Cascade STEAM Mentorship Program Launches](/mentorship)
-- [Whatcom STEM Changes Name to Cascade STEAM](/news-2023-10-11)
-- [Whatcom STEM Announces Formation](/news-2023-05-09)
+
+See our [News Page](/news) for more.
 
 ## Events
 Free. Open to everyone. All are welcome. Family friendly. Bring your friends! See our [Meetup Page](https://meetup.com/cascadesteam) for all scheduled events and descriptions of our programs below.
