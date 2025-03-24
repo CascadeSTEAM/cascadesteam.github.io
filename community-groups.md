@@ -21,8 +21,8 @@ Each Community Group is led by volunteer organizers and meets separately in a re
 
 Community Groups include: 
 - **Bellingham Codes** led by [Kevin Stock](mailto:kevin@toolhouse.com) and [Ryan Shupe](mailto:ryan.shupe@gmail.com) in collaboration with [Bellingham Codes](https://bellingham.codes) focusing on all aspects of software development.
-- **Bellingham Linux Users Group** led by Brian Parks and [Garth Johnson](mailto:garth.johnson@cascadesteam.org) in collaboration with [LinuxFest Northwest](https://lfnw.org) focusing on the Linux operating system, open source hardware, and open source software.
-- **Citizen Science** led by [Gil Lund](mailto:gil.lund@cascadesteam.org) and [Michael Gan](mailto:michael.gan@cascadesteam.org) focusing on science and community science projects.
+- **Bellingham Linux Users Group** led by [Brian Parks](mailto:brian.parks@cascadesteam.org) and [Garth Johnson](mailto:garth.johnson@cascadesteam.org) in collaboration with [LinuxFest Northwest](https://lfnw.org) focusing on the Linux operating system and open source software and hardware.
+- **Citizen Science** led by [Gil Lund](mailto:gil.lund@cascadesteam.org) and [Michael Gan](mailto:michael.gan@cascadesteam.org) focusing on science and science-related community projects.
 - **Cybersecurity** led by [David Hirsch](mailto:david.hirsch@cascadesteam.org) and [Marty Mulholland](mailto:marty.mulholland@cascadesteam.org) focusing on all aspects of cybersecurity.
 - **Data Engineering** led by [Ian Hogan](mailto:ian.hogan@cascadesteam.org) and [Ryan Christensen](mailto:ryan.christensen@cascadesteam.org) focusing on all aspects of data engineering, including data storage and access, artificial intelligence (AI), machine learning (ML), and large language models (LLMs).
 
@@ -49,12 +49,13 @@ Government Partners:
 - [Bellingham Public Library](https://bellinghampubliclibrary.org)
 
 ## Start A New Community Group!
-Are you interested to start a new Community Group? We invite you to do so with Cascade STEAM! We offer shared resources to organizers to simplify community collaboration, event management, and event promotion to help organizers focus on their positive community impact.
+Are you interested to start a new Community Group? Are your interests in alignment of the mission of Cascade STEAM? Create a Cascade STEAM Community Group! We offer shared resources to organizers to simplify community collaboration, event management, and event promotion to help organizers focus on their positive community impact.
 
 Shared resources include:
 - Entry on *[this website!](https://cascadesteam.org)* for awareness
 - A dedicated channel on our [Community Hub](http://hub.cascadesteam.org) (Discord) for discussion
 - [Meetup](https://meetup.com/cascadesteam) to manage and promote your events to the public
+- [Zoom](https://zoom.com) to host virtual events with Zoom Pro features
 - [LinkedIn](https://linkedin.com/company/cascadesteam) to promote your activities to professional networks
 - [Facebook](https://facebook.com/cascadesteam) to promote your activities to personal networks
 - [Google Workspace](https://workspace.google.com) to organize collaboration with an organization email address and Google Drive Shared Folder
