@@ -25,6 +25,7 @@ Community Groups include:
 - **Citizen Science** led by [Gil Lund](mailto:gil.lund@cascadesteam.org) and [Michael Gan](mailto:michael.gan@cascadesteam.org) focusing on science and science-related community projects.
 - **Cybersecurity** led by [David Hirsch](mailto:david.hirsch@cascadesteam.org) and [Marty Mulholland](mailto:marty.mulholland@cascadesteam.org) focusing on all aspects of cybersecurity.
 - **Data Engineering** led by [Ian Hogan](mailto:ian.hogan@cascadesteam.org) and [Ryan Christensen](mailto:ryan.christensen@cascadesteam.org) focusing on all aspects of data engineering, including data storage and access, artificial intelligence (AI), machine learning (ML), and large language models (LLMs).
+- **Engineering** led by [Kris Keillor](mailto:kris.keillor@cascadesteam.org) and [Riley Liddle](mailto:riley.liddle@cascadesteam.org) focusing on all aspects of engineering, including robotics.
 
 ## Partners
 Cascade STEAM Community Groups are made possible through the commitment of volunteer organizers and open collaboration of partners, including:
