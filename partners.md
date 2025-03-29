@@ -10,7 +10,7 @@
 [![Cascade STEAM Logo](/assets/images/Cascade_STEAM_horizontal_logo_primary_1.png)](https://cascadesteam.org)
 
 # Partners
-Cascade STEAM is made possible through the commitment of [volunteer leaders](/leaders) and open collaboration of partners, including:
+Cascade STEAM is made possible through the commitment of [volunteer leadership](/leadership) and open collaboration of partners, including:
 
 **Community Partners:**
 - [Bellingham Codes](https://bellingham.codes)
