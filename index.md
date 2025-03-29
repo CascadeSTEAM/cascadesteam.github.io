@@ -15,7 +15,7 @@
 
 <br>
 
-# Cascade STEAM
+# Home
 
 ## About Us
 Cascade STEAM is a new 501(c)(3) nonprofit organization dedicated to improving STEAM Education, Career Connected Learning, Digital Literacy, and Digital Equity for all people of all ages.
