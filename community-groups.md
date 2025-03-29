@@ -27,27 +27,7 @@ Community Groups include:
 - **Data Engineering** led by [Ian Hogan](mailto:ian.hogan@cascadesteam.org) and [Ryan Christensen](mailto:ryan.christensen@cascadesteam.org) focusing on all aspects of data engineering, including data storage and access, artificial intelligence (AI), machine learning (ML), and large language models (LLMs).
 - **Engineering** led by [Kris Keillor](mailto:kris.keillor@cascadesteam.org) and [Riley Liddle](mailto:riley.liddle@cascadesteam.org) focusing on all aspects of engineering, including robotics.
 
-## Partners
-Cascade STEAM Community Groups are made possible through the commitment of volunteer organizers and open collaboration of partners, including:
-
-Community Partners:
-- [Bellingham Codes](https://bellingham.codes)
-- [Bellingham Makerspace](https://bellinghammakerspace.org)
-- [Computers 4 People in Need](https://c4pin.org)
-- [LinuxFest Northwest](https://lfnw.org)
-
-Education Partners:
-- [Bellingham Public Schools](https://bellinghamschools.org)
-- [Bellingham Technical College](https://btc.edu)
-- [Skagit Valley College](https://skagit.edu)
-- [Western Washington University](https://wwu.edu)
-- [Whatcom Community College](https://whatcom.edu)
-
-Student Group Partners:
-- [Bellingham Technical College Raspberry Pi Club](https://www.raspberrypiclub.org)
-
-Government Partners:
-- [Bellingham Public Library](https://bellinghampubliclibrary.org)
+Community Groups are made possible through the commitment of [volunteer leaders](/leaders) and open collaboration of [partners](/partners). Thank you all for your efforts.
 
 ## Start A New Community Group!
 Are you interested to start a new Community Group? Are your interests in alignment of the mission of Cascade STEAM? Create a Cascade STEAM Community Group! We offer shared resources to organizers to simplify community collaboration, event management, and event promotion to help organizers focus on their positive community impact.
