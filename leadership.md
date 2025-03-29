@@ -9,6 +9,12 @@
 
 [![Cascade STEAM Logo](/assets/images/Cascade_STEAM_horizontal_logo_primary_1.png)](https://cascadesteam.org)
 
+<br>
+
+[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Community Groups](/community-groups) | [Mentorship](/mentorship)
+
+<br>
+
 # Leadership
 Cascade STEAM is made possible through the commitment of volunteer leadership and open collaboration of [partners](/partners). Thank you all for your efforts. Leadership includes:
 
