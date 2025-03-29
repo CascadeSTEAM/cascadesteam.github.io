@@ -10,7 +10,6 @@
 [![Cascade STEAM Logo](/assets/images/Cascade_STEAM_horizontal_logo_primary_1.png)](https://cascadesteam.org)
 
 # Organization Overview
-Updated 2025-02-28
 
 ## Introduction
 Cascade STEAM is a new 501(c)(3) nonprofit organization dedicated to improving STEAM Education, Career Connected Learning, Digital Literacy, and Digital Equity for all people of all ages.
@@ -53,13 +52,7 @@ In alignment with organization purpose, mission, and values, we will facilitate 
 ## Structure
 
 ### Composition
-The organization is comprised of a Board of Directors and Board Committees, with individuals representing (1) science, technology, engineering, arts, and mathematics, (2) education, (3) industry, (4) local government, and (5) community interests.
-
-### Current Board of Directors
-- Michael Gan, President
-- Garth Johnson, Vice President & Treasurer
-- Joshua Buker, Secretary
-- Leslie Brendible
+The organization is comprised of a Board of Directors and Board Committees, with individuals representing (1) the fields of science, technology, engineering, arts, and mathematics, (2) education, industry, local government, and nonprofit sectors, and (3) community interests. Refer to our [volunteer leadership](/leadership) and [partners](/partners) for current leadership members and collaborators.
 
 ### Terms
 Board and Committee Members are welcomed via invitation from the Board President upon approval by the Board of Directors. Board and Committee Members serve in a volunteer capacity indefinitely, until either resignation or dismissal. All official Board activity will be delivered in writing by the Board President, including invitation, acceptance, resignation, and dismissal.
