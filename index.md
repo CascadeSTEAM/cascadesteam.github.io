@@ -50,7 +50,7 @@ Join our [Community Hub](http://hub.cascadesteam.org) to connect virtually with 
 Please see our [Organization Page](/organization) to review our mission, values, structure, and opportunities for engagement.
 
 ## Get Involved!
-Are you a professional in the fields of science, technology, engineering, arts, or mathematics? Do you represent education, industry, local government, or workforce development? Are you interested in contributing to the mission of Cascade STEAM? Please share your feedback and interests via our [Community Survey](http://community-survey.cascadesteam.org).
+Are you interested in contributing to the mission of Cascade STEAM? Please share your feedback and interests via our [Community Survey](http://community-survey.cascadesteam.org).
 
 ## Contact Us
 Are you interested to get involved? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://hub.cascadesteam.org).
