@@ -17,7 +17,6 @@
 
 # Organization
 
-## Introduction
 Cascade STEAM is a new 501(c)(3) nonprofit organization dedicated to improving STEAM Education, Career Connected Learning, Digital Literacy, and Digital Equity for all people of all ages.
 
 STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, and Mathematics. STEAM education is a powerful framework to promote curiosity and creativity, encourage a shared learning experience, and build tools to solve important life challenges. We advocate through development and promotion of events, activities, and programs, and invite collaboration with community partners in shared purpose.

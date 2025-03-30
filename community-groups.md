@@ -17,7 +17,6 @@
 
 # Community Groups
 
-## Overview
 Cascade STEAM Community Groups convene aspiring, current, and retired professionals interested in a STEAM topic to connect with fellow community members, discuss technical topics, participate in community building and community service programs, and collaborate with organizations in shared purpose on community projects.
 
 *Free. Open to Everyone. All are welcome. Family Friendly. Bring your friends!*
