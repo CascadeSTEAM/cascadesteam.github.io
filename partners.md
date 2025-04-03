@@ -21,6 +21,7 @@ Cascade STEAM is made possible through the commitment of [volunteer leadership](
 **Community Partners:**
 - [Bellingham Codes](https://bellingham.codes)
 - [Bellingham Makerspace](https://bellinghammakerspace.org)
+- [Bellingham Tableau User Group](https://usergroups.tableau.com/bellingham-tableau-user-group)
 - [Computers 4 People in Need](https://c4pin.org)
 - [LinuxFest Northwest](https://lfnw.org)
 
