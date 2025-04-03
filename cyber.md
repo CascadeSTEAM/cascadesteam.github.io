@@ -21,15 +21,10 @@ Welcome to Cascade STEAM’s Cyber-focused community group!
 
 We are just getting started as a community group and we’d love to have you join us at an upcoming meeting. Meetings are free and all are welcome. Please help us by spreading the word to friends and colleagues!
 
-Watch this page for more information. 
-
-## Anticipated Meeting Dates & Times:
-- 2nd Thursday of each month (excluding August and December)
-- 5:30pm-7pm 
-- Locations will vary
-- Meeting details available on this page, the [Cascade STEAM Community Hub](http://hub.cascadesteam.org), and the [Cascade STEAM Meetup Page](https://www.meetup.com/cascadesteam)
+We plan to meet on the second Thursday of the Month from 5:30-7:00pm at various locations. Meeting details will be available on this page, the [Cascade STEAM Community Hub](http://hub.cascadesteam.org), and the [Cascade STEAM Meetup Page](https://www.meetup.com/cascadesteam).
 
 ## Startup Meeting
+
 Anyone with an interest in cybersecurity is welcome and encouraged to attend!
 
 **Cascade STEAM Cyber Startup Meeting**<br>
@@ -48,6 +43,7 @@ Bellingham Makerspace<br>
 6:45pm - 7pm - Wrap-up
 
 ## Upcoming Meetings
+Expected upcoming dates are:
 - Thu Jun 12, 2025
 - Thu Jul 10, 2025
 - Thu Sep 11, 2025
