@@ -16,16 +16,17 @@
 <br>
 
 # Leadership
-Cascade STEAM is made possible through the commitment of volunteer leadership and open collaboration of [partners](/partners). Thank you all for your efforts. Leadership includes:
+Cascade STEAM is made possible through the commitment of volunteer leadership and open collaboration of [partners](/partners). Cascade STEAM Leadership includes Board of Directors, Organizers, and Advisory Committee Members. Thank you all for your efforts.
 
-**Board of Directors**
+## Board of Directors
 - Michael Gan, President ([LinkedIn](https://www.linkedin.com/in/michaelbgan), [Email](mailto:michael.gan@cascadesteam.org))
 - Garth Johnson, Vice President & Treasurer ([LinkedIn](https://www.linkedin.com/in/growlf), [Email](mailto:@cascadesteam.org))
 - Josh Buker, Secretary ([LinkedIn](https://www.linkedin.com/in/joshbuker), [Email](mailto:@cascadesteam.org))
 - Leslie Brendible ([LinkedIn](https://www.linkedin.com/in/lesliebrendible), [Email](mailto:@cascadesteam.org))
 
-**Community Group Organizers**
+## Organizers
 - Ryan Christensen ([LinkedIn](https://www.linkedin.com/in/rpchristensen), [Email](mailto:ryan.christensen@cascadesteam.org))
+- Shay Colson ([LinkedIn](https://www.linkedin.com/in/shaycolson))
 - Michael Gan ([LinkedIn](https://www.linkedin.com/in/michaelbgan), [Email](mailto:michael.gan@cascadesteam.org))
 - David Hirsch ([LinkedIn](https://www.linkedin.com/in/davidhirsch3), [Email](mailto:david.hirsch@cascadesteam.org))
 - Ian Hogan ([LinkedIn](https://www.linkedin.com/in/ianh007), [Email](mailto:ian.hogan@cascadesteam.org))
@@ -38,9 +39,8 @@ Cascade STEAM is made possible through the commitment of volunteer leadership an
 - Ryan Shupe ([LinkedIn](https://www.linkedin.com/in/ryan-shupe-74a48219), [Email](mailto:ryan.shupe@gmail.com))
 - Kevin Stock ([LinkedIn](https://www.linkedin.com/in/kevinstock), [Email](mailto:kevin@toolhouse.com))
   
-NOTE: All Community Group Organizers are also members of the Advisory Committee.
-
-**Advisory Committee**
+## Advisory Committee
+All Organizers are also members of the Advisory Committee. Additional Advisory Committee Members include:
 - Sam Groveman ([LinkedIn](https://www.linkedin.com/in/samgroveman), [Email](mailto:sam.groveman@cascadesteam.org))
 - Gina Stark ([LinkedIn](https://www.linkedin.com/in/gina-stark-00608a2a), [Email](mailto:gina.stark@cascadesteam.org))
 
