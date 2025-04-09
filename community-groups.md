@@ -22,19 +22,17 @@ Cascade STEAM Community Groups convene aspiring, current, and retired profession
 *Free. Open to Everyone. All are welcome. Family Friendly. Bring your friends!*
 
 ## Current Community Groups
-Each Community Group is led by volunteer organizers and meets separately in a recurring ~monthly meeting. Scheduled events can be found on the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) . Community Groups include:
+Community Groups are made possible through the commitment of [volunteer leadership](/leadership) and open collaboration of [partners](/partners). Scheduled events can be found on the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam). Community Groups include:
 
-- **[Bellingham Linux Users Group](https://blug.org)** led by [Brian Parks](mailto:brian.parks@cascadesteam.org) and [Garth Johnson](mailto:garth.johnson@cascadesteam.org) in collaboration with [LinuxFest Northwest](https://lfnw.org) focusing on the Linux operating system and open source software and hardware.
-- **Citizen Science** led by [Gil Lund](mailto:gil.lund@cascadesteam.org) and [Michael Gan](mailto:michael.gan@cascadesteam.org) focusing on science and science-related community projects.
-- **[Cyber](/cyber)** led by [David Hirsch](mailto:david.hirsch@cascadesteam.org) and [Marty Mulholland](mailto:marty.mulholland@cascadesteam.org) focusing on all aspects of cybersecurity.
-- **Data Engineering** led by [Ian Hogan](mailto:ian.hogan@cascadesteam.org) and [Ryan Christensen](mailto:ryan.christensen@cascadesteam.org) focusing on all aspects of data engineering, including data storage and access, artificial intelligence (AI), machine learning (ML), and large language models (LLMs).
-- **Engineering** led by [Kris Keillor](mailto:kris.keillor@cascadesteam.org) and [Riley Liddle](mailto:riley.liddle@cascadesteam.org) focusing on all aspects of engineering, including robotics.
+- **[Bellingham Linux Users Group](https://blug.org)**: Linux operating system and open source software and hardware (in collaboration with [LinuxFest Northwest](https://lfnw.org))
+- **Citizen Science**: science, in particular life sciences
+- **[Cyber](/cyber)**: cybersecurity
+- **Data Engineering**: data engineering, including data storage and access, artificial intelligence (AI), machine learning (ML), and large language models (LLMs)
+- **Engineering**: engineering, including robotics
 
-Community Partners:
-
-- **[Bellingham Codes](https://bellingham.codes)** led by [Kevin Stock](mailto:kevin@toolhouse.com) and [Ryan Shupe](mailto:ryan.shupe@gmail.com) focusing on all aspects of software development. (See the  [Bellingham Codes Meetup Page](https://meetup.com/bellinghamcodes) for scheduled events.)
-
-Community Groups are made possible through the commitment of [volunteer leadership](/leadership) and open collaboration of [partners](/partners). Thank you all for your efforts.
+Cascade STEAM collaborates with other local community groups, including:
+- **[Bellingham Codes](https://bellingham.codes)**: software development ([Meetup](https://meetup.com/bellinghamcodes))
+- **[Bellingham Tableau User Group](https://usergroups.tableau.com/bellingham-tableau-user-group/)**: Tableau Software and related data analytics topics
 
 ## Start A New Community Group!
 Are you interested to start a new Community Group? Are your interests in alignment of the mission of Cascade STEAM? Create a Cascade STEAM Community Group! We offer shared resources to organizers to simplify community collaboration, event management, and event promotion to help organizers focus on their positive community impact.
