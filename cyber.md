@@ -43,7 +43,7 @@ Bellingham Makerspace<br>
 6:45pm - 7pm - Wrap-up
 
 ## Organizers
-Volunteeer Organizers of the Cascade STEAM Cyber Community Group are [David Hirsch](mailto:david.hirsch@cascadesteam.org) and [Marty Mulholland](mailto:marty.mulholland@cascadesteam.org). Please contact [cyber@cascadesteam.org](mailto:cyber@cascadesteam.org) for general inquiries.
+Volunteeer Organizers of the Cascade STEAM Cyber Community Group are [Marty Mulholland](https://www.linkedin.com/in/mulholland99), [David Hirsch](https://www.linkedin.com/in/davidhirsch3), and [Shay Colson](https://www.linkedin.com/in/shaycolson). Please contact [cyber@cascadesteam.org](mailto:cyber@cascadesteam.org) for general inquiries.
 
 ## Upcoming Meetings
 Expected upcoming dates are:
