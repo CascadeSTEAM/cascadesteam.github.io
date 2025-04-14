@@ -49,11 +49,11 @@ Join our [Community Hub](http://hub.cascadesteam.org) to connect virtually with 
 - [LinkedIn](https://linkedin.com/company/cascadesteam) to share our activity with your professional network.
 - [Facebook](https://facebook.com/cascadesteam) to share our activity with your personal network.
 
+## Code of Conduct
+All participants of Cascade STEAM events, activities, and programs agree to review and commit to the [Cascade STEAM Code of Conduct](/conduct).
+
 ## Organization
 Cascade STEAM is made possible through the commitment of [volunteer leadership](/leadership) and open collaboration of [partners](/partners). Thank you all for your efforts. Please see our [Organization Page](/organization) to review our mission, values, structure, and opportunities for engagement.
-
-## Code of Conduct
-All participants of Cascade STEAM events, activities, or programs agree to review and commit to the [Cascade STEAM Code of Conduct](/conduct).
 
 ## Get Involved!
 Are you interested in contributing to the mission of Cascade STEAM? Please share your feedback and interests via our [Community Survey](http://community-survey.cascadesteam.org).
