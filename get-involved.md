@@ -72,7 +72,23 @@ Here are a few areas where we can plug you in now! Don’t see what you are look
 - Assist in the development of the Digital Navigators Program.
 - Become a Digital Navigators Program co-organizer.
 
+## Committees
+
+### Advisory
+Join the Advisory Committee to share your expertise and collaborate with Cascade STEAM and fellow members of [volunteer leadership](/leadership).
+
+### Engagement
+Join the Engagement Committee to help promote Cascade STEAM Programs with partners and social media, and strategize future engagement efforts.
+
+### Executive
+Join the Executive Committee as Treasurer and contribute your financial management expertise.
+
+### Finance
+Join the Finance Committee to help fund Cascade STEAM efforts through development of grants, contracts, and donations.
+
+### Program
+Join the Program Committee to help support and evolve Cascade STEAM Programs and Events to serve the interests of the community.
+
 ## Contact Us
 Interested to get involved? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://discord.cascadesteam.org).
-Interested to get involved with Cascade STEAM!? In addition to participating in our free events and programs, we invite you to plug into any Program that piques your interest.
 
