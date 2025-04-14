@@ -23,16 +23,17 @@ Cascade STEAM Mentorship connects community members interested in STEAM in eithe
 
 "Peer Mentorship" pairs either junior or senior members together to create a peer relationship as they work on self improvement topics together. Goals are separately established by each peer based on their own interests, and mentorship occurs via the collaboration, accountability, and encouragement of Peer Mentorship partners.
 
-For Spring/Summer 2025, Mentorship is designed for college students, professionals, and retired professionals. Stay tuned for the expansion of mentorship for those younger than 18 years old. 
+For Summer 2025, Mentorship is designed for those 18 years of age or older - high school students, college students, professionals, and retired professionals. Stay tuned for the expansion of mentorship for those younger than 18 years of age. 
 
 ## How It Works
 
-- You must be 18 years of age by May 1, 2025 to apply.
-- If you are not yet a member of the [Cascade STEAM Community Hub](http://hub.cascadesteam.org) (Discord), we welcome you to [create a Discord account](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started) and join our server, although this is NOT required. We use Discord for public, private, and group communications.
+- You must be 18 years of age by June 5, 2025 to apply.
 - Submit your application to participate as a Mentee, Mentor, or Peer Mentor Partner by April 28, 2025.
 - Mentorship Program Organizers will match applicants based on interests.
-- Mentorship Pairs are introduced on May 1, 2025.
-- Participants meet with their mentorship partner ~twice per month for ~one hour in May, June, & July. A mentorship handbook will be provided to help provide a positive mentorship experience for all.
+- Mentorship Pairs are introduced on June 5, 2025.
+- A mentorship handbook will be provided to help provide a positive mentorship experience for all, which provides recommendations for those new to mentorship.
+- Participants meet with their mentorship partner ~twice per month for ~one hour in each month of the quarter.
+- Open discussion occurs on the [Cascade STEAM Community Hub](http://hub.cascadesteam.org) (Discord). Private conversation occurs in any format of interest to all parties - in person, phone, online, etc.
 - While organized mentorship activities for this cohort end after a three month period, we encourage participants to stay connected.
 
 [> APPLY NOW <](https://forms.gle/rZ5ExToQ8iWdXo5u8)
