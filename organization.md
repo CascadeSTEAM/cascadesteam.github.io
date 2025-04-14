@@ -11,7 +11,7 @@
 
 <br>
 
-[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Community Groups](/community-groups) | [Mentorship](/mentorship)
+[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Get Involved](/get-involved) | [Community Groups](/community-groups) | [Mentorship](/mentorship)
 
 <br>
 
@@ -63,7 +63,7 @@ The organization is comprised of a Board of Directors and Board Committees, with
 Board and Committee Members are welcomed via invitation from the Board President upon approval by the Board of Directors. Board and Committee Members serve in a volunteer capacity indefinitely, until either resignation or dismissal. All official Board activity will be delivered in writing by the Board President, including invitation, acceptance, resignation, and dismissal.
 
 ### Committees
-Committees assist in creation and management of core organization tasks. Committees are designed to be led by a board member, and be composed of board members, committee members, and community members. Objectives are determined by agreement between the Board of Directors and each respective committee. Input and participation from the community is crucial and welcomed to ensure alignment of community interests.
+Committees assist in creation and management of core organization tasks. Committees are designed to be led by a board member, and be composed of board members, committee members, and community members. Objectives are determined by agreement between the Board of Directors and each respective committee. Input and participation from the community is crucial to ensure alignment of community interests.
 
 Committees include:
 - Executive: Strategize and manage alignment of priorities.
