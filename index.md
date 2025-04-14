@@ -56,7 +56,7 @@ All participants of Cascade STEAM events, activities, and programs agree to revi
 Cascade STEAM is made possible through the commitment of [volunteer leadership](/leadership) and open collaboration of [partners](/partners). Thank you all for your efforts. Please see our [Organization Page](/organization) to review our mission, values, structure, and opportunities for engagement.
 
 ## Get Involved!
-Are you interested in contributing to the mission of Cascade STEAM? Please share your feedback and interests via our [Community Survey](http://community-survey.cascadesteam.org).
+We welcome all people of all ages to [get involved](/get-involved) and help support our mission. Learn how you can support existing efforts or bring your passions to Cascade STEAM and launch new efforts.
 
 ## Contact Us
 Are you interested to get involved? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://hub.cascadesteam.org).
