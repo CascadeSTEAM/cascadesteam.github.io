@@ -25,6 +25,7 @@ Cascade STEAM is made possible through the commitment of [volunteer leadership](
 - [Computers 4 People in Need](https://c4pin.org)
 - [LinuxFest Northwest](https://lfnw.org)
 - [Innovate Bellingham](https://innovatebellingham.org)
+- [RE Sources](https://re-sources.org)
 
 ## Education Partners
 - [Bellingham Public Schools](https://bellinghamschools.org)
