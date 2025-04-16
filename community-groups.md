@@ -25,7 +25,7 @@ Cascade STEAM Community Groups convene aspiring, current, and retired profession
 Community Groups are made possible through the commitment of [volunteer leadership](/leadership) and open collaboration of [partners](/partners). Scheduled events can be found on the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam). Community Groups include:
 
 - **[Bellingham Linux Users Group](https://blug.org)**: Linux operating system and open source software and hardware (in collaboration with [LinuxFest Northwest](https://lfnw.org))
-- **Citizen Science**: science, in particular life sciences
+- **[Citizen Science](/citizen-science)**: science, in particular life sciences
 - **[Cyber](/cyber)**: cybersecurity
 - **Data Engineering**: data engineering, including data storage and access, artificial intelligence (AI), machine learning (ML), and large language models (LLMs)
 - **Engineering**: engineering, including robotics
