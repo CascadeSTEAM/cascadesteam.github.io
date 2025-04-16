@@ -11,7 +11,7 @@
 
 <br>
 
-[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Get Involved](/get-involved) | [Community Groups](/community-groups) | [Mentorship](/mentorship)
+[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Get Involved](/get-involved) | [Community Groups](/community-groups) | [Community Projects](/community-projects) | [Mentorship](/mentorship)
 
 <br>
 
