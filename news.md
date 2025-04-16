@@ -11,12 +11,13 @@
 
 <br>
 
-[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Get Involved](/get-involved) | [Community Groups](/community-groups) | [Mentorship](/mentorship)
+[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Get Involved](/get-involved) | [Community Groups](/community-groups) | [Community Projects](/community-projects) |[Mentorship](/mentorship)
 
 <br>
 
 # News
 
+- [April 16, 2025: Cascade STEAM Community Projects Launched](/community-projects)
 - [March 19, 2025: Cascade STEAM Community Groups Launched](/community-groups)
 - [March 6, 2025: Cascade STEAM Mentorship Program Launches](/mentorship)
 - [October 11, 2023: Whatcom STEM Changes Name to Cascade STEAM](/news-2023-10-11)
