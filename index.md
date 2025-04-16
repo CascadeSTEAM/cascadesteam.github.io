@@ -11,7 +11,7 @@
 
 <br>
 
-[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Get Involved](/get-involved) | [Community Groups](/community-groups) | [Mentorship](/mentorship)
+[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Get Involved](/get-involved) | [Community Groups](/community-groups) | [Community Projects](/community-projects) |[Mentorship](/mentorship)
 
 <br>
 
@@ -30,11 +30,11 @@ See our [News Page](/news) for past topics.
 ## Programs
 Our efforts are organized into programs, each of which is rooted in education, shared learning experiences, building relationships, and positive community impact, including:
 - **[Community Groups](/community-groups)**: Organizing communities of aspiring, current, and retired professionals focusing on a STEAM topic.
+- **[Community Projects](/community-projects)**: Shared learning experiences focusing on positive community impact, often collaborating with community partners.
 - **[Mentorship](/mentorship)**: Connecting students and professionals, junior and senior professionals, and/or peers for organized and supportive personal and professional improvement.
 - **Internship**: Supporting students through internship and benefitting local nonprofit community partners through the execution of student projects.
 - **Workshops**: Instructor-led events and activities focusing on an educational topic.
 - **Group Projects**: Shared learning experiences focusing on an educational topic.
-- **Community Projects**: Shared learning experiences focusing on positive community impact, often collaborating with community partners.
 - **Volunteers**: Organizing the volunteer needs of both Cascade STEAM programs and facilitating the STEAM-related needs of community partners.
 - **Digital Navigators**: Providing basic technology support to the community, focusing on community service and supporting social service providers. 
 
