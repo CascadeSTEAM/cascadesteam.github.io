@@ -17,6 +17,7 @@
 
 # News
 
+- [April 16, 2025: Cascade STEAM Community Update - April 2025](/news-2025-04-16.md)
 - [April 16, 2025: Cascade STEAM Community Projects Launched](/community-projects)
 - [March 19, 2025: Cascade STEAM Community Groups Launched](/community-groups)
 - [March 6, 2025: Cascade STEAM Mentorship Program Launches](/mentorship)
