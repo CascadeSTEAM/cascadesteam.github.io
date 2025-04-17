@@ -27,7 +27,7 @@ Community Groups are made possible through the commitment of [volunteer leadersh
 - **[Bellingham Linux Users Group](https://blug.org)**: Linux operating system and open source software and hardware (in collaboration with [LinuxFest Northwest](https://lfnw.org))
 - **[Citizen Science](/citizen-science)**: science, in particular life sciences
 - **[Cyber](/cyber)**: cybersecurity
-- **Data Engineering**: data engineering, including data storage and access, artificial intelligence (AI), machine learning (ML), and large language models (LLMs)
+- **[Data Engineering](/data-engineering)**: data engineering, including data storage and access, artificial intelligence (AI), machine learning (ML), and large language models (LLMs)
 - **Engineering**: engineering, including robotics
 
 Cascade STEAM collaborates with other local community groups, including:
