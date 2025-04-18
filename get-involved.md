@@ -77,10 +77,10 @@ Here are a few areas where we can plug you in now! Don’t see what you are look
 - Collaborate with fellow members of [volunteer leadership](/leadership) in areas of your expertise in support of Cascade STEAM efforts.
 
 ### Engagement Committee
-- Help create marketing materials to help promote Cascade STEAM programs.
+- Help create marketing materials to promote Cascade STEAM programs.
 - Help create the monthly Community Update, a newsletter-like communication promoting scheduled events and active programs.
 - Help with social media promotion on LinkedIn and/or Facebook or suggest other platforms to engage.
-- Help with partner outreach to education, employer, nonprofit, local government, and workforce partners.
+- Help with outreach to potential education, employer, nonprofit, local government, and workforce partners.
 
 ### Finance Committee
 - Help establish funding for Cascade STEAM through development of grants, contracts, and donations.
