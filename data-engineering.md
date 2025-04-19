@@ -11,7 +11,7 @@
 
 <br>
 
-[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Get Involved](/get-involved) | [Community Groups](/community-groups) | [Community Projects](/community-projects) |[Mentorship](/mentorship)
+[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Get Involved](/get-involved) | [Donate](/donate) | [Community Groups](/community-groups) | [Community Projects](/community-projects) | [Mentorship](/mentorship)
 
 <br>
 
@@ -27,9 +27,9 @@ We plan to meet \~monthly on various days and locations from 6:00pm-7:30pm. Meet
 
 Next Meeting:
 
-Cascade STEAM Data Engineering \- Data Lakes  
-Thursday, April 24, 2025 6:00pm-7:30pm  
-Bellingham Makerspace  
+Cascade STEAM Data Engineering \- Data Lakes<br>
+Thursday, April 24, 2025 6:00pm-7:30pm<br>
+Bellingham Makerspace<br>
 [1 Bellis Fair Parkway \#618, Bellingham, WA 98225](https://www.google.com/maps/place/1+Bellis+Fair+Pkwy+%23+618,+Bellingham,+WA+98226/)
 
 ## Organizers
@@ -37,4 +37,5 @@ Bellingham Makerspace
 [Volunteer Organizers](/leadership) of the Cascade STEAM Citizen Science Community Group are [Ryan Christensen](https://www.linkedin.com/in/rpchristensen/) and [Ian Hogan](https://www.linkedin.com/in/ianh007/). Please contact [data-engineering@cascadesteam.org](mailto:data-engineering@cascadesteam.org) for general inquiries.
 
 ## Contact Us
+
 Interested to [get involved](/get-involved)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://hub.cascadesteam.org).

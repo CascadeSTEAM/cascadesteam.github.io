@@ -11,14 +11,16 @@
 
 <br>
 
-[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Get Involved](/get-involved) | [Community Groups](/community-groups) | [Community Projects](/community-projects) |[Mentorship](/mentorship)
+[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Get Involved](/get-involved) | [Donate](/donate) | [Community Groups](/community-groups) | [Community Projects](/community-projects) | [Mentorship](/mentorship)
 
 <br>
 
 # Partners
+
 Cascade STEAM is made possible through the commitment of [volunteer leadership](/leadership) and open collaboration of partners. Thank you all for your efforts. Partners include:
 
 ## Community Partners
+
 - [Bellingham Codes](https://bellingham.codes)
 - [Bellingham Makerspace](https://bellinghammakerspace.org)
 - [Bellingham Tableau User Group](https://usergroups.tableau.com/bellingham-tableau-user-group)
@@ -28,6 +30,7 @@ Cascade STEAM is made possible through the commitment of [volunteer leadership](
 - [RE Sources](https://re-sources.org)
 
 ## Education Partners
+
 - [Bellingham Public Schools](https://bellinghamschools.org)
 - [Bellingham Technical College](https://btc.edu)
 - [Bellingham Technical College Raspberry Pi Club](https://www.raspberrypiclub.org)
@@ -36,12 +39,15 @@ Cascade STEAM is made possible through the commitment of [volunteer leadership](
 - [Whatcom Community College](https://whatcom.edu)
 
 ## Government & Workforce Partners
+
 - [Bellingham Public Library](https://bellinghampubliclibrary.org)
 - [Economic Development Association of Skagit County (EDASC)](https://skagit.org)
 
 ## Affiliate Partners
+
 - [Technology Alliance](https://technology-alliance.com)
 - [North Central Washington Technology Alliance](https://ncwtech.org)
 
 ## Contact Us
-Interested to get involved? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://discord.cascadesteam.org).
+
+Interested to [get involved](/get-involved)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://discord.cascadesteam.org).

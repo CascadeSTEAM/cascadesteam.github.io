@@ -11,7 +11,7 @@
 
 <br>
 
-[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Get Involved](/get-involved) | [Community Groups](/community-groups) | [Community Projects](/community-projects) |[Mentorship](/mentorship)
+[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Get Involved](/get-involved) | [Donate](/donate) | [Community Groups](/community-groups) | [Community Projects](/community-projects) | [Mentorship](/mentorship)
 
 <br>
 
@@ -43,9 +43,11 @@ Bellingham Makerspace<br>
 6:45pm - 7pm - Wrap-up
 
 ## Organizers
+
 Volunteeer Organizers of the Cascade STEAM Cyber Community Group are [Marty Mulholland](https://www.linkedin.com/in/mulholland99), [David Hirsch](https://www.linkedin.com/in/davidhirsch3), and [Shay Colson](https://www.linkedin.com/in/shaycolson). Please contact [cyber@cascadesteam.org](mailto:cyber@cascadesteam.org) for general inquiries.
 
 ## Upcoming Meetings
+
 Expected upcoming dates are:
 - Thu Jun 12, 2025
 - Thu Jul 10, 2025
@@ -54,4 +56,5 @@ Expected upcoming dates are:
 - Thu Nov 13, 2025
 
 ## Contact Us
-Interested to get involved? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://discord.cascadesteam.org).
+
+Interested to [get involved](/get-involved)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://discord.cascadesteam.org).

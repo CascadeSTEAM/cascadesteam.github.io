@@ -11,7 +11,7 @@
 
 <br>
 
-[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Get Involved](/get-involved) | [Community Groups](/community-groups) | [Community Projects](/community-projects) | [Mentorship](/mentorship)
+[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Get Involved](/get-involved) | [Donate](/donate) | [Community Groups](/community-groups) | [Community Projects](/community-projects) | [Mentorship](/mentorship)
 
 <br>
 
@@ -38,7 +38,7 @@ Cascade STEAM collaborates with other local community groups, including:
 Are you interested to start a new Community Group? Are your interests in alignment of the mission of Cascade STEAM? Create a Cascade STEAM Community Group! We offer shared resources to organizers to simplify community collaboration, event management, and event promotion to help organizers focus on their positive community impact.
 
 Shared resources include:
-- Entry on *[this website!](https://cascadesteam.org)* for awareness
+- Entry on [our website!](https://cascadesteam.org) to raise awareness
 - A dedicated channel on our [Community Hub](http://hub.cascadesteam.org) (Discord) for discussion
 - [Meetup](https://meetup.com/cascadesteam) to manage and promote your events to the public
 - [Zoom](https://zoom.com) to host virtual events with Zoom Pro features
@@ -47,4 +47,4 @@ Shared resources include:
 - [Google Workspace](https://workspace.google.com) to organize collaboration with an organization email address and Google Drive Shared Folder
 
 ## Contact Us
-Interested to get involved? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://discord.cascadesteam.org).
+Interested to [get involved](/get-involved)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://discord.cascadesteam.org).
