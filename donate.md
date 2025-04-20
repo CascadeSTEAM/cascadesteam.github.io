@@ -23,7 +23,7 @@ Cascade STEAM is community supported - we are NOT a member organization with mem
 
 We have four methods to accept your donation: Check, [PayPal Giving Fund](https://www.paypal.com/fundraiser/charity/5056769), [PayPal](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C), or [Venmo](https://account.venmo.com/charity/donate?charity=3993349652481532884). 
 
-Note: Check and PayPal Giving Fund provide the full amount of your donation, however PayPal Giving Fund may take up to 45 days to process. PayPal and Venmo charge a discounted processing fee for nonprofits and include a mechanism for you to optionally cover this fee. Checks may be made payable to ”Cascade STEAM” with "Donation" memo and mailed to “104 W. Magnolia St \#2551, Bellingham, WA 98225”.
+Note: Check may be made payable to ”Cascade STEAM” with "Donation" memo and mailed to “104 W. Magnolia St \#2551, Bellingham, WA 98225”. Check and PayPal Giving Fund provide the full amount of your donation, however PayPal Giving Fund may take up to 45 days to process. PayPal and Venmo charge a discounted processing fee for nonprofits. PayPal provides a mechanism for you to optionally cover this fee. PayPal also provides a subscription option for you to automatically donate monthly or yearly.
 
 As always: THANK YOU FOR YOUR SUPPORT\!
 
