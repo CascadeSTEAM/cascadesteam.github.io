@@ -70,7 +70,8 @@ We welcome all people of all ages to [get involved](/get-involved) and help supp
 
 ## Donate
 
-If you value our work and have the financial means to support us, then please donate\! Cascade STEAM is community supported. Your donation will fund our operations and programs, and allow us to manage our own small grants for [community projects](/community-projects). Please see our [Donate](/donate) page for details. Thank you!
+Cascade STEAM is community supported. If you value our work and have the financial means to support us, then please donate\! Your donation will help fund our operations and programs, and allow us to manage our own small grants for [community projects](/community-projects). Our primary donation option is [PayPal](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C). Please see our [Donate](/donate) page for additional details and payment options. Thank you for your support!<br>
+[> DONATE NOW <](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)
 
 ## Contact Us
 
