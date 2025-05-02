@@ -17,7 +17,7 @@
 
 # Home
 
-Cascade STEAM is a new 501(c)(3) nonprofit organization dedicated to improving STEAM Education, Career Connected Learning, Digital Literacy, and Digital Equity for all people of all ages.
+Cascade STEAM is a 501(c)(3) nonprofit organization based in Bellingham, WA dedicated to *develop and promote STEAM Education, Career Connected Learning, Digital Literacy, and Digital Equity for all people of all ages.*
 
 STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, and Mathematics. STEAM education is a powerful framework to promote curiosity and creativity, encourage a shared learning experience, and build tools to solve important life challenges. We advocate through development and promotion of events, activities, and programs, and invite collaboration with community partners in shared purpose.
 
@@ -44,7 +44,7 @@ Our efforts are organized into programs, each of which is rooted in education, s
 
 ## Events
 
-Free. Open to everyone. All are welcome. Family friendly. Bring your friends! See our [Meetup Page](https://meetup.com/cascadesteam) for all scheduled events and program activities.
+*Free. Open to everyone. All are welcome. Family friendly. Bring your friends!* See our [Meetup Page](https://meetup.com/cascadesteam) for all scheduled events and program activities.
 
 ## Community Hub
 
@@ -58,19 +58,19 @@ Join our [Community Hub](http://hub.cascadesteam.org) to connect virtually with 
 
 ## Code of Conduct
 
-All participants of Cascade STEAM events, activities, and programs agree to commit to the [Cascade STEAM Code of Conduct](/conduct).
+All participants of Cascade STEAM events, activities, and programs agree to commit to our [Code of Conduct](/conduct).
 
 ## Organization
 
-Cascade STEAM is made possible through the commitment of [volunteer leadership](/leadership) and open collaboration of [partners](/partners). Thank you all for your efforts. Please see our [Organization Page](/organization) to review our mission, values, structure, and opportunities for engagement.
+Please see our [Organization Page](/organization) to review our mission and structure. Cascade STEAM is made possible through the commitment of [volunteer leadership](/leadership) and open collaboration of [partners](/partners). Thank you all for your efforts. 
 
 ## Get Involved!
 
-We welcome all people of all ages to [get involved](/get-involved) and help support our mission. Learn how you can support existing efforts or bring your passions to Cascade STEAM and launch new efforts.
+We welcome all people of all ages to [get involved](/get-involved) and help support our mission. Learn how you can support existing efforts or bring your passions to Cascade STEAM and launch new efforts!
 
 ## Donate
 
-Cascade STEAM is community supported. If you value our work and have the financial means to support us, then please donate\! Your donation will help fund our operations and programs, and allow us to manage our own small grants for [community projects](/community-projects). Our primary donation option is [PayPal](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C). Please see our [Donate](/donate) page for additional details and payment options. Thank you for your support!<br>
+Cascade STEAM is community supported. Please donate to help fund our operations and programs. See our [Donate](/donate) page for additional details and payment options. Thank you for your support!<br>
 [> DONATE NOW <](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)
 
 ## Contact Us
