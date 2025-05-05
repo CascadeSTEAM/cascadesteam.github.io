@@ -23,7 +23,9 @@ STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, an
 
 ## News
 
-- [April 16, 2025: Cascade STEAM Community Update - April 2025](/news/2025-04-16)
+- [May 5, 2025: Cascade STEAM Engineering Community Group Launched](/engineering)
+- [April 16, 2025: Cascade STEAM Community Update - April 2025](/news/2025-04-16.md)
+- [April 16, 2025: Cascade STEAM Cyber Community Group Launched](/cyber)
 - [April 16, 2025: Cascade STEAM Community Projects Launched](/community-projects)
 - [March 19, 2025: Cascade STEAM Community Groups Launched](/community-groups)
 - [March 6, 2025: Cascade STEAM Mentorship Program Launched](/mentorship)
@@ -71,7 +73,7 @@ We welcome all people of all ages to [get involved](/get-involved) and help supp
 ## Donate
 
 Cascade STEAM is community supported. Please donate to help fund our operations and programs. See our [Donate](/donate) page for additional details and payment options. Thank you for your support!<br>
-[> DONATE NOW <](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)
+[>> DONATE NOW <<](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)
 
 ## Contact Us
 
