@@ -28,7 +28,7 @@ Community Groups are made possible through the commitment of [volunteer leadersh
 - **[Citizen Science](/citizen-science)**: science, in particular life sciences
 - **[Cyber](/cyber)**: cybersecurity
 - **[Data Engineering](/data-engineering)**: data engineering, including data storage and access, artificial intelligence (AI), machine learning (ML), and large language models (LLMs)
-- **Engineering**: engineering, including robotics
+- **[Engineering](/engineering)**: engineering, including robotics
 
 Cascade STEAM collaborates with other local community groups, including:
 - **[Bellingham Codes](https://bellingham.codes)**: software development ([Meetup](https://meetup.com/bellinghamcodes))
