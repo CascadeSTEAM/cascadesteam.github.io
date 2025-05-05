@@ -23,16 +23,22 @@ STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, an
 
 ## Legal
 
+### Contact
+
+Cascade STEAM<br>
+104 W Magnolia St #2551, Bellingham, WA 98225<br>
+[info@cascadesteam.org](mailto:info@cascadesteam.org)
+
+### Status
+
+- Washington State Nonprofit Corporation, UBI# 605 334 640
+- USA 501(c)(3) Nonprofit, FEIN# 93-3592339
+
 ### Documents
 
 - [Articles of Incorporation](/docs/Cascade STEAM Articles of Incorporation 2023-09-15.pdf)
 - [Bylaws](/docs/Cascade STEAM Bylaws 2023-09-11.pdf)
 - [Determination Letter](https://apps.irs.gov/pub/epostcard/dl/FinalLetter_93-3592339_CASCADESTEAM_12102023_00.pdf)
-
-### Legal Status
-
-- Washington State Nonprofit Corporation, UBI# 605 334 640
-- USA 501(c)(3) Nonprofit, FEIN# 93-3592339
 
 ## Social
 
