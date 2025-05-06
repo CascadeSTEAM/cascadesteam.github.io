@@ -28,7 +28,7 @@ For Summer 2025, Mentorship is designed for those 18 years of age or older - hig
 ## How It Works
 
 - You must be 18 years of age by June 5, 2025 to register.
-- Submit your registration to participate as a Mentee, Mentor, or Peer Mentor Partner by May 25, 2025.
+- Submit your registration to participate as a Mentee, Mentor, or Peer Mentor Partner by May 31, 2025.
 - Mentorship Program Organizers will match participants based on interests.
 - Mentorship Pairs are introduced on June 5, 2025.
 - A mentorship handbook will be provided to help provide a positive mentorship experience for all, which provides recommendations for those new to mentorship.
@@ -36,11 +36,11 @@ For Summer 2025, Mentorship is designed for those 18 years of age or older - hig
 - Group discussion occurs on the [Cascade STEAM Community Hub](http://hub.cascadesteam.org) (Discord). Private conversation occurs in any format of interest to all parties - in person, phone, online, etc.
 - While organized mentorship activities for this cohort end after a three month period, we encourage participants to stay connected.
 
-[> REGISTER NOW <](https://forms.gle/rZ5ExToQ8iWdXo5u8)
+[>> REGISTER NOW <<](https://forms.gle/rZ5ExToQ8iWdXo5u8)
 
 ## Community Groups
 
-Mentorship is integrated into [Community Groups](/community-groups), each convening separately in recurring meetings to discuss topical interests and connect with fellow community members. See all Community Group events at the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam).
+Mentorship is integrated into [Community Groups](/community-groups), each convening separately in recurring meetings to discuss topical interests and connect with fellow community members. See all scheduled Community Group events at the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam).
 
 ## Data Policy
 
