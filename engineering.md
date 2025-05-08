@@ -33,7 +33,7 @@ Join us for the Launch of Cascade STEAM Engineering and help us shape Engineerin
 
 Cascade STEAM Engineering<br>
 Wednesday, May 14, 2025 5:30pm-7pm<br>
-[Bellingham Makerspace](https://bellinghammakerspace.org<br>
+[Bellingham Makerspace](https://bellinghammakerspace.org)<br>
 [1 Bellis Fair Parkway \#618, Bellingham, WA 98225](https://www.google.com/maps/place/1+Bellis+Fair+Pkwy+%23+618,+Bellingham,+WA+98226/)<br>
 
 ## Organizers
