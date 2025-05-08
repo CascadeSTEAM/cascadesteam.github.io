@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Template Page"
+title: "Cascade STEAM Template Page"
+description: "STEAM Education, Career Connected Learning, Digital Literacy, and Digital Equity for all people of all ages."
 permalink: /template_page
 ---
 
