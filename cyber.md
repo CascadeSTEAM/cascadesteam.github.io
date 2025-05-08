@@ -17,22 +17,25 @@
 
 # Cascade STEAM Cyber
 
-Welcome to Cascade STEAM’s Cyber-focused community group!
+Welcome to Cascade STEAM’s Cyber-focused community group! We are just getting started as a community group and we’d love to have you join us at an upcoming meeting. Meetings are free and all are welcome. Anyone with an interest in cybersecurity is welcome and encouraged to attend. Please help us by spreading the word to friends and colleagues.
 
-We are just getting started as a community group and we’d love to have you join us at an upcoming meeting. Meetings are free and all are welcome. Please help us by spreading the word to friends and colleagues!
+## Meetings
 
 We plan to meet on the second Thursday of the Month from 5:30-7:00pm at various locations. Meeting details will be available on this page, the [Cascade STEAM Community Hub](http://hub.cascadesteam.org), and the [Cascade STEAM Meetup Page](https://www.meetup.com/cascadesteam).
 
-## Startup Meeting
+Planned 2025 meeting dates include May 8th, June 12th, July 10th, September 11th, October 9th, and November 13th. We will not hold meetings in August or December. Join us for Cascade STEAM Socials on these months instead!
 
-Anyone with an interest in cybersecurity is welcome and encouraged to attend!
+**Startup Meeting:**
 
-**Cascade STEAM Cyber Startup Meeting**<br>
+Join us for the Cascade STEAM Cyber Startup Meeting and help shape Cyber with your input! Anyone with an interest in cybersecurity is welcome and encouraged to attend.
+
+Cascade STEAM Cyber Startup Meeting<br>
 Thursday May 8, 2025 @ 5:30pm-7:00pm<br>
-Bellingham Makerspace<br>
+[Bellingham Makerspace](https://bellinghammakerspace.org)<br>
 [1Bellis, Fair Parkway #618, Bellingham, WA 98225](https://maps.app.goo.gl/RwDdve85Sm8feJHM9)
 
-**Agenda:**<br>
+**Agenda:**
+
 5:30pm - Doors open<br>
 5:45pm - Meeting begins
 - Introductions
@@ -44,16 +47,7 @@ Bellingham Makerspace<br>
 
 ## Organizers
 
-Volunteeer Organizers of the Cascade STEAM Cyber Community Group are [Marty Mulholland](https://www.linkedin.com/in/mulholland99), [David Hirsch](https://www.linkedin.com/in/davidhirsch3), and [Shay Colson](https://www.linkedin.com/in/shaycolson). Please contact [cyber@cascadesteam.org](mailto:cyber@cascadesteam.org) for general inquiries.
-
-## Upcoming Meetings
-
-Expected upcoming dates are:
-- Thu Jun 12, 2025
-- Thu Jul 10, 2025
-- Thu Sep 11, 2025
-- Thu Oct 9, 2025
-- Thu Nov 13, 2025
+[Volunteer Organizers](/leadership) of the Cascade STEAM Cyber Community Group are [Marty Mulholland](https://www.linkedin.com/in/mulholland99), [David Hirsch](https://www.linkedin.com/in/davidhirsch3), and [Shay Colson](https://www.linkedin.com/in/shaycolson). Please contact [cyber@cascadesteam.org](mailto:cyber@cascadesteam.org) for general inquiries.
 
 ## Contact Us
 
