@@ -22,6 +22,7 @@ permalink: /news
 
 # News
 
+- [May 7, 2025: Cascade STEAM Community Update - May 2025](/news/cascade-steam-community-update-may-2025)
 - [May 5, 2025: Cascade STEAM Engineering Community Group Launched](/engineering)
 - [April 16, 2025: Cascade STEAM Community Update - April 2025](/news/cascade-steam-community-update-april-2025)
 - [April 16, 2025: Cascade STEAM Cyber Community Group Launched](/cyber)
