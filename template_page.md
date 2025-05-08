@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Template Page"
+permalink: /template_page
+---
+
 <style>
   .header {
 	display: none;
