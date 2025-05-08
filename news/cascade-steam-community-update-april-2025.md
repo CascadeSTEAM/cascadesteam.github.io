@@ -2,8 +2,6 @@
 layout: page
 title: "Cascade STEAM Community Update - April 2025"
 permalink: /news/cascade-steam-community-update-april-2025
-redirect_from:
- - /news/2025-04-16
 ---
 <style>
   .header {
