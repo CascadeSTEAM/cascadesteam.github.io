@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Community Partners"
+permalink: /community-partners
+---
 <style>
   .header {
 	display: none;

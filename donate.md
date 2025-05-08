@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Donate"
+permalink: /donate
+---
 <style>
   .header {
 	display: none;

@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Conduct"
+permalink: /conduct
+---
 <style>
   .header {
 	display: none;

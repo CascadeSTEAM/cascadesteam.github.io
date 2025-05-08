@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Community Projects"
+permalink: /community-projects
+---
 <style>
   .header {
 	display: none;

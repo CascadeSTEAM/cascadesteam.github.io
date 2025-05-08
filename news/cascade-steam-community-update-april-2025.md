@@ -1,5 +1,7 @@
 ---
-redirect: /news/cascade-steam-community-update-april-2025
+layout: page
+title: "Cascade STEAM Community Update - April 2025"
+permalink: /news/cascade-steam-community-update-april-2025
 ---
 <style>
   .header {

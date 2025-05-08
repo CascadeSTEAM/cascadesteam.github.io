@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Organization"
+permalink: /organization
+---
 <style>
   .header {
     display: none;

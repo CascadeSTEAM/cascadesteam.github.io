@@ -1,5 +1,7 @@
 ---
-redirect: /news/whatcom-stem-announces-formation
+layout: page
+title: "Whatcom STEM Announces Formation"
+permalink: /news/whatcom-stem-announces-formation
 ---
 <style>
   .header {

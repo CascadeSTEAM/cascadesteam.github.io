@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Engineering Community Group"
+permalink: /engineering
+---
 <style>
   .header {
 	display: none;

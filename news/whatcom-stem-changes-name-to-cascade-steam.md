@@ -1,5 +1,7 @@
 ---
-redirect: /news/whatcom-stem-changes-name-to-cascade-steam
+layout: page
+title: "Whatcom STEM Changes Name to Cascade STEAM"
+permalink: /news/whatcom-stem-changes-name-to-cascade-steam
 ---
 <style>
   .header {

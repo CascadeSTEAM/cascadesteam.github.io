@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Get Involved"
+permalink: /get-involved
+---
 <style>
   .header {
 	display: none;

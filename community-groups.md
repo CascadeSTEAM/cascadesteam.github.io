@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Community Groups"
+permalink: /community-groups
+---
 <style>
   .header {
 	display: none;

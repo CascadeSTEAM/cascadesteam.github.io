@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Outreach"
+permalink: /outreach
+---
 <style>
   .header {
 	display: none;

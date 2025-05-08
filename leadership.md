@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Leadership"
+permalink: /leadership
+---
 <style>
   .header {
 	display: none;

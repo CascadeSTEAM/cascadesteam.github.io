@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Mentorship"
+permalink: /mentorship
+---
 <style>
   .header {
     display: none;

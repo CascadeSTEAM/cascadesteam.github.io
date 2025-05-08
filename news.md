@@ -1,3 +1,8 @@
+---
+layout: page
+title: "News"
+permalink: /news
+---
 <style>
   .header {
     display: none;
@@ -18,13 +23,13 @@
 # News
 
 - [May 5, 2025: Cascade STEAM Engineering Community Group Launched](/engineering)
-- [April 16, 2025: Cascade STEAM Community Update - April 2025](/news/2025-04-16)
+- [April 16, 2025: Cascade STEAM Community Update - April 2025](/news/cascade-steam-community-update-april-2025)
 - [April 16, 2025: Cascade STEAM Cyber Community Group Launched](/cyber)
 - [April 16, 2025: Cascade STEAM Community Projects Launched](/community-projects)
 - [March 19, 2025: Cascade STEAM Community Groups Launched](/community-groups)
 - [March 6, 2025: Cascade STEAM Mentorship Program Launches](/mentorship)
-- [October 11, 2023: Whatcom STEM Changes Name to Cascade STEAM](/news/2023-10-11)
-- [May 9, 2023: Whatcom STEM Announces Formation](/news/2023-05-09)
+- [October 11, 2023: Whatcom STEM Changes Name to Cascade STEAM](/news/whatcom-stem-changes-name-to-cascade-steam)
+- [May 9, 2023: Whatcom STEM Announces Formation](/news/whatcom-stem-announces-formation)
 
 ## Contact Us
 

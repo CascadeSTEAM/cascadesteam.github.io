@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Cascade STEAM Template Page"
+title: "Template Page"
 permalink: /template_page
 ---
 

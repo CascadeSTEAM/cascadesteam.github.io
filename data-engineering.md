@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Data Engineering Community Group"
+permalink: /data-engineering
+---
 <style>
   .header {
 	display: none;

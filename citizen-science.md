@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Citizen Science Community Group"
+permalink: /citizen-science
+---
 <style>
   .header {
 	display: none;

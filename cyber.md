@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Cyber Community Group"
+permalink: /cyber
+---
 <style>
   .header {
 	display: none;
