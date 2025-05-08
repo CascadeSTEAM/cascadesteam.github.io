@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Community Partners"
-permalink: /community-partners
+title: "Partners"
+permalink: /partners
 ---
 <style>
   .header {
