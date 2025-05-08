@@ -27,11 +27,13 @@ We plan to meet Monthly every second Wednesday of the month from 5:30pm – 7:00
 
 Upcoming meetings include: May 14th, June 11th, July 9th, September 10th, October 8th, and November 12th. We will not hold meetings in August or December. Join us for Cascade STEAM Socials on these months instead!
 
-Next Meeting:
+**Launch Meeting:**
+
+Join us for the Launch of Cascade STEAM Engineering and help us shape Engineering with your input! Everyone interested in engineering is welcome and encouraged to attend.
 
 Cascade STEAM Engineering<br>
 Wednesday, May 14, 2025 5:30pm-7pm<br>
-Bellingham Makerspace<br>
+[Bellingham Makerspace](https://bellinghammakerspace.org<br>
 [1 Bellis Fair Parkway \#618, Bellingham, WA 98225](https://www.google.com/maps/place/1+Bellis+Fair+Pkwy+%23+618,+Bellingham,+WA+98226/)<br>
 
 ## Organizers
