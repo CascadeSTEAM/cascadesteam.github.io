@@ -2,6 +2,7 @@
 layout: page
 title: "Whatcom STEM Announces Formation"
 permalink: /news/whatcom-stem-announces-formation
+redirect_from: /news/2023-05-09
 ---
 <style>
   .header {
