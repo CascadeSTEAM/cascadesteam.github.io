@@ -34,7 +34,9 @@ permalink: /news/cascade-steam-community-update-may-2025
 
 ## Update
 
-April was an exciting month! We launched Cascade STEAM, [Community Groups](/community-groups), [Community Projects](/community-projects), and [Mentorship](/mentorship), and collaborated with [LinuxFest Northwest](https://lfnw.org) to organize and host the [LinuxFest Northwest 2025 Event](https://lfnw.org/schedule/). It was a blast! See the [LinuxFest Northwest 2025 YouTube Playlist](https://www.youtube.com/playlist?list=PLjDc7gDlIASRAcG0cxWYOnNGwFnykUMNZ) for recordings of the fest as they become available.
+April was an exciting month! We launched Cascade STEAM, [Community Groups](/community-groups), [Community Projects](/community-projects), and [Mentorship](/mentorship).
+
+We also collaborated with [LinuxFest Northwest](https://lfnw.org) to organize and host the [LinuxFest Northwest 2025 Event](https://lfnw.org/schedule/). It was a blast! See the [LinuxFest Northwest 2025 YouTube Playlist](https://www.youtube.com/playlist?list=PLjDc7gDlIASRAcG0cxWYOnNGwFnykUMNZ) for recordings of the fest as they become available.
 
 New in May is the launch of the Cascade STEAM [Cyber](/cyber) and [Engineering](/engineering) [Community Groups](/engineering)! Closing at the end of May is registration for the [Summer Mentorship Program Cohort](/mentorship), which will begin in June with registered participants.
 
