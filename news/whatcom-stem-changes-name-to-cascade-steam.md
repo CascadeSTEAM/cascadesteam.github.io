@@ -2,7 +2,8 @@
 layout: page
 title: "Whatcom STEM Changes Name to Cascade STEAM"
 permalink: /news/whatcom-stem-changes-name-to-cascade-steam
-redirect_from: /news/2023-10-11
+redirect_from:
+ - /news/2023-10-11
 ---
 <style>
   .header {
