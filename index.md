@@ -72,7 +72,8 @@ We welcome all people of all ages to [get involved](/get-involved) and help supp
 
 ## Donate
 
-Cascade STEAM is community supported. Please donate to help fund our operations and programs. See our [Donate](/donate) page for additional details and payment options. Thank you for your support!<br>
+Cascade STEAM is community supported - we are NOT a member organization with member dues. If you value our work and have the financial means to support us, then please donate\! Your donation will help fund our operations and programs. Any donation amount is appreciated. See our [Donate](/donate) page for additional details and payment options. Thank you for your support!<br>
+
 [>> DONATE NOW <<](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)
 
 ## Contact Us
