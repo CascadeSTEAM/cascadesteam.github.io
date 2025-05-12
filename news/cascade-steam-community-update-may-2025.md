@@ -48,21 +48,25 @@ Cascade STEAM Programs are: *“Free. Open to everyone. All are welcome. Family 
 
 [Community Groups](https://cascadesteam.org/community-groups) organize communities of aspiring, current, and retired professionals focusing on a STEAM topic. Recurring community groups now include [Bellingham Codes](https://bellingham.codes), [Bellingham Linux Users Group](https://blug.org), [Citizen Science](/citizen-science), [Cyber](/cyber), [Data Engineering](/data-engineering), and [Engineering](/engineering). See the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) for scheduled events.
 
-#### Cascade STEAM Cyber \- May 8th
+#### Cascade STEAM Cyber
 
 Join Cascade STEAM [Cyber](/cyber) on May 8th from 5:30pm-7:00pm at the [Bellingham Makerspace](https://bellinghammakerspace.org) for our Startup Meeting! Anyone with an interest in cybersecurity is welcome and encouraged to attend\!
 
-#### Cascade STEAM Engineering \- May 14th
+#### Cascade STEAM Engineering
 
 Join Cascade STEAM [Engineering](/engineering) on May 14th from 5:30pm-7:00pm at the [Bellingham Makerspace](https://bellinghammakerspace.org) for our Launch Meeting! Anyone with an interest in engineering is welcome and encouraged to attend\!
 
-#### Cascade STEAM Citizen Science \- May 15th
+#### Cascade STEAM Citizen Science
 
 Join Cascade STEAM [Citizen Science](/citizen-science) on May 14th from 5:30pm-7:30pm at [RE Sources](https://re-sources.org). We continue to focus on our [RE Sources](https://re-sources.org) [Stormwater Monitoring](https://www.re-sources.org/2024/06/three-years-of-bellingham-stormwater-monitoring-reveals-pollution-hotspots-including-taylor-dock/) [Community Project](https://cascadesteam.org/community-projects) to help protect Bellingham Bay. (In collaboration with [RE Sources](https://re-sources.org).)
 
-#### Bellingham Linux Users Group \- May 21st
+#### Bellingham Linux Users Group
 
 Join the [Bellingham Linux Users Group](/blug) on May 21st from 5:30pm-7:00pm at the [Bellingham Makerspace](https://bellinghammakerspace.org). Our topics this month are LinuxFest Northwest 2025 Highlights and related discussion.
+
+#### Cascade STEAM Data Engineering
+
+To Be Confirmed.
 
 ### Community Projects
 
