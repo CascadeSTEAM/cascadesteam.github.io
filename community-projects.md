@@ -30,11 +30,7 @@ Join the Citizen Science Community Group as we continue our organizing and suppo
  
 **About RE Sources:**
 
-Founded in 1982, [RE Sources](https://re-sources.org) is a nonprofit organization working to protect the environment and communities of the central Salish Sea region and our climate. We catalyze community action to build a lasting legacy for all of us — clean water, protected shorelines, an end to dangerous fossil fuel projects, and recovery for orcas and salmon.
-
-Based in Bellingham, Washington, we are a team of trusted and time-tested environmental advocates, educators and scientists. RE Sources gives people practical ways to make a real difference for the planet, from passing stronger laws that protect the environment and empowering youth voices, to holding corporate polluters accountable, reducing waste and our own carbon footprint. We do this through smart policy, grassroots mobilization, hands-on science and environmental education.
-
-Our deep roots and broad connections in Northwest Washington allow us to inspire and mobilize thousands of people to protect the beauty and bounty of the region.
+Founded in 1982, [RE Sources](https://re-sources.org) is a nonprofit organization working to protect the environment and communities of the central Salish Sea region and our climate. We catalyze community action to build a lasting legacy for all of us — clean water, protected shorelines, an end to dangerous fossil fuel projects, and recovery for orcas and salmon. Learn more at the [RE Sources Website](https://re-sources.org).
 
 ## Contact Us
 
