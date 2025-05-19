@@ -31,6 +31,7 @@ permalink: /news/cascade-steam-community-update-may-2025
 * Cascade STEAM Engineering event on May 14th.
 * Cascade STEAM Citizen Science event on May 15th.  
 * Bellingham Linux Users Group event on May 21st.
+* Cascade STEAM Data Engineering event on May 28th.
 
 ## Update
 
