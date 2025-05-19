@@ -66,7 +66,7 @@ Join the [Bellingham Linux Users Group](/blug) on May 21st from 5:30pm-7:00pm at
 
 #### Cascade STEAM Data Engineering
 
-To Be Confirmed.
+Join [Cascade STEAM Data Engineering](/data-engineering) on May 28th from 6:00pm-7:30pm at [Western Washington University, Parks Hall, Room 104](https://cbe.wwu.edu). Our topic this month is "WWU Student Projects" led by Professor Christopher Califf and students of the MIS and MSCM majors, including the topics "Data Goes to the Movies: Getting Started with Tableau Using Movie Data" and "Warming Up to Tableau: Visualizing Climate Change".
 
 ### Community Projects
 
@@ -86,6 +86,7 @@ See the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) for details
 * May 14th: [Engineering Community Group](/engineering) \- Launch Meeting
 * May 15th: [Citizen Science Community Group](/citizen-science) & [Stormwater Monitoring Community Project](/community-projects)
 * May 21st: [Bellingham Linux Users Group](https://blug.org)
+* May 28th: [Data Engineering Community Group](/data-engineering)
 
 ### Upcoming Partner Events
 
