@@ -30,24 +30,18 @@ We plan to meet on the second Thursday of the Month from 5:30-7:00pm at various 
 
 Planned 2025 meeting dates include May 8th, June 12th, July 10th, September 11th, October 9th, and November 13th. We will not hold meetings in August or December. Join us for Cascade STEAM Socials on these months instead!
 
-**Startup Meeting:**
+### Meeting #2 - June 2025
 
-Join us for the Cascade STEAM Cyber Startup Meeting and help shape Cyber with your input! Anyone with an interest in cybersecurity is welcome and encouraged to attend.
+Join us as we continue to work on organizing our group and building a local cybersecurity community.
 
-Cascade STEAM Cyber Startup Meeting<br>
-Thursday May 8, 2025 @ 5:30pm-7:00pm<br>
-[Bellingham Makerspace](https://bellinghammakerspace.org)<br>
-[1Bellis, Fair Parkway #618, Bellingham, WA 98225](https://maps.app.goo.gl/RwDdve85Sm8feJHM9)
+**Cascade STEAM Cyber Meeting #2**<br>
+Thursday June 12, 2025 @ 5:20pm-7:00pm<br>
+Diamond Jim's Grill<br>
+[2400 Meridian St #1, Bellingham, WA 98225](https://maps.app.goo.gl/6m7hGBx9vkVRXNAx6)
 
-**Agenda:**
-
-5:30pm - Doors open<br>
-5:45pm - Meeting begins
-- Introductions
-- Your input: What would you value in this group? What topics or activities would bring you back month after month?
-- Your contribution: What expertise could you share with the group
-- What should we call ourselves? (We’re collecting ideas!)
-
+**Timeline:**<br>
+5:20pm - Doors open<br>
+5:45pm - Meeting begins / Agenda and details coming soon<br>
 6:45pm - 7pm - Wrap-up
 
 ## Organizers
