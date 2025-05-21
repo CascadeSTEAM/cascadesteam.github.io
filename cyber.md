@@ -26,22 +26,27 @@ Welcome to Cascade STEAM’s Cyber-focused community group! We are just getting 
 
 ## Meetings
 
-We plan to meet on the second Thursday of the Month from 5:30-7:00pm at various locations. Meeting details will be available on this page, the [Cascade STEAM Community Hub](http://hub.cascadesteam.org), and the [Cascade STEAM Meetup Page](https://www.meetup.com/cascadesteam).
+We plan to meet on the second Thursday of the Month from ~5:30-7:00pm at various locations. Meeting details will be available on this page, the [Cascade STEAM Community Hub](http://hub.cascadesteam.org), and the [Cascade STEAM Meetup Page](https://www.meetup.com/cascadesteam).
 
 Planned 2025 meeting dates include May 8th, June 12th, July 10th, September 11th, October 9th, and November 13th. We will not hold meetings in August or December. Join us for Cascade STEAM Socials on these months instead!
 
 ### Meeting #2 - June 2025
 
-Join us as we continue to work on organizing our group and building a local cybersecurity community.
+Join us as we continue to work on organizing our group and building a local cybersecurity community. Our meetings are free and anyone with an interest in Cybersecurity is welcome to attend.
 
-**Cascade STEAM Cyber Meeting #2**<br>
+**Cascade STEAM Cyber Meeting #2 - June 2025**<br>
 Thursday June 12, 2025 @ 5:20pm-7:00pm<br>
 Diamond Jim's Grill<br>
 [2400 Meridian St #1, Bellingham, WA 98225](https://maps.app.goo.gl/6m7hGBx9vkVRXNAx6)
 
 **Timeline:**<br>
 5:20pm - Doors open<br>
-5:45pm - Meeting begins / Agenda and details coming soon<br>
+5:45pm - Meeting begins<br>
+* Welcome & Introductions
+* Career Spotlight & Presentation: Cybersecurity Audits & Tools, presented by Steven Reed, IT Cybersecurity Auditor, Washington State Auditor's Office (SAO).
+  - Steven will share his career journey, describe SAO Cybersecurity audits that occur throughout Washington, describe/show tools and techniques used, and will describe typical findings. Steven also will describe his role and experience responding to cyber/fraud incidents reported to the SAO. Steven holds multiple certifications and is willing to share how those have served him in his career.
+  - Steven graduated from Western Washington University in 2018 with a Bachelor’s degree in Accounting and minors in Economics and Business Administration. He is a Certified Fraud Examiner (CFE), is a Green Belt in Lean Six Sigma, and holds GIAC Information Security Fundamentals (GISF) and Security Essentials (GSEC) certifications.
+
 6:45pm - 7pm - Wrap-up
 
 ## Organizers
