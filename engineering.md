@@ -28,22 +28,17 @@ Cascade STEAM Programs are: *“Free. Open to everyone. All are welcome. Family 
 
 ## Meetings
 
-We plan to meet Monthly every second Wednesday of the month from 5:30pm – 7:00pm at the Bellingham Makerspace. Meeting details will be available on this page, the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/), and the [Cascade STEAM Meetup Page](https://www.meetup.com/cascadesteam).
+We plan to meet Monthly every second Wednesday of the month from 5:30pm – 7:00pm at the [Bellingham Makerspace](https://bellinghammakerspace.org). Meeting details will be available on this page, the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/), and the [Cascade STEAM Meetup Page](https://www.meetup.com/cascadesteam).
 
-Upcoming meetings include: May 14th, June 11th, July 9th, September 10th, October 8th, and November 12th. We will not hold meetings in August or December. Join us for Cascade STEAM Socials on these months instead!
+Planned meetings for 2025 include: May 14th, June 11th, July 9th, September 10th, October 8th, and November 12th. We will not hold meetings in August or December. Join us for Cascade STEAM Socials on these months instead!
 
-**Launch Meeting:**
-
-Join us for the Launch of Cascade STEAM Engineering and help us shape Engineering with your input! Everyone interested in engineering is welcome and encouraged to attend.
-
-Cascade STEAM Engineering<br>
-Wednesday, May 14, 2025 5:30pm-7pm<br>
+**Location:**<br>
 [Bellingham Makerspace](https://bellinghammakerspace.org)<br>
-[1 Bellis Fair Parkway \#618, Bellingham, WA 98225](https://www.google.com/maps/place/1+Bellis+Fair+Pkwy+%23+618,+Bellingham,+WA+98226/)<br>
+[1 Bellis Fair Parkway \#618, Bellingham, WA 98225](https://www.google.com/maps/place/1+Bellis+Fair+Pkwy+%23+618,+Bellingham,+WA+98226/)
 
 ## Organizers
 
-[Volunteer Organizers](https://cascadesteam.org/leadership) of the Cascade STEAM Engineering Community Group are Riley Liddle and [Kris Keillor](https://www.linkedin.com/in/kris-keillor-205199276/). Please contact [engineering@cascadesteam.org](mailto:engineering@cascadesteam.org) for general inquiries.
+[Volunteer Organizers](https://cascadesteam.org/leadership) of the Cascade STEAM Engineering Community Group are Riley Liddle and [Kris Keillor](https://www.linkedin.com/in/kris-keillor-205199276/). Please contact [engineering@cascadesteam.org](mailto:engineering@cascadesteam.org) for related community group inquiries.
 
 ## Contact Us
 
