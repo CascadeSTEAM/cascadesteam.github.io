@@ -22,14 +22,14 @@ permalink: /leadership
 
 # Leadership
 
-Cascade STEAM is made possible through the commitment of volunteer leadership and open collaboration of [partners](/partners). Cascade STEAM Leadership includes Board of Directors, Organizers, and Advisory Committee Members. Thank you all for your efforts.
+Cascade STEAM is made possible through the commitment of volunteer leadership and open collaboration of [partners](/partners). Cascade STEAM Leadership includes Board of Directors, Organizers, and Committee Members. Thank you all for your efforts.
 
 ## Board of Directors
 
 - Michael Gan, President ([LinkedIn](https://www.linkedin.com/in/michaelbgan), [Email](mailto:michael.gan@cascadesteam.org))
-- Garth Johnson, Vice President & Treasurer ([LinkedIn](https://www.linkedin.com/in/growlf), [Email](mailto:@cascadesteam.org))
-- Josh Buker, Secretary ([LinkedIn](https://www.linkedin.com/in/joshbuker), [Email](mailto:garth.johnson@cascadesteam.org))
-- Leslie Brendible ([LinkedIn](https://www.linkedin.com/in/lesliebrendible), [Email](mailto:@cascadesteam.org))
+- Garth Johnson, Vice President & Treasurer ([LinkedIn](https://www.linkedin.com/in/growlf), [Email](mailto:garth.johnson@cascadesteam.org))
+- Josh Buker, Secretary ([LinkedIn](https://www.linkedin.com/in/joshbuker), [Email](mailto:josh.buker@cascadesteam.org))
+- Leslie Brendible ([LinkedIn](https://www.linkedin.com/in/lesliebrendible), [Email](mailto:leslie.brendible@cascadesteam.org))
 
 ## Organizers
 
@@ -49,9 +49,17 @@ Cascade STEAM is made possible through the commitment of volunteer leadership an
 
 ## Advisory Committee
 
-All Organizers are also members of the Advisory Committee. Additional Advisory Committee Members include:
+All Organizers and Committee Members are also Advisory Committee Members. Additional Advisory Committee Members include:
+
 - Sam Groveman ([LinkedIn](https://www.linkedin.com/in/samgroveman), [Email](mailto:sam.groveman@cascadesteam.org))
 - Gina Stark ([LinkedIn](https://www.linkedin.com/in/gina-stark-00608a2a), [Email](mailto:gina.stark@cascadesteam.org))
+
+## Engagement Committee
+
+- Michael Gan ([LinkedIn](https://www.linkedin.com/in/michaelbgan), [Email](mailto:michael.gan@cascadesteam.org))
+- Kathleen May ([LinkedIn](https://www.linkedin.com/in/kathleenmay/), [Email](mailto:kathleen.may@cascadesteam.org)) 
+- Anuska Thomas [Email](mailto:anuska.thomas@cascadesteam.org)) 
+- Trevor Westerlund ([LinkedIn](https://www.linkedin.com/in/twesterlund/), [Email](mailto:trevor.westerlund@cascadesteam.org)) 
 
 ## Contact Us
 
