@@ -28,14 +28,25 @@ Cascade STEAM Programs are: *“Free. Open to everyone. All are welcome. Family 
 
 ## Meetings
 
-We plan to meet \~monthly on various days and locations from 6:00pm-7:30pm. Meeting details will be available on this page, the [Cascade STEAM Community Hub](http://hub.cascadesteam.org), and the [Cascade STEAM Meetup Page](https://www.meetup.com/cascadesteam).
+We plan to meet \~monthly on varying days and locations from 6:00pm-7:30pm. Meeting details will be available on this page, the [Cascade STEAM Community Hub](http://hub.cascadesteam.org), and the [Cascade STEAM Meetup Page](https://www.meetup.com/cascadesteam).
 
-Next Meeting:
+### Next Meeting
 
-Cascade STEAM Data Engineering \- Data Lakes<br>
-Thursday, April 24, 2025 6:00pm-7:30pm<br>
-Bellingham Makerspace<br>
-[1 Bellis Fair Parkway \#618, Bellingham, WA 98225](https://www.google.com/maps/place/1+Bellis+Fair+Pkwy+%23+618,+Bellingham,+WA+98226/)
+Cascade STEAM Data Engineering \- WWU Student Projects<br>
+Wednesday, May 28, 2025 6:00pm-7:30pm<br>
+[Western Washington University, Parks Hall, Room 228](https://maps.app.goo.gl/b4tV2KqWWhW81eaj8)
+
+Join the Cascade STEAM Data Engineering Community Group on May 28th from 6:00pm-7:30pm at WWU, Parks Hall, Room 228. Our topic this month is "WWU Student Projects" led by Professor Christopher Califf and students of the MIS and MSCM majors, including the topics "Data Goes to the Movies: Getting Started with Tableau Using Movie Data" and "Warming Up to Tableau: Visualizing Climate Change".
+
+Additional Speaker and Topic Details:
+
+Title: Data Goes to the Movies: Getting Started with Tableau Using Movie Data
+Presenters: Jade Phan (MSCM major) and Selena Escobar (MIS major)
+Summary: Data Goes to the Movies is a beginner-friendly Tableau presentation where we share how we got started, found our data, built visualizations, and what we learned along the way. Using movie data, we explored trends in box office performance and ratings while learning the fundamentals of Tableau.
+
+Title: Warming Up to Tableau: Visualizing Climate Change
+Presenters: Manu Greenlee (MIS major), Arsiney Marshak (MIS major), William Bourgault (MSCM major)
+Summary: Warming Up to Tableau is a beginner-level Tableau presentation where we share how we got started, found our climate change dataset, built visualizations, and what we learned along the way. Using climate-related data, we explored trends in global temperature change, carbon emissions, and environmental impact while learning the fundamentals of Tableau.
 
 ## Organizers
 
