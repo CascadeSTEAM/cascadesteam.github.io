@@ -24,8 +24,6 @@ permalink: /community-groups
 
 Cascade STEAM Community Groups convene aspiring, current, and retired professionals interested in a STEAM topic to connect with fellow community members, discuss technical topics, participate in community building and community service programs, and collaborate with organizations in shared purpose on community projects.
 
-Cascade STEAM Programs are: *Free. Open to Everyone. All are welcome. Family Friendly. Bring your friends!*
-
 ## Current Community Groups
 
 Community Groups are made possible through the commitment of [volunteer organizers](/leadership) and open collaboration of [partners](/partners). Scheduled events can be found on the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam). 
@@ -41,18 +39,19 @@ We also collaborate with other local community groups, including:
 - **[Bellingham Codes](https://bellingham.codes)**: software development ([Meetup](https://meetup.com/bellinghamcodes))
 - **[Bellingham Tableau User Group](https://usergroups.tableau.com/bellingham-tableau-user-group/)**: Tableau Software and related data analytics topics
 
-## Start A New Community Group!
+## Are you interested to start a new community group?
 
-Are you interested to start a new Community Group? Are your interests in alignment of the mission of Cascade STEAM? Create a Cascade STEAM Community Group! We offer shared resources to organizers to simplify community collaboration, event management, and event promotion to help organizers focus on their positive community impact.
+Are your interests in alignment of the mission of Cascade STEAM? Create a Cascade STEAM Community Group! We offer shared resources to organizers to simplify community collaboration, event management, and event promotion to help organizers focus on their positive community impact.
 
 Shared resources include:
-- Entry on [our website!](https://cascadesteam.org) to raise awareness
-- A dedicated channel on our [Community Hub](http://hub.cascadesteam.org) (Discord) for discussion
-- [Meetup](https://meetup.com/cascadesteam) to manage and promote your events to the public
-- [Zoom](https://zoom.com) to host virtual events with Zoom Pro features
-- [LinkedIn](https://linkedin.com/company/cascadesteam) to promote your activities to professional networks
-- [Facebook](https://facebook.com/cascadesteam) to promote your activities to personal networks
-- [Google Workspace](https://workspace.google.com) to organize collaboration with an organization email address and Google Drive Shared Folder
+- Entry on the Cascade STEAM website to raise awareness.
+- Inclusion in the monthly Cascade STEAM Community Update.
+- A dedicated channel on our [Community Hub](http://hub.cascadesteam.org) (Discord) for discussion.
+- [Meetup](https://meetup.com/cascadesteam) to manage and promote your events to the public.
+- [Zoom](https://zoom.com) to host virtual events with Zoom Pro features.
+- [LinkedIn](https://linkedin.com/company/cascadesteam) to promote your activities to professional networks.
+- [Facebook](https://facebook.com/cascadesteam) to promote your activities to personal networks.
+- [Google Workspace](https://workspace.google.com) with an organization email address and shared community group email address and Google Drive Shared Folder to organize collaboration.
 
 ## Contact Us
 
