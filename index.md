@@ -39,6 +39,8 @@ Our efforts are organized into programs, each of which is rooted in education, s
 - **[Community Groups](/community-groups)**: Organizing communities of aspiring, current, and retired professionals focusing on a STEAM topic.
 - **[Community Projects](/community-projects)**: Shared learning experiences focusing on positive community impact, often collaborating with community partners.
 - **[Mentorship](/mentorship)**: Connecting students and professionals, junior and senior professionals, and/or peers for organized and supportive personal and professional improvement.
+
+*Coming Soon:*
 - **Internship**: Supporting students through internship and benefitting local nonprofit community partners through the execution of student projects.
 - **Workshops**: Instructor-led events and activities focusing on an educational topic.
 - **Group Projects**: Shared learning experiences focusing on an educational topic.
@@ -47,7 +49,7 @@ Our efforts are organized into programs, each of which is rooted in education, s
 
 ## Events
 
-*Free. Open to everyone. All are welcome. Family friendly. Bring your friends!* See our [Meetup Page](https://meetup.com/cascadesteam) for all scheduled events and program activities.
+*Free. Open to everyone. All are welcome. Family friendly. Bring your friends.* See our [Meetup Page](https://meetup.com/cascadesteam) for all scheduled events.
 
 ## Community Hub
 
@@ -69,7 +71,7 @@ Please see our [Organization Page](/organization) to review our mission and stru
 
 ## Get Involved!
 
-We welcome all people of all ages to [get involved](/get-involved) and help support our mission. Learn how you can support existing efforts or bring your passions to Cascade STEAM and launch new efforts!
+We welcome all people of all ages to [get involved](/get-involved) to help support our mission. Learn how you can support existing efforts or bring your passions to Cascade STEAM and launch new efforts!
 
 ## Donate
 
