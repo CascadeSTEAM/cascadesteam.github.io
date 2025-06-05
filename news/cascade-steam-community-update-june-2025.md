@@ -32,7 +32,7 @@ permalink: /news/cascade-steam-community-update-june-2025
 * Cascade STEAM Cyber event on June 12th.  
 * Bellingham Linux Users Group event on June 18th.  
 * Cascade STEAM Citizen Science event on June 19th.
-* Cascade STEAM Data Engineering event is TBC.
+* Cascade STEAM Data Engineering event on June 25th.
 
 ## **Update**
 
@@ -68,7 +68,7 @@ Join Cascade STEAM [Cyber](/cyber) on June 12th from 5:20pm-7:00pm at Diamond Ji
 
 #### **Cascade STEAM Data Engineering**
 
-TBC.
+Join Cascade STEAM [Data Engineering](/data-engineering) on June 25th from 6:00pm-7:30pm at the [Bellingham Makerspace](https://bellinghammakerspace.org). Our topic this month is "Prompt Engineering" led by co-organizer Ryan Christensen. Anyone with an interest in data engineering, data analytics, artificial intelligence, or large language models is welcome and encouraged to attend.
 
 #### **Cascade STEAM Engineering**
 
@@ -96,7 +96,7 @@ See the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) for details
 * June 12th: [Cyber Community Group](/cyber)  
 * June 18th: [Bellingham Linux Users Group](https://blug.org)  
 * June 19th: [Citizen Science Community Group](/citizen-science) & [Stormwater Monitoring Community Project](/community-projects)  
-* (TBC): [Data Engineering Community Group](/data-engineering)
+* June 25th: [Data Engineering Community Group](/data-engineering)
 
 ### **Upcoming Partner Events**
 
