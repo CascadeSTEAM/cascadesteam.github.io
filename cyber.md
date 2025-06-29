@@ -12,7 +12,7 @@ permalink: /cyber
   }
 </style>
 
-<p align="center"><img src="/assets/images/Cascade STEAM Cyber.png" width="600" height="338" /></p>
+<p align="center"><img src="/assets/images/Cascade STEAM Cyber.png" width="600" /></p>
 
 <br>
 
