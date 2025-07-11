@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Template Page"
-permalink: /template_page
+title: "Cascade STEAM Community Update - July 2025"
+permalink: /news/cascade-steam-community-update-july-2025
 ---
 
 <style>
