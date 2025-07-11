@@ -23,6 +23,7 @@ STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, an
 
 ## News
 
+- [July 9, 2025: Cascade STEAM Community Update - July 2025](/news/cascade-steam-community-update-july-2025)
 - [June 4, 2025: Cascade STEAM Community Update - June 2025](/news/cascade-steam-community-update-june-2025)
 - [May 7, 2025: Cascade STEAM Community Update - May 2025](/news/cascade-steam-community-update-may-2025)
 - [May 5, 2025: Cascade STEAM Engineering Community Group Launched](/engineering)
