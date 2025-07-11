@@ -35,6 +35,10 @@ permalink: /news/cascade-steam-community-update-july-2025
 
 In June we kicked off the [Summer Mentorship Program Cohort](https://cascadesteam.org/mentorship), hosted community group events, prepared for PNW Climate Week, and continued development of our Internship Program.
 
+July includes further summer program development (below), preparation for PNW Climate Week, and brainstorming and planning for our upcoming Hackathon Event spearheaded by the Engineering Community Group. In August we'll take a break from Community Group events to fully enjoy summer and instead host the Cascade STEAM Summer Social. Community Group activity will restart in September.
+
+Wishing you all a safe, sunny, and fabulous July!
+
 ### **PNW Climate Week**
 
 Cascade STEAM is participating in [PNW Climate Week](https://pnwclimateweek.org/)\! Events take place July 16th-25th related to climate throughout the Pacific Northwest. See here for [ALL PNW Climate Week events](https://lu.ma/pnwclimateweek) and here for [PNW Climate Week Bellingham](https://lu.ma/pnwclimateweek) events. We will be exhibiting at [Kulshan Carbon Trust’s](https://www.kulshancarbontrust.org/) [Rooted in Resilience Event](https://lu.ma/ecm7k04t) on July 19th from 2pm-5pm at Boulevard Park (which we will be participating in as an exhibitor) and our [Citizen Science Community Group Event](https://lu.ma/4z1amj5u) on July 22nd from 5:30pm-7:30pm at Brandywine Kitchen. We encourage everyone to get out and participate in these excellent community events\!
