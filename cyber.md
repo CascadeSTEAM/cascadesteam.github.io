@@ -44,7 +44,7 @@ Featured Speaker:
 
 Topic: *Cybersecurity in Financial Services*
 
-Ever wonder what a cyber career might be like in the financial services sector? Donavon Swinney is the CISO at WECU and has spent his career in the financial services sector. We’ll hear about Donavon’s career journey, learn about the cybersecurity program at WECU, and will be able to ask Donavon about AI usage in the Financial Services Industry. 
+Ever wonder what a cyber career might be like in the financial services sector? Donavon Swinney is the Director of Information Security at WECU and has spent his career in the financial services sector. We’ll hear about Donavon’s career journey, learn about the cybersecurity program at WECU, and will be able to ask Donavon about AI usage in the Financial Services Industry. 
 
 
 ### Cascade STEAM Cyber Meeting #5 - October 9, 2025
