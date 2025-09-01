@@ -36,8 +36,12 @@ Join us as we continue to work on organizing our group and building a local cybe
 Mark your calendars and watch this space as we confirm meeting locations. Consider creating a [Meetup account](https://www.meetup.com/cascadesteam) and following Cascade STEAM, to receive email notices about our events. 
 
 ### Cascade STEAM Cyber Meeting #4 - September 11, 2025
-Thursday September 11, 2025 @ 5:20pm-7:00pm
-Location: to be announced
+**Time:** Thursday September 11, 2025 @ 5:20pm-7:00pm<br>
+**Location:** [Bellingham Makerspace](https://bellinghammakerspace.org/), inside Bellis Fair Mall, near Dick's Sporting Goods (1 Bellis Fair Parkway #618)<br>
+**Agenda:**
+* 5:20 - Doors open
+* 5:45 - Meeting begins
+* 6:45 - Wrap-up
 
 Featured Speaker: 
 **Donavon Swinney, CISSP, CISA, CISM, Director of Information Security, Whatcom Educational Credit Union (WECU)**
