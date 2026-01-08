@@ -29,9 +29,10 @@ Cascade STEAM Community Groups convene aspiring, current, and retired profession
 Community Groups are made possible through the commitment of [volunteer organizers](/leadership) and open collaboration of [partners](/partners). Scheduled events can be found on the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) and discussion at the [Cascade STEAM Community Hub (Discord)](http://hub.cascadesteam.org).
 
 Community Groups include:
+- **[Artificial Intelligence (AI)](/artificial-intelligence)**: artificial intelligence (AI)
 - **[Citizen Science](/citizen-science)**: science, in particular life sciences
 - **[Cyber](/cyber)**: cybersecurity
-- **[Data Engineering](/data-engineering)**: data engineering, including data storage and access, artificial intelligence (AI), machine learning (ML), and large language models (LLMs)
+- **[Data Engineering](/data-engineering)**: data engineering, including data storage and access, machine learning (ML), and large language models (LLMs)
 - **[Engineering](/engineering)**: engineering, including robotics
 - **[Open Source](/open-source)**: everything open source software and hardware, including GNU/Linux
 
