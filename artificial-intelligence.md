@@ -43,7 +43,7 @@ Additional events and workshops will take place with hybrid events or in-person 
 [Bellingham Makerspace](https://bellinghammakerspace.org)  
 [1 Bellis Fair Parkway \#618, Bellingham, WA 98225](https://www.google.com/maps/place/1+Bellis+Fair+Pkwy+%23+618,+Bellingham,+WA+98226/)
 
-**Organizers:**
+## Organizers
 
 [Volunteer Organizers](https://cascadesteam.org/leadership) of Cascade STEAM Artificial Intelligence are [Erica Lamont](https://www.linkedin.com/in/ericalamont/) and [Stephen Hanney](https://www.linkedin.com/in/stevehanney/). Please contact [artificial-intelligence@cascadesteam.org](mailto:artificial-intelligence@cascadesteam.org) for community group inquiries.
 
