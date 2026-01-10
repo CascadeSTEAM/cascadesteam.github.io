@@ -1,22 +1,10 @@
-<style>
-  .header {
-    display: none;
-  }
-  .footer {
-    display: none;
-  }
-</style>
-
-<p align="center"><img src="/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178" /></p>
-
-<br>
-
-[Home](/) | [About](/about) | [Community Groups](/community-groups) | [Community Projects](/community-projects) | [Get Involved](/get-involved) | [Donate](/donate) 
-
-<br>
-
-# Home
-
+---
+layout: page
+title: "Home"
+banner: assets/images/Cascade_STEAM_horizontal_logo_primary.svg
+banner-display: 80%
+banner-fade: -10
+---
 ## Mission
 
 Cascade STEAM is a 501(c)(3) nonprofit organization based in Bellingham, WA dedicated to *Develop and promote STEAM Education, Career Connected Learning, Digital Literacy, and Digital Equity for all people of all ages.*
@@ -24,18 +12,18 @@ Cascade STEAM is a 501(c)(3) nonprofit organization based in Bellingham, WA dedi
 STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, and Mathematics. STEAM education is a powerful framework to promote curiosity and creativity, encourage a shared learning experience, and build tools to solve important life challenges. We advocate through development and promotion of events, activities, and programs, and invite collaboration with community partners in shared purpose.
 
 ## News
-- [November 26, 2025: LinuxFest Northwest 2026 is almost here - Be a speaker, sponsor, or help as a volunteer](/linuxfest-northwest)
-- [November 24, 2025: Cascade STEAM Service Corps Program launched - a technology training program for social good](/service-corps)
-- [November 18, 2025: Cascade STEAM Hack Night launched - join us for open, collaborative sessions of shared learning](/hack-night)
-- [October 29, 2025: Cascade STEAM HelpDesk Program launched to provide Community Tech Support by Donation](/helpdesk)
+- [November 26, 2025: LinuxFest Northwest 2026 is almost here - Be a speaker, sponsor, or help as a volunteer](LinuxFest%20NorthWest.md)
+- [November 24, 2025: Cascade STEAM Service Corps Program launched - a technology training program for social good](Service%20Corps.md)
+- [November 18, 2025: Cascade STEAM Hack Night launched - join us for open, collaborative sessions of shared learning](Hack%20Night.md)
+- [October 29, 2025: Cascade STEAM HelpDesk Program launched to provide Community Tech Support by Donation](Helpdesk.md)
 
-See our [News Page](/news) for past topics.
+See our [News Page](News/index.md) for past topics.
 
 ## Programs
 
 Our efforts are organized into programs, each of which is rooted in education, shared learning experiences, building relationships, and positive community impact, including:
-- **[Community Groups](/community-groups)**: Organizing communities of aspiring, current, and retired professionals focusing on a STEAM topic, through recurring meetings and events.
-- **[Community Projects](/community-projects)**: Organized community engagement and community service projects, often collaborating with community partners.
+- **[Community Groups](Community%20Groups/index.md)**: Organizing communities of aspiring, current, and retired professionals focusing on a STEAM topic, through recurring meetings and events.
+- **[Community Projects](Community%20Projects/index.md)**: Organized community engagement and community service projects, often collaborating with community partners.
 
 ## Events
 
@@ -51,8 +39,8 @@ Join our [Community Hub](http://hub.cascadesteam.org) to connect virtually with 
 
 ## Code of Conduct
 
-All participants of Cascade STEAM events, activities, and programs agree to commit to our [Code of Conduct](/conduct).
+All participants of Cascade STEAM events, activities, and programs agree to commit to our [Code of Conduct](Code%20of%20Conduct.md).
 
 ## Contact Us
 
-Interested to [get involved](/get-involved)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://hub.cascadesteam.org).
+Interested to [get involved](Get%20Involved/index.md)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://hub.cascadesteam.org).
