@@ -3,6 +3,9 @@ layout: page
 title: Citizen Science
 tags:
   - community-group
+banner: assets/images/Cascade_STEAM_horizontal_logo_primary.svg
+banner-display: 80%
+banner-fade: -10
 ---
 Citizen Science is a Cascade STEAM [Community Group](Community%20Groups/index.md) with a focus on science and science-related [community projects](Community%20Projects/index.md).
 

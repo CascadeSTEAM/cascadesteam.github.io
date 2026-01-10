@@ -3,6 +3,9 @@ layout: page
 title: "HelpDesk"
 tags:
   - community-project
+banner: assets/images/Cascade_STEAM_horizontal_logo_primary.svg
+banner-display: 80%
+banner-fade: -10
 ---
 Community Tech Support is now available from [Cascade STEAM](https://cascadesteam.org) via our [HelpDesk](Helpdesk.md) Program. Assistance is offered to the public from volunteer technology professionals and students by donation.
 

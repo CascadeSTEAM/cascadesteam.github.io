@@ -1,7 +1,9 @@
 ---
 layout: page
 title: "Outreach"
-permalink: /outreach
+banner: assets/images/Cascade_STEAM_horizontal_logo_primary.svg
+banner-display: 80%
+banner-fade: -10
 ---
 Logos and print materials to assist outreach. Thank you for your support.
 

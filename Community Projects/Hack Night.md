@@ -3,6 +3,9 @@ layout: page
 title: "Hack Night"
 tags:
   - community-project
+banner: assets/images/Cascade_STEAM_horizontal_logo_primary.svg
+banner-display: 80%
+banner-fade: -10
 ---
 Join [Cascade STEAM](/) for [Hack Night](Hack%20Night.md) on Saturdays from 4pm-"Late" at the Bellingham Makerspace for an open, collaborative session of shared learning! Bring your projects, homework, questions, and ideas and let’s do them together.
 

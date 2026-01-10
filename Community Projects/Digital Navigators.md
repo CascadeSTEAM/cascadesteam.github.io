@@ -3,6 +3,9 @@ layout: page
 title: "Digital Navigators"
 tags:
   - community-project
+banner: assets/images/Cascade_STEAM_horizontal_logo_primary.svg
+banner-display: 80%
+banner-fade: -10
 ---
 FREE Community Tech Support is now available from Cascade STEAM via our [Digital Navigators](Digital%20Navigators.md) Program. Assistance is offered to the public from technology students and industry professionals through scheduled onsite events at social welfare and support organizations to help resolve basic computing challenges completely free of charge.
 

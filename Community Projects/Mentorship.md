@@ -3,6 +3,9 @@ layout: page
 title: "Mentorship"
 tags:
   - community-project
+banner: assets/images/Cascade_STEAM_horizontal_logo_primary.svg
+banner-display: 80%
+banner-fade: -10
 ---
 Cascade STEAM Mentorship connects community members interested in STEAM in either a "Traditional Mentorship" or "Peer Mentorship" arrangement and provides a support structure for a positive mentorship experience for all.
 
