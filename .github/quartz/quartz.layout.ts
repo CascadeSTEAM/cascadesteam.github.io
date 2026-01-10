@@ -9,9 +9,9 @@ const Logo: Component.QuartzComponent = () => {
   return jsx("div", {
     class: "logo",
     children: jsx("a", {
-      href: "/cascadesteam/",
+      href: "/",
       children: jsx("img", {
-        src: "/cascadesteam/assets/images/Cascade_STEAM_horizontal_logo_primary.svg",
+        src: "/assets/images/Cascade_STEAM_horizontal_logo_primary.svg",
         alt: "Site Logo",
         width: "600px", 
         height: "178px"
@@ -56,7 +56,7 @@ export const sharedPageComponents: SharedLayout = {
   ],
   footer: Component.Footer({
     links: {
-      "GitHub": "https://github.com/growlf/cascadesteam",
+      "GitHub": "https://github.com/CascadeSTEAM/cascadesteam.github.io",
     },
   }),
 }
