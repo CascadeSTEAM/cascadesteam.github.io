@@ -24,7 +24,3 @@ Are you interested in being a sponsor or an exhibitor at LinuxFest? Please conta
 See the LinuxFest Northwest [Website](https://lfnw.org/) for general event information and the [Blog](https://discuss.lfnw.org/) for important event updates. All attendees agree to the [Code of Conduct](https://lfnw.org/policies/).
 
 Do you have a question regarding LinuxFest? Are you interested to volunteer? Please contact Michael Gan, a LinuxFest Northwest organizer, at [michael.gan@linuxfestnorthwest.org](mailto:michael.gan@linuxfestnorthwest.org).
-
-## Contact Us
-
-Interested to [get involved](Get%20Involved/index.md)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://hub.cascadesteam.org).

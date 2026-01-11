@@ -33,7 +33,3 @@ Sponsors are needed\! The cost of competition is expensive \- particularly trans
 ## Organizers
 
 Please contact Riley Liddle, Squalicum High School Robotics Lead and Cascade STEAM Engineering Community Group Co-Organizer, at [riley.liddle@bellinghamschools.org](mailto:riley.liddle@bellinghamschools.org) for any questions or comments regarding Educational Robotics, including volunteering and sponsorship.
-
-## Contact Us
-
-Interested to [get involved](Get%20Involved/index.md)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://hub.cascadesteam.org).

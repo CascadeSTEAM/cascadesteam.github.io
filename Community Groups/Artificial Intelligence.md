@@ -30,7 +30,3 @@ Additional events and workshops will take place with hybrid events or in-person 
 ## Organizers
 
 [Volunteer Organizers](https://cascadesteam.org/leadership) of Cascade STEAM Artificial Intelligence are [Erica Lamont](https://www.linkedin.com/in/ericalamont/) and [Stephen Hanney](https://www.linkedin.com/in/stevehanney/). Please contact [artificial-intelligence@cascadesteam.org](mailto:artificial-intelligence@cascadesteam.org) for community group inquiries.
-
-## Contact Us
-
-Interested to [get involved](/get-involved)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://hub.cascadesteam.org).

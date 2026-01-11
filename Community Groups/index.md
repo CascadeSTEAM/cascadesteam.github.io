@@ -38,7 +38,3 @@ Shared resources include:
 - [LinkedIn](https://linkedin.com/company/cascadesteam) to promote your activities to professional networks.
 - [Facebook](https://facebook.com/cascadesteam) to promote your activities to personal networks.
 - [Google Workspace](https://workspace.google.com) with an organization email address and shared community group email address and Google Drive Shared Folder to organize collaboration.
-
-## Contact Us
-
-Interested to [get involved](Get%20Involved/index.md)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://discord.cascadesteam.org).

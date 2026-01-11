@@ -27,7 +27,3 @@ Is your computer no longer supported by the original manufacturer? This is a HUG
 Please use our [Support Request Form](https://forms.gle/KYy3kUcMFQ9nvoWF9) to share details about your needs so that we can better assist you. A requested date and time is encouraged. Your feedback is also welcome.
 
 Contact us at [helpdesk@cascadesteam.org](mailto:helpdesk@cascadesteam.org) for questions or comments regarding the HelpDesk Program.
-
-## Contact Us
-
-Interested to [get involved](Get%20Involved/index.md)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://hub.cascadesteam.org).
