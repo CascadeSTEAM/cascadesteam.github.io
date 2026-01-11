@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Educational Robotics Community Project"
+title: "Educational Robotics"
 tags:
   - community-project
 banner: assets/images/Cascade_STEAM_horizontal_logo_primary.svg

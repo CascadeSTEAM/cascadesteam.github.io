@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Artificial Intelligence Community Group
+title: Artificial Intelligence
 tags:
   - community-group
 banner: assets/images/Cascade_STEAM_horizontal_logo_primary.svg
