@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "News"
+title: News
 banner: assets/images/Cascade_STEAM_horizontal_logo_primary.svg
 banner-display: 80%
 banner-fade: -10
+tags:
+  - news
 ---
 %% DATAVIEW_PUBLISHER: start
 ```dataview
