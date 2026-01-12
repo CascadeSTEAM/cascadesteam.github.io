@@ -1,9 +1,12 @@
 ---
 layout: page
 title: "Community Groups"
-banner: assets/images/Cascade_STEAM_horizontal_logo_primary.svg
-banner-display: 80%
-banner-fade: -10
+banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
+banner-x: 60
+banner-y: 40
+banner-height: 260
+content-start: 211
+banner-display: auto
 ---
 Cascade STEAM Community Groups convene aspiring, current, and retired professionals interested in a STEAM topic to connect with fellow community members, discuss technical topics, participate in community building and community service programs, and collaborate with organizations in shared purpose on community projects.
 

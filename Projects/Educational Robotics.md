@@ -3,9 +3,12 @@ layout: page
 title: "Educational Robotics"
 tags:
   - community-project
-banner: assets/images/Cascade_STEAM_horizontal_logo_primary.svg
-banner-display: 80%
-banner-fade: -10
+banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
+banner-x: 60
+banner-y: 40
+banner-height: 260
+content-start: 211
+banner-display: auto
 ---
 Educational Robotics is a collaboration of the Cascade STEAM [Engineering Community Group](https://cascadesteam.org/engineering) and [Bellingham Public Schools](https://www.bellinghamschools.org) to support their [VEX Robotics Program](https://www.vexrobotics.com/). With VEX Robotics, hundreds of students throughout the district participate in a range of casual to globally-competitive robotics development, including mechanical engineering, fabrication, assembly, software development, technical writing, and project management. We help students learn robotics and host local robotics events.
 

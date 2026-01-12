@@ -1,11 +1,14 @@
 ---
 layout: page
 title: "Community Projects"
-banner: assets/images/Cascade_STEAM_horizontal_logo_primary.svg
-banner-display: 80%
-banner-fade: -10
+banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
+banner-x: 60
+banner-y: 40
+banner-height: 260
+content-start: 211
+banner-display: auto
 ---
-Cascade STEAM Community Projects are organized collaborative efforts for community impact and social good. We welcome all people of all ages to participate. Organization and discussion occurs at our [Community Group](Community%20Groups/index.md) meetings and on our [Community Hub](http://hub.cascadesteam.org). See our [Meetup Page](https://meetup.com/cascadesteam) for scheduled events.
+Cascade STEAM Community Projects are organized collaborative efforts for community impact and social good. We welcome all people of all ages to participate. Organization and discussion occurs at our [Community Group](Groups/index.md) meetings and on our [Community Hub](http://hub.cascadesteam.org). See our [Meetup Page](https://meetup.com/cascadesteam) for scheduled events.
 
 ## Digital Navigators
 
@@ -21,7 +24,7 @@ Join Cascade STEAM for [Hack Night](Hack%20Night.md) on Saturdays from 4pm-"Late
 
 ## HelpDesk
 
-Community Tech Support is now available from Cascade STEAM via our [HelpDesk](Helpdesk.md) Program. Assistance is offered to the public from volunteer technology professionals and students by suggested donation.
+Community Tech Support is now available from Cascade STEAM via our [HelpDesk](Projects/Helpdesk.md) Program. Assistance is offered to the public from volunteer technology professionals and students by suggested donation.
 
 ## LinuxFest Northwest Conference
 

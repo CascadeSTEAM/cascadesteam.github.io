@@ -3,11 +3,14 @@ layout: page
 title: Open Source
 tags:
   - community-group
-banner: assets/images/Cascade_STEAM_horizontal_logo_primary.svg
-banner-display: 80%
-banner-fade: -10
+banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
+banner-x: 60
+banner-y: 40
+banner-height: 260
+content-start: 211
+banner-display: auto
 ---
-Open Source is a Cascade STEAM [Community Group](Community%20Groups/index.md) with a focus on science and science-related [community projects](Community%20Projects/index.md). Join us each month as we meet to discuss Open Source Software and Hardware. Our current focus is a HomeLab Series highlighting fundamental open source software. Explore how you can design your own homelab and learn how we are incorporating these solutions into our own organization and programs.
+Open Source is a Cascade STEAM [Community Group](Groups/index.md) with a focus on science and science-related [community projects](Projects/index.md). Join us each month as we meet to discuss Open Source Software and Hardware. Our current focus is a HomeLab Series highlighting fundamental open source software. Explore how you can design your own homelab and learn how we are incorporating these solutions into our own organization and programs.
 
 ## Meetings
 

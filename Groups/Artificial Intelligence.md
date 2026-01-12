@@ -3,9 +3,12 @@ layout: page
 title: Artificial Intelligence
 tags:
   - community-group
-banner: assets/images/Cascade_STEAM_horizontal_logo_primary.svg
-banner-display: 80%
-banner-fade: -10
+banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
+banner-x: 60
+banner-y: 40
+banner-height: 260
+content-start: 211
+banner-display: auto
 ---
 Artificial Intelligence (AI) is a Cascade STEAM [Community Group](https://cascadesteam.org/community-groups) focused on AI learning and AI-related community projects. We host live sessions (in-person and virtual) with speakers across industries and time zones, share real experiments and use cases, and create space for honest questions and thoughtful discussion. 
 

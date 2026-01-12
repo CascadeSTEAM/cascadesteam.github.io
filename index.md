@@ -1,9 +1,13 @@
 ---
 layout: page
 title: "Home"
-banner: assets/images/Cascade_STEAM_horizontal_logo_primary.svg
-banner-display: 80%
-banner-fade: -10
+banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
+banner-x: 60
+banner-y: 40
+banner-height: 260
+content-start: 211
+banner-display: auto
+
 ---
 ## Mission
 
@@ -15,15 +19,15 @@ STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, an
 - [November 26, 2025: LinuxFest Northwest 2026 is almost here - Be a speaker, sponsor, or help as a volunteer](LinuxFest%20NorthWest.md)
 - [November 24, 2025: Cascade STEAM Service Corps Program launched - a technology training program for social good](Service%20Corps.md)
 - [November 18, 2025: Cascade STEAM Hack Night launched - join us for open, collaborative sessions of shared learning](Hack%20Night.md)
-- [October 29, 2025: Cascade STEAM HelpDesk Program launched to provide Community Tech Support by Donation](Helpdesk.md)
+- [October 29, 2025: Cascade STEAM HelpDesk Program launched to provide Community Tech Support by Donation](Projects/Helpdesk.md)
 
 See our [News Page](News/index.md) for past topics.
 
 ## Programs
 
 Our efforts are organized into programs, each of which is rooted in education, shared learning experiences, building relationships, and positive community impact, including:
-- **[Community Groups](Community%20Groups/index.md)**: Organizing communities of aspiring, current, and retired professionals focusing on a STEAM topic, through recurring meetings and events.
-- **[Community Projects](Community%20Projects/index.md)**: Organized community engagement and community service projects, often collaborating with community partners.
+- **[Community Groups](Groups/index.md)**: Organizing communities of aspiring, current, and retired professionals focusing on a STEAM topic, through recurring meetings and events.
+- **[Community Projects](Projects/index.md)**: Organized community engagement and community service projects, often collaborating with community partners.
 
 ## Events
 

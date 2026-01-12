@@ -3,9 +3,12 @@ layout: page
 title: "Mentorship"
 tags:
   - community-project
-banner: assets/images/Cascade_STEAM_horizontal_logo_primary.svg
-banner-display: 80%
-banner-fade: -10
+banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
+banner-x: 60
+banner-y: 40
+banner-height: 260
+content-start: 211
+banner-display: auto
 ---
 Cascade STEAM Mentorship connects community members interested in STEAM in either a "Traditional Mentorship" or "Peer Mentorship" arrangement and provides a support structure for a positive mentorship experience for all.
 
@@ -30,7 +33,7 @@ For Summer 2025, Mentorship is designed for those 18 years of age or older - hig
 
 ## Community Groups
 
-Mentorship is integrated into [Community Groups](Community%20Groups/index.md), each convening separately in recurring meetings to discuss topical interests and connect with fellow community members. See all scheduled Community Group events at the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam).
+Mentorship is integrated into [Community Groups](Groups/index.md), each convening separately in recurring meetings to discuss topical interests and connect with fellow community members. See all scheduled Community Group events at the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam).
 
 ## Data Policy
 
