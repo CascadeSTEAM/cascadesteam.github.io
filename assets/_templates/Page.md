@@ -1,6 +1,11 @@
-# Cascade STEAM Website
+---
+layout: page
+title:
+banner: assets/images/Cascade_STEAM_horizontal_logo_primary.svg
+banner-display: 80%
+banner-fade: -10
+---
 
-This repository contains the markdown / Github Pages website for [Cascade STEAM](https://cascadesteam.org).
 
 ## Contact Us
 
