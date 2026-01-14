@@ -7,8 +7,7 @@ banner-height: 260
 content-start: 211
 banner-display: auto
 aliases:
-  - events
-  - calendar
+  - /events
 tags:
   - calendar
 ---
