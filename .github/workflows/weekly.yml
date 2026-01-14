@@ -1,0 +1,39 @@
+name: Weekly Sync Main to Publish
+on:
+  schedule:
+    - cron: '0 0 * * 1' # Runs every Monday at 00:00 UTC
+  workflow_dispatch:      # Allows manual trigger for testing
+
+jobs:
+  sync-branches:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetches all history for all branches
+
+      - name: Create and Auto-Merge PR
+        run: |
+          # 1. Create the PR from main to publish
+          # -B: base branch (target), -H: head branch (source)
+          PR_URL=$(gh pr create \
+            --base publish \
+            --head main \
+            --title "Weekly Sync: main to publish" \
+            --body "Automated weekly sync of main into publish branch." \
+            2>/dev/null || echo "exists")
+
+          # 2. Process the PR (Merge)
+          if [ "$PR_URL" != "exists" ]; then
+            echo "PR created: $PR_URL"
+            # Merges the PR immediately. Use --auto if you have status checks to wait for.
+            gh pr merge "$PR_URL" --merge --delete-branch=false
+          else
+            echo "A Pull Request already exists or no changes to sync."
+          fi
