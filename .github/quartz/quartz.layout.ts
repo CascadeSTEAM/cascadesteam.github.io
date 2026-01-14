@@ -27,6 +27,27 @@ Logo.css = `
 }
 `
 
+// Bottom Donation / Involvement Section
+const PageFooter: Component.QuartzComponent = () => {
+  return jsx("div", {
+    class: "page-footer",
+    children:
+      jsx("div", {
+        class: "footer-bottom",
+        children: jsx("p", { children: "Interested to get involved? Volunteer? Collaborate? We would love to hear from you! Please contact Michael Gan, Cascade STEAM President, for any inquiries at michael.gan@cascadesteam.org, 360-499-2099, or @michael Gan via the Cascade STEAM Community Hub." })
+      })
+  })
+}
+
+PageFooter.displayName = "PageFooter"
+PageFooter.css = `
+.page-footer {
+  padding: 1rem;
+  text-align: center;
+}
+`
+
+
 const Footer: Component.QuartzComponent = () => {
   return jsx("footer", {
     class: "custom-footer",
@@ -132,11 +153,6 @@ const Footer: Component.QuartzComponent = () => {
         ]
       }),
 
-      // Bottom Donation / Involvement Section
-      jsx("div", {
-        class: "footer-bottom",
-        children: jsx("p", { children: "Interested to get involved? Volunteer? Collaborate? We would love to hear from you! Please contact Michael Gan, Cascade STEAM President, for any inquiries at michael.gan@cascadesteam.org, 360-499-2099, or @michael Gan via the Cascade STEAM Community Hub." })
-      }),
       // Bottom Copyright
       jsx("div", {
         class: "footer-bottom",
@@ -221,7 +237,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [
     Logo,
   ],
-  afterBody: [],
+  afterBody: [PageFooter,],
   footer: Footer,
 }
 
