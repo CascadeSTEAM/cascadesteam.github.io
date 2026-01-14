@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Events/index.md",
                 "mode": "preview",
                 "source": false
               },
@@ -200,11 +200,17 @@
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-livesync:Show Customization sync": false
+      "obsidian-livesync:Show Customization sync": false,
+      "card-board:CardBoard": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "6c7b73d965096010",
   "lastOpenFiles": [
+    "Get Involved/index.md",
+    "Groups/index.md",
+    "README.md",
+    "index.md",
     "News/index.md",
     "internal/Priority/index.md",
     "internal/Meeting Notes/index.md",
@@ -222,7 +228,6 @@
     "internal/Communities.md",
     "internal/Testing/Test Base.md",
     "internal/Testing/Testing.md",
-    "index.md",
     "internal/Priority/Issues/Install Applications to workstations (Ongoing).md",
     "internal/Priority/Projects/Completed/index.base",
     "internal/Policies/index.md",
@@ -234,9 +239,6 @@
     "internal/Welcome.md",
     "internal/Priority/Projects/VLANs Project(WIP).md",
     "internal/Priority/Projects/RFID Tool Interlock.md",
-    "internal/Priority/Projects/Reorganize Server Hardware Stack in Datacenters 1.md",
-    "internal/Priority/Projects/Optimize Services.md",
-    "internal/Priority/Projects/Docker Swarm LXC Security.md",
     "internal/_assets/87b73bda1ba83cb30836b6986c849de1e5ad6466_96.png",
     "internal/_assets/excalidrawings/speachbubble.svg",
     "internal/_assets/BasicNetwork_diagram.excalidraw.dark.svg",

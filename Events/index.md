@@ -6,6 +6,11 @@ banner-y: 40
 banner-height: 260
 content-start: 211
 banner-display: auto
+aliases:
+  - /events
+tags:
+  - calendar
+permalink: events
 ---
 You can add this calendar to your own, [here](https://calendar.google.com/calendar/u/0?cid=Y184M2IzZGQwMDBmNDE0NDhkMTEwOGM2MjNlNWNjZTQ4MThmM2IyZDkyNTZhYzRkM2M1MGQ3YzViMmFlOGJkZWU1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
