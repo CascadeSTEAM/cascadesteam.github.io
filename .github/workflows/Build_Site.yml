@@ -15,16 +15,14 @@ on:
     branches:
       - publish
     types: [closed] # Only trigger when a PR is closed
-  release:
-    types: [published]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-    inputs:
-      environment:
-        description: 'The environment to deploy to'
-        required: true
-        default: 'production'
+    # inputs:
+    #   environment:
+    #     description: 'The environment to deploy to'
+    #     required: true
+    #     default: 'production'
 
 # Permissions required for the workflow
 permissions:
