@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Service Corps"
+title: Service Corps
 tags:
   - community-project
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
@@ -9,6 +9,8 @@ banner-y: 40
 banner-height: 260
 content-start: 211
 banner-display: auto
+aliases:
+  - /service-corps
 ---
 Cascade STEAM [Service Corps](https://cascadesteam.org/service-corps) is a technology training program for social good. Each quarter, student interns and volunteers work closely with technology professionals to help develop and maintain the systems that we utilize for our organization and community programs, including [Digital Navigators](https://cascadesteam.org/digital-navigators) and [HelpDesk](https://cascadesteam.org/helpdesk).
 

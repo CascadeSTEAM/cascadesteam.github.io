@@ -9,6 +9,8 @@ banner-y: 40
 banner-height: 260
 content-start: 211
 banner-display: auto
+aliases:
+  - /citizen-science
 ---
 Citizen Science is a Cascade STEAM [Community Group](Groups/index.md) with a focus on science and science-related [community projects](Projects/index.md).
 

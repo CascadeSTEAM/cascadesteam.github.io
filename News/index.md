@@ -9,6 +9,8 @@ content-start: 211
 banner-display: auto
 tags:
   - news
+aliases:
+  - /news
 ---
 %% DATAVIEW_PUBLISHER: start
 ```dataview

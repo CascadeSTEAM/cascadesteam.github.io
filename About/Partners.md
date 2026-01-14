@@ -1,12 +1,14 @@
 ---
 layout: page
-title: "Partners"
+title: Partners
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
 banner-x: 60
 banner-y: 40
 banner-height: 260
 content-start: 211
 banner-display: auto
+aliases:
+  - /partners
 ---
 Cascade STEAM is made possible through the commitment of [volunteer leadership](Leadership.md) and open collaboration of partners. Thank you all for your efforts. Partners include:
 

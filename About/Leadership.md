@@ -1,12 +1,14 @@
 ---
 layout: page
-title: "Leadership"
+title: Leadership
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
 banner-x: 60
 banner-y: 40
 banner-height: 260
 content-start: 211
 banner-display: auto
+aliases:
+  - /leadership
 ---
 Cascade STEAM is made possible through the commitment of volunteer leadership and open collaboration of [Partners](Partners.md). Cascade STEAM Leadership includes Board of Directors, Organizers, and Committee Members. Thank you all for your efforts.
 
