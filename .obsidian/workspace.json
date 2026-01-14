@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groups/index.md",
+                "file": "Events/index.md",
                 "mode": "preview",
                 "source": false
               },
@@ -208,6 +208,7 @@
   "active": "6c7b73d965096010",
   "lastOpenFiles": [
     "Get Involved/index.md",
+    "Groups/index.md",
     "README.md",
     "index.md",
     "News/index.md",
@@ -238,7 +239,6 @@
     "internal/Welcome.md",
     "internal/Priority/Projects/VLANs Project(WIP).md",
     "internal/Priority/Projects/RFID Tool Interlock.md",
-    "internal/Priority/Projects/Reorganize Server Hardware Stack in Datacenters 1.md",
     "internal/_assets/87b73bda1ba83cb30836b6986c849de1e5ad6466_96.png",
     "internal/_assets/excalidrawings/speachbubble.svg",
     "internal/_assets/BasicNetwork_diagram.excalidraw.dark.svg",
