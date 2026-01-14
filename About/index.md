@@ -7,6 +7,8 @@ banner-y: 40
 banner-height: 260
 content-start: 211
 banner-display: auto
+aliases:
+  - /about
 ---
 ## Mission
 

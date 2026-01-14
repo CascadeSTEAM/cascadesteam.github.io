@@ -1,6 +1,6 @@
 # Cascade STEAM Website
 
-This repository contains the markdown / Github Pages website for [Cascade STEAM](https://cascadesteam.org).
+This [repository](https://github.com/CascadeSTEAM/cascadesteam.github.io/) contains the markdown / Github Pages website for [Cascade STEAM](https://cascadesteam.org).
 
 ## Contact Us
 
