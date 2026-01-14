@@ -8,15 +8,14 @@
 name: Build Quartz Site
 on:
 
+on:
   push:
     branches:
       - publish
-    # Publish semver tags as releases.
-    tags: [ 'v*.*.*' ]
-    paths:
-      - '**'
   pull_request:
-    branches: [ "publish" ]
+    branches:
+      - publish
+    types: [closed] # Only trigger when a PR is closed
   release:
     types: [published]
 
