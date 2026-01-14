@@ -1,0 +1,106 @@
+name: Weekly Sync & Build Quartz
+on:
+  schedule:
+    - cron: '0 0 * * 1' # Runs every Monday at 00:00 UTC
+  workflow_dispatch:
+    inputs:
+      run_sync:
+        description: 'Sync Main to Publish'
+        type: boolean
+        default: true
+      run_build:
+        description: 'Build & Deploy Quartz Site'
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+  pull-requests: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  sync-branches:
+    # Run if triggered by schedule OR if manual sync checkbox is true
+    if: github.event_name == 'schedule' || github.event.inputs.run_sync == 'true'
+    runs-on: ubuntu-latest
+    outputs:
+      has_changes: ${{ steps.check-diff.outputs.has_changes }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check for changes and Merge
+        id: check-diff
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git fetch origin main publish
+          DIFF=$(git diff origin/publish...origin/main)
+          
+          if [ -z "$DIFF" ]; then
+            echo "No changes to sync."
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          echo "has_changes=true" >> $GITHUB_OUTPUT
+          
+          PR_URL=$(gh pr create \
+            --base publish \
+            --head main \
+            --title "Weekly Sync: main to publish" \
+            --body "Automated weekly sync." \
+            2>/dev/null || echo "exists")
+
+          if [ "$PR_URL" != "exists" ]; then
+            gh pr merge "$PR_URL" --merge --admin
+          fi
+
+  build-and-deploy:
+    # Runs if:
+    # 1. Manual build checkbox is checked OR it's a scheduled run
+    # 2. AND (the sync job found changes OR the sync job was skipped/not run)
+    needs: sync-branches
+    if: |
+      always() && 
+      (github.event_name == 'schedule' || github.event.inputs.run_build == 'true') &&
+      (needs.sync-branches.result == 'success' || needs.sync-branches.result == 'skipped')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: publish
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Build Quartz
+        uses: konstfish/quartz-build-action@v6
+        with:
+          source: .
+          page_title: "Cascade STEAM"
+          quartz_config: .github/quartz/quartz.config.ts
+          quartz_layout: .github/quartz/quartz.layout.ts
+          quartz_icon: .github/quartz/icon.png
+          quartz_custom_css: .github/quartz/custom.scss
+          quartz_banner: assets/images/Cascade_STEAM_horizontal_logo_primary.svg
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
