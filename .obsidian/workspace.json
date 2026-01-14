@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/index.md",
+                "file": "Get Involved/index.md",
                 "mode": "preview",
                 "source": false
               },
@@ -205,9 +205,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6c7b73d965096010",
+  "active": "fb9b7d43406f3d66",
   "lastOpenFiles": [
+    "Events/index.md",
+    "Events",
+    "About/index.md",
+    "About/Partners.md",
+    "About/Organization.md",
+    "About/Leadership.md",
+    "About/Code of Conduct.md",
+    "About",
+    "events/index.md",
     "Get Involved/index.md",
+    "about/index.md",
     "Groups/index.md",
     "README.md",
     "index.md",
@@ -222,9 +232,7 @@
     "internal/Infrastructure/index.md",
     "internal/Priority/Projects/index.md",
     "internal/Priority/Issues/index.base",
-    "Events/index.md",
     "assets/index.md",
-    "About/index.md",
     "internal/Communities.md",
     "internal/Testing/Test Base.md",
     "internal/Testing/Testing.md",
@@ -232,13 +240,7 @@
     "internal/Priority/Projects/Completed/index.base",
     "internal/Policies/index.md",
     "internal/People/index.base",
-    "internal/Infrastructure/CHANGELOG/index.md",
     "internal/Infrastructure/Devices/index.base",
-    "internal/Infrastructure/Networks/index.md",
-    "internal/index.md",
-    "internal/Welcome.md",
-    "internal/Priority/Projects/VLANs Project(WIP).md",
-    "internal/Priority/Projects/RFID Tool Interlock.md",
     "internal/_assets/87b73bda1ba83cb30836b6986c849de1e5ad6466_96.png",
     "internal/_assets/excalidrawings/speachbubble.svg",
     "internal/_assets/BasicNetwork_diagram.excalidraw.dark.svg",
@@ -250,8 +252,6 @@
     "internal/_assets/360_F_89026793_eyw5a7WCQE0y1RHsizu41uhj7YStgvAA.jpg",
     "internal/_assets/Joining Obsidian LiveSync Images/Pasted image 20251007231103.png",
     "internal/Priority/Issues/Issues",
-    "internal/Priority/Projects",
-    "internal/Priority/Priority",
-    "internal/_assets/_excalidraw/Libraries/some-handdrawn-signs.excalidrawlib"
+    "internal/Priority/Projects"
   ]
 }
