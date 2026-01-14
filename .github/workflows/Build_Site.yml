@@ -1,5 +1,5 @@
 # This workflow builds and deploys the Quartz site to GitHub Pages.
-# It is triggered on a schedule, on pushes to the main branch, version tags, and releases.
+# It is triggered on a schedule, on pushes to the publish branch, version tags, and releases.
 # It also allows manual triggering with an input for the environment.
 # The workflow consists of two jobs: build and deploy.
 #
@@ -16,7 +16,7 @@ on:
     paths:
       - '**'
   pull_request:
-    branches: [ "main" ]
+    branches: [ "publish" ]
   release:
     types: [published]
 
