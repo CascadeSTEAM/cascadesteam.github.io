@@ -132,6 +132,14 @@ const Footer: Component.QuartzComponent = () => {
         ]
       }),
 
+
+
+
+      // Bottom Copyright
+      jsx("div", {
+        class: "footer-bottom",
+        children: jsx("p", { children: "Interested to get involved? Volunteer? Collaborate? We would love to hear from you! Please contact Michael Gan, Cascade STEAM President, for any inquiries at michael.gan@cascadesteam.org, 360-499-2099, or @michael Gan via the Cascade STEAM Community Hub." })
+      })
       // Bottom Copyright
       jsx("div", {
         class: "footer-bottom",
