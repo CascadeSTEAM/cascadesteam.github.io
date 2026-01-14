@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "a8e5864ba13fe8c3",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "ebd9dbed401e5053",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "d82b641bf7bfc33d",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Service Corps.md",
+                "file": "News/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Service Corps"
+              "title": "index"
             }
           }
         ]
@@ -200,13 +200,16 @@
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "workspaces:Manage workspace layouts": false,
       "obsidian-livesync:Show Customization sync": false,
-      "card-board:CardBoard": false,
-      "workspaces:Manage workspace layouts": false
+      "card-board:CardBoard": false
     }
   },
-  "active": "fb9b7d43406f3d66",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "internal/index.md",
+    "index.md",
+    "Projects/Service Corps.md",
     "Events/index.md",
     "Events",
     "About/index.md",
@@ -234,9 +237,6 @@
     "Get Involved/Donate.md",
     "Projects/Digital Navigators.md",
     "Groups/Data Engineering.md",
-    "Groups/Cyber.md",
-    "Projects/index.md",
-    "Groups/index.md",
     "internal/Meeting Notes/index.base",
     "internal/Infrastructure/Services/index.base",
     "internal/Priority/Issues/index.base",
