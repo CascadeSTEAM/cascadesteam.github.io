@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/index.md",
+                "file": "Get Involved/index.md",
                 "mode": "preview",
                 "source": false
               },
@@ -205,9 +205,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6c7b73d965096010",
+  "active": "913e242a46932458",
   "lastOpenFiles": [
+    "events/index.md",
     "Get Involved/index.md",
+    "about/index.md",
     "Groups/index.md",
     "README.md",
     "index.md",
@@ -222,9 +224,7 @@
     "internal/Infrastructure/index.md",
     "internal/Priority/Projects/index.md",
     "internal/Priority/Issues/index.base",
-    "Events/index.md",
     "assets/index.md",
-    "About/index.md",
     "internal/Communities.md",
     "internal/Testing/Test Base.md",
     "internal/Testing/Testing.md",
