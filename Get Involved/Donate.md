@@ -1,12 +1,14 @@
 ---
 layout: page
-title: "Donate"
+title: Donate
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
 banner-x: 60
 banner-y: 40
 banner-height: 260
 content-start: 211
 banner-display: auto
+aliases:
+  - /donate
 ---
 Cascade STEAM Programs are *“Free. Open to everyone. All are welcome. Family friendly. Bring your friends\!”* on purpose: We keep participation free *“for all people of all ages”* as a commitment to Digital Equity.
 

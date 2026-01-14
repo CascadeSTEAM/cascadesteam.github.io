@@ -9,6 +9,8 @@ banner-y: 40
 banner-height: 260
 content-start: 211
 banner-display: auto
+aliases:
+  - /data-engineering
 ---
 Data Engineering is a Cascade STEAM [Community Group](Groups/index.md) with a focus on data engineering topics, including artificial intelligence (AI), machine learning (ML), and large language models (LLM), and welcoming participation in [community projects](Projects/index.md) from a data engineering perspective.
 

@@ -8,7 +8,7 @@ banner-height: 260
 content-start: 211
 banner-display: auto
 aliases:
-  - /getinvolved
+  - /get-involved
 ---
 We welcome all people of all ages to participate in helping support Cascade STEAM and thank you for your efforts.
 

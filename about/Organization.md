@@ -1,12 +1,14 @@
 ---
 layout: page
-title: "Organization"
+title: Organization
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
 banner-x: 60
 banner-y: 40
 banner-height: 260
 content-start: 211
 banner-display: auto
+aliases:
+  - /organization
 ---
 Cascade STEAM is a 501(c)(3) nonprofit organization based in Bellingham, WA dedicated to *develop and promote STEAM Education, Career Connected Learning, Digital Literacy, and Digital Equity for all people of all ages.*
 

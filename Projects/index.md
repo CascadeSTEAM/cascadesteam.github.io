@@ -1,12 +1,14 @@
 ---
 layout: page
-title: "Community Projects"
+title: Community Projects
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
 banner-x: 60
 banner-y: 40
 banner-height: 260
 content-start: 211
 banner-display: auto
+aliases:
+  - /community-projects
 ---
 Cascade STEAM Community Projects are organized collaborative efforts for community impact and social good. We welcome all people of all ages to participate. Organization and discussion occurs at our [Community Group](Groups/index.md) meetings and on our [Community Hub](http://hub.cascadesteam.org). See our [Meetup Page](https://meetup.com/cascadesteam) for scheduled events.
 

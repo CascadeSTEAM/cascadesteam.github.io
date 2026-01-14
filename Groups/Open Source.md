@@ -9,6 +9,9 @@ banner-y: 40
 banner-height: 260
 content-start: 211
 banner-display: auto
+aliases:
+  - /open-source
+  - /blug
 ---
 Open Source is a Cascade STEAM [Community Group](Groups/index.md) with a focus on science and science-related [community projects](Projects/index.md). Join us each month as we meet to discuss Open Source Software and Hardware. Our current focus is a HomeLab Series highlighting fundamental open source software. Explore how you can design your own homelab and learn how we are incorporating these solutions into our own organization and programs.
 
