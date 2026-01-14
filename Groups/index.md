@@ -31,8 +31,7 @@ We also collaborate with other local community groups, including:
 ## Are you interested to start a new community group?
 
 Are your interests in alignment of the mission of Cascade STEAM? Create a Cascade STEAM Community Group! We offer shared resources to organizers to simplify community collaboration, event management, and event promotion to help organizers focus on their positive community impact.
-
-Shared resources include:
+### Shared resources include:
 - Entry on the Cascade STEAM website to raise awareness.
 - Inclusion in the monthly Cascade STEAM Community Update.
 - A dedicated channel on our [Community Hub](http://hub.cascadesteam.org) (Discord) for discussion.
