@@ -44,7 +44,7 @@ jobs:
           # 4. Process the PR (Merge)
           if [ "$PR_URL" != "exists" ]; then
             echo "PR created: $PR_URL"
-            # Use --auto to wait for status checks, or --merge for immediate action
+            # Intentionally perform an immediate merge using --merge (use --auto instead if you want to wait for status checks)
             gh pr merge "$PR_URL" --merge --delete-branch=false
           else
             echo "A Pull Request already exists for these changes."
