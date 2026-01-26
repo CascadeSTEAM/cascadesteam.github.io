@@ -29,7 +29,7 @@ ___
 
 ## February (Meeting #8)
 
-### Cascade STEAM Cyber: Rapid-fire Networking by Topic**
+### Cascade STEAM Cyber: Rapid-fire Networking by Topic
 
 Thursday Feb 12, 2026 5:20-7:00pm
 
