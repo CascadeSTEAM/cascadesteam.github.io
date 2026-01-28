@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About/index.md",
+                "file": "Get Involved/Outreach.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Outreach"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#284b63",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,23 +206,28 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "913e242a46932458",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Get Involved/index.md",
+    "index.md",
+    "internal/index.md",
+    "internal/Knowledge Base/Home Lab/Day 1.md",
+    "internal/Knowledge Base/Home Lab/Day 2.md",
+    "internal/Knowledge Base/CouchDB/CouchDB Deployment Files.md",
+    "internal/Welcome.md",
+    "internal/People/index.base",
+    "About/index.md",
     "Events/index.md",
     "README.md",
-    "index.md",
     "News/index.md",
-    "internal/index.md",
     "Projects/Service Corps.md",
     "Events",
-    "About/index.md",
     "About/Partners.md",
     "About/Organization.md",
     "About/Leadership.md",
     "About/Code of Conduct.md",
     "About",
     "Events",
-    "About/index.md",
     "About/Partners.md",
     "About/Organization.md",
     "About/Leadership.md",
@@ -233,14 +239,10 @@
     "Projects/LinuxFest NorthWest.md",
     "Projects/Helpdesk.md",
     "Projects/Hack Night.md",
-    "Get Involved/index.md",
-    "Projects/Educational Robotics.md",
-    "Get Involved/Donate.md",
     "internal/Meeting Notes/index.base",
     "internal/Infrastructure/Services/index.base",
     "internal/Priority/Issues/index.base",
     "internal/Priority/Projects/Completed/index.base",
-    "internal/People/index.base",
     "internal/Infrastructure/Devices/index.base",
     "internal/_assets/87b73bda1ba83cb30836b6986c849de1e5ad6466_96.png",
     "internal/_assets/excalidrawings/speachbubble.svg",
