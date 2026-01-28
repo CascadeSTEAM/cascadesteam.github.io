@@ -26,7 +26,7 @@ Logos and print materials to assist outreach. Thank you for your support.
 ### Theme:
 <span style="background-color: #284b63; color: ffffff; border-radius: 8px; padding: 5px">Navy #284b63</span>
 
-<span style="background-color: #ffffff; border-radius: 8px; padding: 5px">White #ffffff</span>
+<span style="background-color: #ffffff; color: #000000; border-radius: 8px; padding: 5px">White #ffffff</span>
 ## Print Materials
 - Displays: [Donate](/docs/Cascade STEAM - Display - Donate.pdf), [Get Involved](/docs/Cascade STEAM - Display - Get Involved.pdf), [What We Do](/docs/Cascade STEAM - Display - What We Do.pdf)
 - Flyers: [Donate](/docs/Cascade STEAM - Flyer - Donate.pdf), [Get Involved](/docs/Cascade STEAM - Flyer - Get Involved.pdf), [Programs](/docs/Cascade STEAM - Flyer - Programs.pdf), [What We Do](/docs/Cascade STEAM - Flyer - What We Do.pdf)
