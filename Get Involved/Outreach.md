@@ -22,9 +22,9 @@ Logos and print materials to assist outreach. Thank you for your support.
 
 <span style="background-color: #d46329; color: #ffffff; border-radius: 8px; padding: 5px; border: 1px solid black; display: inline-block; width: 15em">Orange #d46329</span>
 
-<span style="background-color: #0a2c3f; color: ffffff; border-radius: 8px; padding: 5px; border: 1px solid black; display: inline-block; width: 15em">Dark Navy #0a2c3f</span>
+<span style="background-color: #0a2c3f; color: #ffffff; border-radius: 8px; padding: 5px; border: 1px solid black; display: inline-block; width: 15em">Dark Navy #0a2c3f</span>
 ### Theme:
-<span style="background-color: #284b63; color: ffffff; border-radius: 8px; padding: 5px; border: 1px solid black; display: inline-block; width: 15em">Navy #284b63</span>
+<span style="background-color: #284b63; color: #ffffff; border-radius: 8px; padding: 5px; border: 1px solid black; display: inline-block; width: 15em">Navy #284b63</span>
 
 <span style="background-color: #ffffff; color: #000000; border-radius: 8px; padding: 5px; border: 1px solid black; display: inline-block; width: 15em">White #ffffff</span>
 ## Print Materials
