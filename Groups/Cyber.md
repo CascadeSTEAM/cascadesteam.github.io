@@ -33,7 +33,7 @@ ___
 
 Thursday Feb 12, 2026 5:20-7:00pm
 
-**Location:** TBD
+**Location:** Stemma West (Upstairs) [500 Carolina Street, Bellingham, WA](https://maps.app.goo.gl/R4dFPc4Mx1st8imq8)
 
 This month’s Cascade STEAM Cyber meeting is a topic-driven networking session designed to surface expertise, shared interests, and practical experience across our community.
 We’ll start by quickly polling the room to understand who’s here and what people are working on — roles, interests, tools, challenges, and curiosities. From there, we’ll break into short, focused discussion groups around selected topics, rotating a few times so attendees can engage with multiple conversations.
