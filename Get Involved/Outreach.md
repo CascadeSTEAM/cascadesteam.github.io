@@ -28,5 +28,12 @@ Logos and print materials to assist outreach. Thank you for your support.
 
 <span style="background-color: #ffffff; color: #000000; border-radius: 8px; padding: 5px; border: 1px solid black; display: inline-block; width: 15em">White \#ffffff</span>
 ## Print Materials
-- Displays: [Donate](/docs/Cascade STEAM - Display - Donate.pdf), [Get Involved](/docs/Cascade STEAM - Display - Get Involved.pdf), [What We Do](/docs/Cascade STEAM - Display - What We Do.pdf)
-- Flyers: [Donate](/docs/Cascade STEAM - Flyer - Donate.pdf), [Get Involved](/docs/Cascade STEAM - Flyer - Get Involved.pdf), [Programs](/docs/Cascade STEAM - Flyer - Programs.pdf), [What We Do](/docs/Cascade STEAM - Flyer - What We Do.pdf)
+### Displays
+- [[Cascade STEAM - Display - Donate.pdf]]
+- [[Cascade STEAM - Display - Get Involved.pdf]]
+- [[Cascade STEAM - Display - What We Do.pdf]]
+### Flyers
+- [[Cascade STEAM - Flyer - Donate.pdf]]
+- [[Cascade STEAM - Flyer - Get Involved.pdf]]
+- [[Cascade STEAM - Flyer - Programs.pdf]]
+- [[Cascade STEAM - Flyer - What We Do.pdf]]
