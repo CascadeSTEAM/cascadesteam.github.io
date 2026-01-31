@@ -30,11 +30,33 @@ Logo.css = `
 // Bottom Donation / Involvement Section
 const PageFooter: Component.QuartzComponent = () => {
   return jsx("div", {
-    class: "getinvolved",
-    children: jsx("p", { 
-      children: "Interested to get involved? Volunteer? Collaborate? We would love to hear from you! Please contact Michael Gan, Cascade STEAM President, for any inquiries at michael.gan@cascadesteam.org, 360-499-2099, or @michael Gan via the Cascade STEAM Community Hub." ,
-    })
- })
+    class: "volunteer-footer",
+    children: [
+      jsx("p", {
+        children: [
+          jsx("strong", { children: "Interested in getting involved? Volunteer? Collaborate? " }),
+          "We would love to hear from you! Please contact us at ",
+          jsx("a", { href: "mailto:info@cascadesteam.org", children: "info@cascadesteam.org" }),
+          ", 360-499-2099, or @michael Gan via the Cascade STEAM ",
+          jsx("a", { 
+            href: "http://hub.cascadesteam.org/", 
+            target: "_blank", 
+            children: "Community Hub" 
+          }),
+          "."
+        ]
+      }),
+      jsx("a", {
+        href: "https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C",
+        target: "_blank",
+        children: jsx("img", {
+          src: "https://img.shields.io/badge/Donate-PayPal-green.svg",
+          alt: "Donate",
+          style: "margin-top: 10px;"
+        })
+      })
+    ]
+  })
 }
 
 PageFooter.displayName = "PageFooter"
@@ -234,7 +256,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [
     Logo,
   ],
-  afterBody: [PageFooter,],
+  afterBody: [PageFooter],
   footer: Footer,
 }
 
