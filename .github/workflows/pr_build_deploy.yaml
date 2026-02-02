@@ -77,7 +77,11 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
+          fetch-depth: 0
           ref: 'refs/heads/publish'
+      # Ensure lates publish state after potential merge
+      - name: Ensure latest publish
+        run: git pull origin publish # Explicitly syncs the local runner to the post-merge state
       - name: Setup Pages
         uses: actions/configure-pages@v5
         with:
@@ -93,7 +97,10 @@ jobs:
           quartz_icon: .github/quartz/icon.png
           quartz_custom_css: .github/quartz/custom.scss
           quartz_banner: assets/images/Cascade_STEAM_horizontal_logo_primary.svg
-
+          # custom quartz repository
+          quartz_repo: git@github.com:CascadeSTEAM/quartz.git
+          # branch, tag
+          quartz_repo_ref: v4          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
