@@ -9,7 +9,7 @@ on:
         type: boolean
         default: true
       run_build:
-        description: 'Build & Deploy Quartz Site'
+        description: 'Build & Deploy Quartz Site to pages'
         type: boolean
         default: true
 
@@ -35,7 +35,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          ref: publish
+          ref: 'refs/heads/publish'
       - name: Check for changes and Merge
         id: check-diff
         env:
@@ -77,8 +77,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          ref: publish
-
+          ref: 'refs/heads/publish'
       - name: Setup Pages
         uses: actions/configure-pages@v5
         with:
