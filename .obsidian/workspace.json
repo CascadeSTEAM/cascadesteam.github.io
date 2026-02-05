@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "6c499b63877bfed4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Groups/Cyber.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Cyber"
             }
           }
         ]
@@ -184,34 +184,41 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-livesync:P2P Replicator": false,
-      "obsidian-livesync:Show Log": false,
-      "obsidian-livesync:Replicate": false,
+      "homepage:Open homepage": false,
+      "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
+      "card-board:CardBoard": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
+      "obsidian-git:Open Git source control": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "canvas:Create new canvas": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-livesync:Show Customization sync": false,
-      "card-board:CardBoard": false
+      "obsidian-livesync:Show Log": false,
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:P2P Replicator": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6c499b63877bfed4",
   "lastOpenFiles": [
+    "README.md",
+    "Groups/Cyber.md",
+    "assets/images/Cascade STEAM Cyber.png",
+    "assets/images/Cascade_STEAM_horizontal_logo_primary.svg",
     "index.md",
+    "assets/fragments/global-header.md",
+    "assets/index.md",
+    "assets/fragments",
+    "Events/index.md",
     "Get Involved/Outreach.md",
     "Groups/Engineering.md",
     "Groups/index.md",
-    "Events/index.md",
     "Get Involved/Donate.md",
     "internal/run_quartz.bash",
     "Get Involved/index.md",
@@ -222,7 +229,6 @@
     "internal/Welcome.md",
     "internal/People/index.base",
     "About/index.md",
-    "README.md",
     "News/index.md",
     "Projects/Service Corps.md",
     "Events",
@@ -235,14 +241,10 @@
     "About/Partners.md",
     "About/Organization.md",
     "About/Leadership.md",
-    "About/Code of Conduct.md",
     "About",
-    "Groups/Open Source.md",
-    "Projects/Mentorship.md",
     "internal/Meeting Notes/index.base",
     "internal/Infrastructure/Services/index.base",
     "internal/Priority/Issues/index.base",
-    "internal/Priority/Projects/Completed/index.base",
     "internal/_assets/87b73bda1ba83cb30836b6986c849de1e5ad6466_96.png",
     "internal/_assets/excalidrawings/speachbubble.svg",
     "internal/_assets/BasicNetwork_diagram.excalidraw.dark.svg",
@@ -250,8 +252,6 @@
     "internal/_assets/knowledgebase.jpg",
     "internal/_assets/basic homelab network map.png",
     "internal/_assets/Basic DNS_01.png",
-    "internal/_assets/A photorealistic image of cascade steam squid in a forest.jpeg",
-    "internal/_assets/360_F_89026793_eyw5a7WCQE0y1RHsizu41uhj7YStgvAA.jpg",
-    "internal/_assets/Joining Obsidian LiveSync Images/Pasted image 20251007231103.png"
+    "internal/_assets/A photorealistic image of cascade steam squid in a forest.jpeg"
   ]
 }
