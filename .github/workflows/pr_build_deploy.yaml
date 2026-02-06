@@ -35,7 +35,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          ref: 'refs/heads/publish'
+          ref: 'refs/heads/main'
       - name: Check for changes and Merge
         id: check-diff
         env:
@@ -55,8 +55,8 @@ jobs:
           PR_URL=$(gh pr create \
             --base publish \
             --head main \
-            --title "Weekly Sync: main to publish" \
-            --body "Automated weekly sync." \
+            --title "Merge request for main to publish branch" \
+            --body "Automated sync." \
             2>/dev/null || echo "exists")
 
           if [ "$PR_URL" != "exists" ]; then
