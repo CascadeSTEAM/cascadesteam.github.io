@@ -1,7 +1,7 @@
 name: Sync & Build Quartz
 on:
-  schedule:
-    - cron: '30 1 * * *' # Runs every day at 01:30 UTC
+  # schedule:
+  #   - cron: '30 1 * * *' # Runs every day at 01:30 UTC
   workflow_dispatch:
     inputs:
       run_sync:
