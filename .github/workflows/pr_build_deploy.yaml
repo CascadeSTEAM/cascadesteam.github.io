@@ -92,15 +92,15 @@ jobs:
         with:
           source: .
           page_title: "Cascade STEAM"
-          quartz_config: .github/quartz/quartz.config.ts
-          quartz_layout: .github/quartz/quartz.layout.ts
+          # quartz_config: .github/quartz/quartz.config.ts
+          # quartz_layout: .github/quartz/quartz.layout.ts
           quartz_icon: .github/quartz/icon.png
           quartz_custom_css: .github/quartz/custom.scss
           quartz_banner: assets/images/Cascade_STEAM_horizontal_logo_primary.svg
           # custom quartz repository
           quartz_repo: git@github.com:CascadeSTEAM/quartz.git
           # branch, tag
-          quartz_repo_ref: v4          
+          quartz_repo_ref: csmods          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
