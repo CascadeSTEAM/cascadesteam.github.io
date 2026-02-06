@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "28e762ae677a4873",
         "type": "tabs",
         "children": [
           {
-            "id": "6c499b63877bfed4",
+            "id": "2464a6491c0f919a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groups/Cyber.md",
+                "file": "News/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cyber"
+              "title": "index"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "internal/People/Garth Johnson.md",
+                "file": "News/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Garth Johnson"
+              "title": "Outline of index"
             }
           },
           {
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -187,7 +187,6 @@
       "homepage:Open homepage": false,
       "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
-      "card-board:CardBoard": false,
       "graph:Open graph view": false,
       "obsidian-git:Open Git source control": false,
       "daily-notes:Open today's daily note": false,
@@ -199,23 +198,29 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-livesync:Show Customization sync": false,
       "obsidian-livesync:Show Log": false,
       "obsidian-livesync:Replicate": false,
-      "obsidian-livesync:P2P Replicator": false
+      "obsidian-livesync:P2P Replicator": false,
+      "obsidian-livesync:Show Customization sync": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "6c499b63877bfed4",
+  "active": "2464a6491c0f919a",
   "lastOpenFiles": [
-    "README.md",
+    "index.md",
+    "News Page.md",
+    "News/index.md",
+    "Events/index.md",
+    "About/index.md",
+    "assets/fragments/global-footer.md",
+    "assets/fragments/site_logo.svg",
+    "assets/fragments/global-header.md",
     "Groups/Cyber.md",
+    "README.md",
     "assets/images/Cascade STEAM Cyber.png",
     "assets/images/Cascade_STEAM_horizontal_logo_primary.svg",
-    "index.md",
-    "assets/fragments/global-header.md",
     "assets/index.md",
     "assets/fragments",
-    "Events/index.md",
     "Get Involved/Outreach.md",
     "Groups/Engineering.md",
     "Groups/index.md",
@@ -228,8 +233,6 @@
     "internal/Knowledge Base/CouchDB/CouchDB Deployment Files.md",
     "internal/Welcome.md",
     "internal/People/index.base",
-    "About/index.md",
-    "News/index.md",
     "Projects/Service Corps.md",
     "Events",
     "About/Partners.md",
@@ -239,8 +242,6 @@
     "About",
     "Events",
     "About/Partners.md",
-    "About/Organization.md",
-    "About/Leadership.md",
     "About",
     "internal/Meeting Notes/index.base",
     "internal/Infrastructure/Services/index.base",
@@ -251,7 +252,6 @@
     "internal/_assets/1197883.jpg",
     "internal/_assets/knowledgebase.jpg",
     "internal/_assets/basic homelab network map.png",
-    "internal/_assets/Basic DNS_01.png",
-    "internal/_assets/A photorealistic image of cascade steam squid in a forest.jpeg"
+    "internal/_assets/Basic DNS_01.png"
   ]
 }
