@@ -98,7 +98,7 @@ jobs:
           quartz_custom_css: .github/quartz/custom.scss
           quartz_banner: assets/images/Cascade_STEAM_horizontal_logo_primary.svg
           # custom quartz repository
-          quartz_repo: git@github.com:CascadeSTEAM/quartz.git
+          quartz_repo: https://github.com/CascadeSTEAM/quartz
           # branch, tag
           quartz_repo_ref: csmods          
       - name: Upload artifact
