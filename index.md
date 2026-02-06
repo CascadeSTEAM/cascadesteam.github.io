@@ -1,13 +1,6 @@
 ---
-layout: page
+layout: landing-page
 title: "Home"
-banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
-banner-x: 60
-banner-y: 40
-banner-height: 260
-content-start: 211
-banner-display: auto
-
 ---
 ![[assets/images/Cascade_STEAM_horizontal_logo_primary.svg]]
 ## Mission
@@ -17,12 +10,24 @@ Cascade STEAM is a 501(c)(3) nonprofit organization based in Bellingham, WA dedi
 STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, and Mathematics. STEAM education is a powerful framework to promote curiosity and creativity, encourage a shared learning experience, and build tools to solve important life challenges. We advocate through development and promotion of events, activities, and programs, and invite collaboration with community partners in shared purpose.
 
 ## News
-- [November 26, 2025: LinuxFest Northwest 2026 is almost here - Be a speaker, sponsor, or help as a volunteer](LinuxFest%20NorthWest.md)
-- [November 24, 2025: Cascade STEAM Service Corps Program launched - a technology training program for social good](Service%20Corps.md)
-- [November 18, 2025: Cascade STEAM Hack Night launched - join us for open, collaborative sessions of shared learning](Hack%20Night.md)
-- [October 29, 2025: Cascade STEAM HelpDesk Program launched to provide Community Tech Support by Donation](Projects/Helpdesk.md)
 
-See our [News Page](News/index.md) for past topics.
+%% DATAVIEW_PUBLISHER: start
+```dataview
+LIST
+  file.frontmatter.title
+FROM "News"
+WHERE file.name != "index"
+SORT file.cday ASC
+```
+%%
+- [[News/2023-05-09.md|2023-05-09]]: Whatcom STEM Announces Formation
+- [[News/2023-10-11.md|2023-10-11]]: Whatcom STEM Changes Name to Cascade STEAM
+- [[News/2025-04-01.md|2025-04-01]]: Cascade STEAM Community Update - April 2025
+- [[News/2025-05-10.md|2025-05-10]]: Cascade STEAM Community Update - May 2025
+- [[News/2025-06-01.md|2025-06-01]]: Cascade STEAM Community Update - June 2025
+- [[News/2025-07-01.md|2025-07-01]]: Cascade STEAM Community Update - July 2025
+%% DATAVIEW_PUBLISHER: end %%
+See our [[News/index|News Page]] for past topics.
 
 ## Programs
 
