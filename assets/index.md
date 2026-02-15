@@ -1,3 +1,6 @@
+---
+draft: true
+---
 <!DOCTYPE html>
 <html>
   <head>
