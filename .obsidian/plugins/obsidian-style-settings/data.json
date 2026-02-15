@@ -15,10 +15,10 @@
   "minimal-style@@base@@dark": "#000000",
   "minimal-style@@bg1@@light": "#FFFFFF",
   "minimal-style@@bg1@@dark": "#000000",
-  "minimal-style@@bg2@@light": "#0A2C3F",
+  "minimal-style@@bg2@@light": "#00C5DC",
   "minimal-style@@bg2@@dark": "#0A2C3F",
-  "minimal-style@@bg3@@dark": "#D46329",
-  "minimal-style@@bg3@@light": "#D46329",
+  "minimal-style@@bg3@@dark": "#00BDCA",
+  "minimal-style@@bg3@@light": "#00BDCA",
   "minimal-style@@ribbon-style": "ribbon-hidden",
   "minimal-style@@file-header-visibility": "minimal-tab-title-hover",
   "minimal-style@@title-color@@light": "#D46329",
@@ -31,8 +31,8 @@
   "minimal-style@@h6-color@@dark": "#D46329",
   "minimal-style@@sidebar-tabs-style": "sidebar-tabs-index",
   "minimal-style@@sidebar-tabs-names": "tab-names-off",
-  "minimal-style@@ax1@@light": "#D46329",
-  "minimal-style@@ax1@@dark": "#D46329",
-  "minimal-style@@ax2@@light": "#0A2C3F",
-  "minimal-style@@ax2@@dark": "#0A2C3F"
+  "minimal-style@@ax1@@light": "#00BDCA",
+  "minimal-style@@ax1@@dark": "#00BDCA",
+  "minimal-style@@ax2@@light": "#F3A500",
+  "minimal-style@@ax2@@dark": "#F3A500"
 }
