@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "28e762ae677a4873",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "2464a6491c0f919a",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "News/index.md",
-                "mode": "source",
-                "source": false
+                "aFile": "assets/index.md",
+                "bFile": "assets/index.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "diff",
+              "title": "Diff: index  (Working Tree)"
             }
           }
         ]
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "News/index.md",
+                "file": "assets/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -205,21 +205,23 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "2464a6491c0f919a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "index.md",
-    "News Page.md",
+    "README.md",
+    "assets/index.md",
+    "Groups/Cyber.md",
+    "Groups/Citizen Science.md",
+    "Groups/Artificial Intelligence.md",
+    "assets/fragments/site_logo.svg",
     "News/index.md",
+    "News Page.md",
     "Events/index.md",
     "About/index.md",
     "assets/fragments/global-footer.md",
-    "assets/fragments/site_logo.svg",
     "assets/fragments/global-header.md",
-    "Groups/Cyber.md",
-    "README.md",
     "assets/images/Cascade STEAM Cyber.png",
     "assets/images/Cascade_STEAM_horizontal_logo_primary.svg",
-    "assets/index.md",
     "assets/fragments",
     "Get Involved/Outreach.md",
     "Groups/Engineering.md",
@@ -238,10 +240,8 @@
     "About/Partners.md",
     "About/Organization.md",
     "About/Leadership.md",
-    "About/Code of Conduct.md",
     "About",
     "Events",
-    "About/Partners.md",
     "About",
     "internal/Meeting Notes/index.base",
     "internal/Infrastructure/Services/index.base",
