@@ -11,10 +11,11 @@ content-start: 211
 banner-display: auto
 aliases:
   - /community-tech-support
+  - /helpdesk
 ---
 Community Tech Support is now available from [Cascade STEAM](https://cascadesteam.org) via our [HelpDesk](Projects/Helpdesk.md) Program. Assistance is offered to the public from volunteer technology professionals and students by donation.
 
-Program dates in November 2025 are **November 15, 22, and 29 from 1pm-4pm** located at the [Bellingham Makerspace](https://bellinghammakerspace.org) in the [Bellis Fair Mall](https://bellisfair.com).
+Services are provided on Saturdays from 1pm-4pm at the [Bellingham Makerspace](https://bellinghammakerspace.org) in the [Bellis Fair Mall](https://bellisfair.com). Stay tuned for our next scheduled program dates.
 
 Address: [1 Bellis Fair Parkway \#618, Bellingham, WA 98225](https://maps.app.goo.gl/AXGdqY1NgtviXYy58)
 
