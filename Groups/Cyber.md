@@ -23,14 +23,14 @@ ___
 ## March (Meeting #9)
 
 Cascade STEAM Breach Community Project<br>
-Thursday March 12, 5:30-7:30pm<br>
+Thursday March 12, 5:20-7:00pm<br>
 Bellingham Makerspace
 
-Join us on March 12th for an introduction and discussion of the [Cascade STEAM Breach Community Project](Projects/Breach.md) and highlights of the recent [Seattle Bsides Cybersecurity Conference](https://www.bsidesseattle.com/), plus the usual socializing.
+Join us on March 12th for an introduction and discussion of the [Cascade STEAM Breach Community Project](Projects/Breach.md) and highlights of the recent [Seattle Bsides Cybersecurity Conference](https://www.bsidesseattle.com/).
 
 Cascade STEAM [Breach](Projects/Breach.md) is a [Community Project](/Projects) featuring a cybersecurity shared learning experience in a game of Capture the Flag! The offensive Red Team takes on the defensive Blue Team in an epic battle of planting, detecting, and resolving cybersecurity exploits in a controlled environment. Participants share their strategies for attacking and defending as a learning exercise, which helps to evolve further rounds of play with more difficult challenges.
 
-Breach is planned for the 4th Sunday of the month from 1pm-5pm at the [Bellingham Makerspace](https://bellinghammakerspace.org). Our first Breach event is March 28th!
+Breach is planned for the 4th Sunday of the month from 1pm-5pm at the [Bellingham Makerspace](https://bellinghammakerspace.org). Our first Breach Community Project Event is on March 29th!
 
 
 <!--
@@ -81,4 +81,4 @@ ___
 
 ## Organizers
 
-[Volunteer Organizers](Leadership.md) of the Cascade STEAM Cyber Community Group are [Marty Mulholland](https://www.linkedin.com/in/mulholland99), and [David Hirsch](https://www.linkedin.com/in/davidhirsch3). Please contact [cyber@cascadesteam.org](mailto:cyber@cascadesteam.org) for general inquiries.
+[Volunteer Organizers](Leadership.md) of the Cascade STEAM Cyber Community Group are [Marty Mulholland](https://www.linkedin.com/in/mulholland99), and [David Hirsch](https://www.linkedin.com/in/davidhirsch3). Please contact [cyber@cascadesteam.org](mailto:cyber@cascadesteam.org) for community group inquiries.
