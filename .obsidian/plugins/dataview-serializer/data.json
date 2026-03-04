@@ -1,0 +1,14 @@
+{
+  "foldersToScan": [
+    "About/Leadership"
+  ],
+  "ignoredFolders": [],
+  "disableAutomaticUpdates": false,
+  "showRefreshButton": true,
+  "foldersToForceUpdate": [],
+  "showErrorNotifications": true,
+  "debugLogging": false,
+  "addTrailingNewline": false,
+  "linkFormat": "shortest",
+  "enableDataviewJS": true
+}
