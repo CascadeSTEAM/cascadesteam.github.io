@@ -20,9 +20,18 @@ Mark your calendars and watch this space as we confirm meeting locations. Consid
 
 ___
 
-## March
+## March (Meeting #9)
 
-### March meeting cancelled due to scheduling challenges.  We will see you in April!
+Cascade STEAM Breach Community Project<br>
+Thursday March 12, 5:30-7:30pm<br>
+Bellingham Makerspace
+
+Join us on March 12th for an introduction and discussion of the [Cascade STEAM Breach Community Project](Projects/Breach.md) and highlights of the recent [Seattle Bsides Cybersecurity Conference](https://www.bsidesseattle.com/), plus the usual socializing.
+
+Cascade STEAM [Breach](Projects/Breach.md) is a [Community Project](/Projects) featuring a cybersecurity shared learning experience in a game of Capture the Flag! The offensive Red Team takes on the defensive Blue Team in an epic battle of planting, detecting, and resolving cybersecurity exploits in a controlled environment. Participants share their strategies for attacking and defending as a learning exercise, which helps to evolve further rounds of play with more difficult challenges.
+
+Breach is planned for the 4th Sunday of the month from 1pm-5pm at the [Bellingham Makerspace](https://bellinghammakerspace.org). Our first Breach event is March 28th!
+
 
 <!--
 **Location:** TBD
@@ -33,7 +42,7 @@ RJ Niesen, CISSP, PMP; Cybersecurity State Coordinator, Cybersecurity and Infras
 
 ___
 
-## April (Meeting #9)
+## April (Meeting #10)
 
 Thursday April 9, 2026 5:20-7:00pm
 
