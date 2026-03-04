@@ -12,6 +12,10 @@ aliases:
 ---
 Cascade STEAM Community Projects are organized collaborative efforts for community impact and social good. We welcome all people of all ages to participate. Organization and discussion occurs at our [Community Group](Groups/index.md) meetings and on our [Community Hub](http://hub.cascadesteam.org). See our [Meetup Page](https://meetup.com/cascadesteam) for scheduled events.
 
+## Breach
+
+[Breach](Projects/Breach.md) is a Community Project featuring a cybersecurity shared learning experience in a game of Capture the Flag! The offensive Red Team takes on the defensive Blue Team in an epic battle of planting, detecting, and resolving cybersecurity exploits in a controlled environment. Participants share their strategies for attacking and defending as a learning exercise, which helps to evolve further rounds of play with more difficult challenges.
+
 ## Digital Navigators
 
 FREE Community Tech Support is now available from Cascade STEAM via our [Digital Navigators](https://cascadesteam.org/digital-navigators) Program. Assistance is offered to the public from technology students and industry professionals through scheduled onsite events at social welfare and support organizations to help resolve basic computing challenges completely free of charge.
