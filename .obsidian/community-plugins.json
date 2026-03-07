@@ -3,7 +3,6 @@
   "folder-notes",
   "obsidian-git",
   "dataview",
-  "dataview-publisher",
   "obsidian-minimal-settings",
   "obsidian-style-settings",
   "homepage",
@@ -13,5 +12,6 @@
   "card-board",
   "obsidian-kanban",
   "avatar",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "dataview-serializer"
 ]
