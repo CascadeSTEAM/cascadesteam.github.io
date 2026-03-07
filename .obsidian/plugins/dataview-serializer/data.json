@@ -2,7 +2,9 @@
   "foldersToScan": [
     "About/Leadership"
   ],
-  "ignoredFolders": [],
+  "ignoredFolders": [
+    "assets"
+  ],
   "disableAutomaticUpdates": false,
   "showRefreshButton": true,
   "foldersToForceUpdate": [],
