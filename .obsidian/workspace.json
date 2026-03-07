@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About/Leadership/index.md",
-                "mode": "source",
+                "file": "About/Leadership/index_temp.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "index_temp"
             }
           }
         ]
@@ -207,8 +207,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "About/Leadership.md",
     "About/Leadership/index.md",
+    "About/Leadership.md",
     "index.md",
     "flag_rebuild.md",
     "About/Leadership/index_temp.md",
