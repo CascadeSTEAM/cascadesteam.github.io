@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "preview",
+                "file": "About/Leadership/index.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -201,11 +201,14 @@
       "obsidian-livesync:Replicate": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-livesync:Show Customization sync": false
+      "obsidian-livesync:Show Customization sync": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "About/Leadership.md",
+    "About/Leadership/index.md",
     "index.md",
     "flag_rebuild.md",
     "About/Leadership/index_temp.md",
@@ -214,7 +217,6 @@
     "About/Leadership/Leslie Brendible.md",
     "About/Leadership/Michael Gan.md",
     "About/Leadership/Ian Hogan.md",
-    "About/Leadership/index.md",
     "About/index.md",
     "Projects/index.md",
     "README.md",
@@ -233,7 +235,6 @@
     "internal/Priority/Change Management/2 Discovery Time/ESP Discovery",
     "internal/Priority/Change Management/2 Discovery Time/NFS backup to LXC 107.md",
     "internal/Priority/Change Management/2 Discovery Time/CouchDB-LiveSync Discovery.md",
-    "internal/Priority/Change Management/2 Discovery Time/Backup Server Discovery.md",
     "internal/Priority/Change Management/2 Discovery Time/Ansible Playbook Server",
     "internal/Priority/Projects/Completed",
     "internal/Priority/Issues/index.base",

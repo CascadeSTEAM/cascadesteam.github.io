@@ -9,6 +9,7 @@ content-start: 211
 banner-display: auto
 aliases:
   - /leadership
+publish:
 ---
 Cascade STEAM is made possible through the commitment of volunteer leadership and open collaboration of [Partners](Partners.md). Cascade STEAM Leadership includes Board of Directors, Organizers, and Committee Members. Thank you all for your efforts.
 
