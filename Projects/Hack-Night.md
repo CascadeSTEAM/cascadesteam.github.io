@@ -1,0 +1,25 @@
+---
+title: Hack Night
+description: Cascade STEAM Hack Night — open collaborative learning every Saturday from 4pm at Bellingham Makerspace. Free. No signup. All are welcome.
+tags:
+  - community-project
+---
+
+Join [Cascade STEAM](https://cascadesteam.org/) for [Hack Night](Hack-Night) on Saturdays from 4pm–"Late" at the Bellingham Makerspace for an open, collaborative session of shared learning! Bring your projects, homework, questions, and ideas and let's do them together.
+
+Free. Open to everyone. All are welcome. Family Friendly. Bring your friends.
+
+P.S. If you are looking for project ideas, then we've got them! See our [Digital Navigators](Digital-Navigators), [HelpDesk](Helpdesk), and other [Community Projects](index) for inspiration.
+
+Check the [Cascade STEAM Community Hub](http://hub.cascadesteam.org) for discussion and the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) for details and to RSVP for scheduled events.
+
+**Location:**
+[Bellingham Makerspace](https://bellinghammakerspace.org)
+[1 Bellis Fair Parkway #618, Bellingham, WA 98225](https://maps.app.goo.gl/AXGdqY1NgtviXYy58)
+
+---
+
+**Interested in getting involved? Volunteer? Collaborate?**
+We would love to hear from you! Please contact us at [info@cascadesteam.org](mailto:info@cascadesteam.org) or jump into discussion at the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/).
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)

@@ -1,0 +1,53 @@
+---
+title: Josh Buker
+description: Josh Buker is Secretary and Founding Board Member of Cascade STEAM, a software engineer and Cloud Security Alliance Research Analyst with a decade of security governance experience.
+tags:
+  - person
+  - organizer
+  - board
+  - skills/security
+  - skills/ruby
+  - skills/git
+  - skills/nix
+  - skills/community_organizer
+---
+
+## At Cascade STEAM
+
+**Secretary** — Board of Directors (Founding Member)
+
+Lead organizer of [Cascade Breach](../../Projects/Breach), our monthly collaborative CTF program. Brings security governance expertise from the Cloud Security Alliance to Cascade STEAM's program and infrastructure design.
+
+## Background
+
+Software engineer with 10 years at the Cloud Security Alliance and deep roots in the Pacific Northwest technology community:
+
+- **Blue Sea Systems** (2014–2016) — Electronic Assembler; marine electronics and hardware
+- **Cloud Security Alliance** (2016–present):
+  - Web Developer (2016–2021) — built and maintained CSA's web platform
+  - Research Analyst (2021–present) — works with internationally recognized security governance frameworks including the Cloud Controls Matrix (CCM), CAIQ, STAR, and AI Controls Matrix
+- **TAGNW** (2021–2023) — Community Organizer
+- **Cascade STEAM** (2023–present) — Founding Board Member, Secretary
+
+Active in the broader infosec community through DEF CON, BSides Seattle, and the infosec Mastodon network ([@joshbuker@infosec.exchange](https://infosec.exchange/@joshbuker)).
+
+Long-term trajectory toward robotics and holistic engineering.
+
+## Skills
+
+[security](../../../tags/skills/security) [ruby](../../../tags/skills/ruby) [git](../../../tags/skills/git) [nix](../../../tags/skills/nix) [community_organizer](../../../tags/skills/community_organizer)
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/joshbuker)
+- [Email](mailto:josh.buker@cascadesteam.org)
+- [GitHub](https://github.com/joshbuker)
+- [Mastodon](https://infosec.exchange/@joshbuker)
+- [joshbuker.com](https://joshbuker.com)
+
+---
+
+**Interested in getting involved? Volunteer? Collaborate?**
+We would love to hear from you! Please contact us at [info@cascadesteam.org](mailto:info@cascadesteam.org) or jump into discussion at the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/).
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)

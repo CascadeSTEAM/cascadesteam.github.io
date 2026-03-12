@@ -1,0 +1,40 @@
+---
+title: Educational Robotics
+description: Cascade STEAM partners with Bellingham Public Schools to support their VEX Robotics program — mentor volunteers, event volunteers, and sponsorship for hundreds of student competitors.
+tags:
+  - community-project
+---
+
+Educational Robotics is a collaboration of the Cascade STEAM [Engineering Community Group](../Groups/Engineering) and [Bellingham Public Schools](https://www.bellinghamschools.org) to support their [VEX Robotics Program](https://www.vexrobotics.com/). With VEX Robotics, hundreds of students throughout the district participate in a range of casual to globally-competitive robotics development, including mechanical engineering, fabrication, assembly, software development, technical writing, and project management. We help students learn robotics and host local robotics events.
+
+## Volunteers
+
+Volunteers are needed! Be a mentor volunteer to help students in learning robotics and/or an event volunteer to help us host robotics events.
+
+**Mentor Volunteers** contribute their robotics-related experience to assist students during arranged after-school periods — commonly on Wednesdays from 3:30pm–5:30pm.
+
+**Event Volunteers** support the execution of major robotics events. No experience is necessary for some roles. Engineering and technical experience is always a plus! Roles include: Check-in, Robot Inspecting, Competition Scoring, Team Queuing, Field Resetting, and Judging. Please see the [BPS VEX Robotics 2025 Volunteers Needed](/docs/BPS%20VEX%20Robotics%202025%20Volunteers%20Needed.pdf) document for more details.
+
+Events in Whatcom County during the 2025–2026 school year are:
+
+- Cross-Border Challenge on Saturday December 13th
+- Bellingham Robo Bash on Saturday January 17th
+
+Join the Cascade STEAM [Engineering Community Group](../Groups/Engineering) each month to help coordinate efforts and engage with fellow community group members. Scheduled events are arranged via the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam).
+
+Note: All those interested to volunteer must complete the [Bellingham Public Schools Volunteer Application](https://www.bellinghamschools.org/get-involved/volunteer).
+
+## Sponsors
+
+Sponsors are needed! The cost of competition is expensive — particularly transportation costs for those students reaching the highest level of competition. Please see the BPS VEX Robotics 2025 Sponsor Letter for more details.
+
+## Organizers
+
+Please contact Riley Liddle, Squalicum High School Robotics Lead and Cascade STEAM Engineering Community Group Co-Organizer, at [riley.liddle@bellinghamschools.org](mailto:riley.liddle@bellinghamschools.org) for any questions or comments regarding Educational Robotics, including volunteering and sponsorship.
+
+---
+
+**Interested in getting involved? Volunteer? Collaborate?**
+We would love to hear from you! Please contact us at [info@cascadesteam.org](mailto:info@cascadesteam.org) or jump into discussion at the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/).
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)
