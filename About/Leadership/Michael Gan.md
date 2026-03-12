@@ -4,6 +4,7 @@ tags:
   - organizer
   - engagement
   - board
+  - profile
 board_role: President
 linked-in: https://www.linkedin.com/in/michaelbgan
 skills:
@@ -16,7 +17,8 @@ skills:
   - zsh
   - non-profit
 ---
-## Bio
-bla blah blah
+![[michaelgan.jpeg|image-right]]Experienced in technology and organization management, business development, and community engagement. Please reach out! I would love to hear from you.
 
-**Skills:** #skills/python #skills/aws #skills/docker
+
+### Skills
+#skills/python #skills/aws #skills/docker

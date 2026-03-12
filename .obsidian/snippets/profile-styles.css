@@ -1,0 +1,37 @@
+/* Target the container (span or div) that Obsidian/Quartz uses for embeds */
+span.internal-embed[alt*="image-right"],
+div.internal-embed[alt*="image-right"] {
+    float: inline-end;
+    margin-inline-start: 20px;
+    margin-block-start: 10px;
+    display: inline-block; /* Essential to allow the float to work on a div */
+}
+
+/* Target the container (span or div) that Obsidian/Quartz uses for embeds */
+span.internal-embed[alt*="image-left"],
+div.internal-embed[alt*="image-left"] {
+    float: inline-start;
+    margin-inline-end: 20px;
+    margin-block-end: 10px;
+    display: inline-block; /* Essential to allow the float to work on a div */
+}
+
+/* Ensure the image inside fills the container properly */
+span.internal-embed[alt*="image-right"] img,
+div.internal-embed[alt*="image-right"] img,
+span.internal-embed[alt*="image-left"] img,
+div.internal-embed[alt*="image-left"] img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 10px;
+    /* shape-outside works best on the element that is actually floated */
+
+    /* The Shadow */
+    filter: drop-shadow(4px 6px 4px rgba(0, 0, 0, 0.55));
+
+    /* Smooth transition if you want to add a hover effect later */
+    transition: filter 0.3s ease;
+}
+
+

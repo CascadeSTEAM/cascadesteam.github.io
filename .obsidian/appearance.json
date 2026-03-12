@@ -1,5 +1,8 @@
 {
   "cssTheme": "Minimal",
   "theme": "moonstone",
-  "accentColor": "#d46329"
+  "accentColor": "#d46329",
+  "enabledCssSnippets": [
+    "profile-styles"
+  ]
 }
