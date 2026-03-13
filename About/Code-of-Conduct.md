@@ -1,6 +1,10 @@
 ---
 layout: page
 title: Code of Conduct
+description: Cascade STEAM Code of Conduct — our shared commitment to an honest, respectful, and professional community for all participants in events, activities, and programs.
+tags:
+  - about
+  - code-of-conduct
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
 banner-x: 60
 banner-y: 40
@@ -10,6 +14,7 @@ banner-display: auto
 aliases:
   - /conduct
 ---
+
 ## Introduction
 
 Cascade STEAM represents a community of aspiring, current, and retired STEAM professionals and the many roles that support and advocate STEAM Education in our beautiful region. We celebrate and encourage diversity. All are welcome.
@@ -39,11 +44,11 @@ You are encouraged to respectfully communicate a minor offense directly to the i
 
 ### Details
 
-- “Behavior” includes any communication (written, verbal, nonverbal, or visual) or act.
-- “Activities” include any Cascade STEAM event, activity, or program.
+- "Behavior" includes any communication (written, verbal, nonverbal, or visual) or act.
+- "Activities" include any Cascade STEAM event, activity, or program.
 - All federal, state, and local laws must be followed.
 - Any situational rules must be followed, if applicable, including location rules and/or additional rules of an event or program.
-- A “ Cascade STEAM Representative” includes any individual from Leadership, including Staff, Board of Directors, Committee Members, and Organizers.
+- A "Cascade STEAM Representative" includes any individual from Leadership, including Staff, Board of Directors, Committee Members, and Organizers.
 - Any consequence of a directive, if any, may be appealed after 24 hours.
 - Consequence of ignoring a directive by a Cascade STEAM representative is described in Report Response, below.
 
@@ -55,7 +60,7 @@ Note: Reporter is NOT required to include contact information, but including con
 
 ### Report Review
 
-Upon receiving a report, the Cascade STEAM Board of Directors will convene and assemble a team from Cascade STEAM [Leadership](Leadership.md) to respond to the report, including reviewing and investigating the report and determining the appropriate response.
+Upon receiving a report, the Cascade STEAM Board of Directors will convene and assemble a team from Cascade STEAM [Leadership](Leadership/) to respond to the report, including reviewing and investigating the report and determining the appropriate response.
 
 ### Report Response
 

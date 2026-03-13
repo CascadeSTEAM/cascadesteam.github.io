@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Get Involved
+description: Get involved with Cascade STEAM — join a community group, become a mentor, volunteer for Digital Navigators or HelpDesk, start a new program, or join a committee in Bellingham, WA.
+tags:
+  - get-involved
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
 banner-x: 60
 banner-y: 40
@@ -10,11 +13,12 @@ banner-display: auto
 aliases:
   - /get-involved
 ---
+
 We welcome all people of all ages to participate in helping support Cascade STEAM and thank you for your efforts.
 
-So how does this work? Well, Programs are how we engage our community and Committees focus on building the internal systems of which our Programs rely on to be impactful. We stategize these efforts with several co-organizers for each topic to encourage a team environment and keep our efforts "fun".
+So how does this work? Well, Programs are how we engage our community and Committees focus on building the internal systems of which our Programs rely on to be impactful. We strategize these efforts with several co-organizers for each topic to encourage a team environment and keep our efforts "fun".
 
-Here are a few areas where we can plug you in now! Don’t see what you are looking for here? Tell us! Contact us (below) and share how you’d like to get involved.
+Here are a few areas where we can plug you in now! Don't see what you are looking for here? Tell us! Contact us (below) and share how you'd like to get involved.
 
 ## Programs
 
@@ -35,7 +39,7 @@ Here are a few areas where we can plug you in now! Don’t see what you are look
 
 - Provide an internship opportunity (paid or unpaid) for a student. We partner with education institutions and can help find the right fit for your opportunity.
 - Provide professional guidance to a student participating in an internship.
-- Assist in the development of the the Internship Program.
+- Assist in the development of the Internship Program.
 - Become an Internship Program co-organizer.
 
 ### Workshops
@@ -76,7 +80,7 @@ Here are a few areas where we can plug you in now! Don’t see what you are look
 
 ### Advisory Committee
 
-- Collaborate with fellow members of [volunteer leadership](Leadership.md) in areas of your expertise in support of Cascade STEAM efforts.
+- Collaborate with fellow members of [volunteer leadership](../About/Leadership/) in areas of your expertise in support of Cascade STEAM efforts.
 
 ### Engagement Committee
 
@@ -98,3 +102,4 @@ Here are a few areas where we can plug you in now! Don’t see what you are look
 ## Feedback
 
 Have input or ideas to share? We appreciate your feedback and welcome your input via our [Community Survey](http://community-survey.cascadesteam.org).
+

@@ -1,5 +1,0 @@
----
-aliases:
-  - news
-title: News
----
