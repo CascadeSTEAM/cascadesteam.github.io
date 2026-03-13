@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Breach.md",
-                "mode": "source",
+                "file": "index.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Breach"
+              "title": "index"
             }
           }
         ]
@@ -196,28 +196,24 @@
       "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "obsidian-livesync:P2P Replicator": false,
-      "obsidian-livesync:Show Log": false,
-      "obsidian-livesync:Replicate": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-livesync:Show Customization sync": false,
-      "card-board:CardBoard": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Projects/Service-Corps.md",
+    "About/index.md",
+    "index.md",
     "Projects/Stormwater-Monitoring.md",
+    "Projects/Breach.md",
+    "Projects/Service-Corps.md",
     "Projects/Mentorship.md",
     "Projects/LinuxFest-NorthWest.md",
     "Projects/Helpdesk.md",
     "Projects/Hack-Night.md",
     "Projects/Educational-Robotics.md",
     "Projects/Digital-Navigators.md",
-    "Projects/Breach.md",
     "Projects/index.md",
-    "index.md",
     "assets.md",
     "internal/Infrastructure/CHANGELOG/2025-12-24.md",
     "internal/Infrastructure/CHANGELOG/2025-11-22.md",
@@ -232,7 +228,6 @@
     "internal/Infrastructure/CHANGELOG/2026-01-08.md",
     "internal/Infrastructure/CHANGELOG/2026-01-05.md",
     "internal/Infrastructure/CHANGELOG/2026-01-11.md",
-    "internal/Infrastructure/CHANGELOG/2025-12-29.md",
     "internal/Infrastructure/CHANGELOG",
     "internal/Infrastructure/Devices/index.base",
     "internal/Infrastructure/Networks",
