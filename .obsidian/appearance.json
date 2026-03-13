@@ -1,8 +1,1 @@
-{
-  "cssTheme": "Minimal",
-  "theme": "moonstone",
-  "accentColor": "#d46329",
-  "enabledCssSnippets": [
-    "profile-styles"
-  ]
-}
+{"cssTheme":"Minimal","theme":"moonstone","accentColor":"#d46329","enabledCssSnippets":["profile-styles"]}
