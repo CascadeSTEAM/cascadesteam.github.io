@@ -1,6 +1,10 @@
 ---
 layout: page
 title: Leadership
+description: Cascade STEAM leadership — Board of Directors, Organizers, and Committee Members making our programs possible through volunteer commitment.
+tags:
+  - about
+  - leadership
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
 banner-x: 60
 banner-y: 40
@@ -26,10 +30,12 @@ Cascade STEAM is made possible through the commitment of volunteer leadership an
 - Ryan Christensen: [LinkedIn](https://www.linkedin.com/in/rpchristensen), [Email](mailto:ryan.christensen@cascadesteam.org)
 - Shay Colson: [LinkedIn](https://www.linkedin.com/in/shaycolson), [Email](mailto:shaycolson@gmail.com)
 - Michael Gan: [LinkedIn](https://www.linkedin.com/in/michaelbgan), [Email](mailto:michael.gan@cascadesteam.org)
+- Stephen Hanney: [LinkedIn](https://www.linkedin.com/in/stevehanney/), [Email](mailto:stephen.hanney@cascadesteam.org)
 - David Hirsch: [LinkedIn](https://www.linkedin.com/in/davidhirsch3), [Email](mailto:david.hirsch@cascadesteam.org)
 - Ian Hogan: [LinkedIn](https://www.linkedin.com/in/ianh007), [Email](mailto:ian.hogan@cascadesteam.org)
 - Garth Johnson: [LinkedIn](https://www.linkedin.com/in/growlf), [Email](mailto:garth.johnson@cascadesteam.org)
 - Kris Keillor: [LinkedIn](https://www.linkedin.com/in/kris-keillor-205199276), [Email](mailto:kris.keillor@cascadesteam.org)
+- Erica Lamont: [LinkedIn](https://www.linkedin.com/in/ericalamont/), [Email](mailto:erica.lamont@cascadesteam.org)
 - Riley Liddle: [Email](mailto:riley.liddle@cascadesteam.org)
 - Gil Lund: [LinkedIn](https://www.linkedin.com/in/gwlund), [Email](mailto:gil.lund@cascadesteam.org)
 - Marty Mulholland: [LinkedIn](https://www.linkedin.com/in/mulholland99), [Email](mailto:marty.mulholland@cascadesteam.org)
@@ -42,7 +48,7 @@ Cascade STEAM is made possible through the commitment of volunteer leadership an
 - Jason Davies: [LinkedIn](https://www.linkedin.com/in/jason-davies-aa536b9/), [Email](mailto:jason.davies@cascadesteam.org)
 - Michael Gan: [LinkedIn](https://www.linkedin.com/in/michaelbgan), [Email](mailto:michael.gan@cascadesteam.org)
 - Brett Greene: [LinkedIn](https://www.linkedin.com/in/brettgreene/), [Email](mailto:brett.greene@cascadesteam.org)
-- Kathleen May: [LinkedIn](https://www.linkedin.com/in/kathleenmay/), [Email](mailto:kathleen.may@cascadesteam.org) 
+- Kathleen May: [LinkedIn](https://www.linkedin.com/in/kathleenmay/), [Email](mailto:kathleen.may@cascadesteam.org)
 - Trevor Westerlund: [LinkedIn](https://www.linkedin.com/in/twesterlund/), [Email](mailto:trevor.westerlund@cascadesteam.org)
 
 ## Finance Committee

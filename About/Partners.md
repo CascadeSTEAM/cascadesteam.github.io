@@ -1,6 +1,10 @@
 ---
 layout: page
 title: Partners
+description: Cascade STEAM community, education, employer, government, and affiliate partners — 20+ organizations building Bellingham's technology ecosystem together.
+tags:
+  - about
+  - partners
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
 banner-x: 60
 banner-y: 40
@@ -10,7 +14,8 @@ banner-display: auto
 aliases:
   - /partners
 ---
-Cascade STEAM is made possible through the commitment of [volunteer leadership](Leadership.md) and open collaboration of partners. Thank you all for your efforts. Partners include:
+
+Cascade STEAM is made possible through the commitment of [volunteer leadership](Leadership/) and open collaboration of partners. Thank you all for your efforts. Partners include:
 
 ## Community Partners
 
@@ -46,3 +51,4 @@ Cascade STEAM is made possible through the commitment of [volunteer leadership](
 
 - [Technology Alliance](https://technology-alliance.com)
 - [North Central Washington Technology Alliance](https://ncwtech.org)
+
