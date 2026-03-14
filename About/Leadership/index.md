@@ -13,6 +13,7 @@ content-start: 211
 banner-display: auto
 aliases:
   - /leadership
+  - Volunteer Leadership
 publish: true
 ---
 Cascade STEAM is made possible through the commitment of volunteer leadership and open collaboration of [Partners](Partners.md). Cascade STEAM Leadership includes Board of Directors, Organizers, and Committee Members. Thank you all for your efforts.
@@ -62,3 +63,10 @@ Cascade STEAM is made possible through the commitment of volunteer leadership an
 All Organizers and Committee Members are also Advisory Committee Members. Additional Advisory Committee Members include:
 
 - Sam Groveman: [LinkedIn](https://www.linkedin.com/in/samgroveman), [Email](mailto:sam.groveman@cascadesteam.org)
+
+---
+
+**Interested in getting involved? Volunteer? Collaborate?**
+We would love to hear from you! Please contact us at [info@cascadesteam.org](mailto:info@cascadesteam.org) or jump into discussion at the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/).
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)

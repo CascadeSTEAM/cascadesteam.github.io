@@ -3,7 +3,10 @@ layout: page
 title: HelpDesk
 description: Free community tech support from Cascade STEAM volunteers — Saturdays 1–4pm at Bellingham Makerspace. Computer troubleshooting, security, Linux upgrades, and more, by donation.
 tags:
-  - community-project
+  - projects
+  - community
+  - services
+  - support
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
 banner-x: 60
 banner-y: 40
@@ -35,3 +38,4 @@ Is your computer no longer supported by the original manufacturer? This is a HUG
 Please use our [Support Request Form](https://forms.gle/KYy3kUcMFQ9nvoWF9) to share details about your needs so that we can better assist you. A requested date and time is encouraged. Your feedback is also welcome.
 
 Contact us at [helpdesk@cascadesteam.org](mailto:helpdesk@cascadesteam.org) for questions or comments regarding the HelpDesk Program.
+

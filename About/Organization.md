@@ -34,8 +34,8 @@ Cascade STEAM
 
 ### Documents
 
-- [Articles of Incorporation](/docs/Cascade%20STEAM%20Articles%20of%20Incorporation%202023-09-15.pdf)
-- [Bylaws](/docs/Cascade%20STEAM%20Bylaws%202023-09-11.pdf)
+- [[Cascade STEAM Articles of Incorporation 2023-09-15.pdf]]
+- [[Cascade STEAM Bylaws 2023-09-11.pdf]]
 - [Determination Letter](https://apps.irs.gov/pub/epostcard/dl/FinalLetter_93-3592339_CASCADESTEAM_12102023_00.pdf)
 
 ## Social
@@ -75,3 +75,10 @@ Committees include:
 - **Executive:** Strategize and manage alignment of priorities.
 - **Finance:** Strategize financial support, management, and related filings.
 - **Programs:** Strategize and manage organization activities, including programs and events.
+
+---
+
+**Interested in getting involved? Volunteer? Collaborate?**
+We would love to hear from you! Please contact us at [info@cascadesteam.org](mailto:info@cascadesteam.org) or jump into discussion at the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/).
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)

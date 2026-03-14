@@ -2,7 +2,16 @@
 title: Stormwater Monitoring
 description: Cascade STEAM partners with RE Sources to monitor stormwater runoff and protect Bellingham Bay through community-based citizen science organized by the Citizen Science group.
 tags:
-  - community-project
+  - projects
+  - community
+banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
+banner-x: 60
+banner-y: 40
+banner-height: 260
+content-start: 211
+banner-display: auto
+aliases:
+  - /stormwater
 ---
 
 The [Citizen Science Community Group](../Groups/Citizen-Science) organizes support for [RE Sources](https://re-sources.org) and their [Stormwater Monitoring Project](https://www.re-sources.org/2024/06/three-years-of-bellingham-stormwater-monitoring-reveals-pollution-hotspots-including-taylor-dock/) to help protect Bellingham Bay.

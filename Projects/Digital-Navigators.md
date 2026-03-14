@@ -3,7 +3,8 @@ layout: page
 title: Digital Navigators
 description: FREE Community Tech Support from Cascade STEAM — technology students and professionals provide free onsite tech help at social welfare organizations throughout Bellingham, WA.
 tags:
-  - community-project
+  - projects
+  - community
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
 banner-x: 60
 banner-y: 40

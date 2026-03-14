@@ -3,7 +3,12 @@ layout: page
 title: LinuxFest Northwest
 description: LinuxFest Northwest is an annual free open source conference co-produced by Cascade STEAM, BLUG, BTC IT Department, and Jupiter Broadcasting. LFNW 2026 is April 24–26 at Bellingham Technical College.
 tags:
-  - community-project
+  - projects
+  - community
+  - event
+  - engagement
+  - cybersecurity
+  - open-source
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
 banner-x: 60
 banner-y: 40

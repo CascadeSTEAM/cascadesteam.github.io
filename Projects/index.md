@@ -12,6 +12,7 @@ content-start: 211
 banner-display: auto
 aliases:
   - /community-projects
+  - Community Projects
 ---
 
 Cascade STEAM Community Projects are organized collaborative efforts for community impact and social good. We welcome all people of all ages to participate. Organization and discussion occurs at our [Community Group](../Groups/) meetings and on our [Community Hub](http://hub.cascadesteam.org). See our [Meetup Page](https://meetup.com/cascadesteam) for scheduled events.
@@ -51,3 +52,10 @@ Cascade STEAM [Service Corps](Service-Corps) is a technology training program fo
 ## Stormwater Monitoring
 
 The [Citizen Science Community Group](../Groups/Citizen-Science) helps in organizing support for [RE Sources](https://re-sources.org) and their [Stormwater Monitoring Project](https://www.re-sources.org/2024/06/three-years-of-bellingham-stormwater-monitoring-reveals-pollution-hotspots-including-taylor-dock/) to help protect Bellingham Bay. Organizers are working to create science, technology, and administrative projects and subprojects for community members to easily plug into and contribute.
+
+---
+
+**Interested in getting involved? Volunteer? Collaborate?**
+We would love to hear from you! Please contact us at [info@cascadesteam.org](mailto:info@cascadesteam.org) or jump into discussion at the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/).
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)

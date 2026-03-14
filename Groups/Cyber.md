@@ -63,3 +63,9 @@ The Cyber group is the home of [Cascade Breach](../Projects/Breach) — our mont
 
 [Volunteer Organizers](../About/Leadership/) of the Cascade STEAM Cyber Community Group are [Marty Mulholland](https://www.linkedin.com/in/mulholland99) and [David Hirsch](https://www.linkedin.com/in/davidhirsch3). Please contact [cyber@cascadesteam.org](mailto:cyber@cascadesteam.org) for community group inquiries.
 
+---
+
+**Interested in getting involved? Volunteer? Collaborate?**
+We would love to hear from you! Please contact us at [info@cascadesteam.org](mailto:info@cascadesteam.org) or jump into discussion at the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/).
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)

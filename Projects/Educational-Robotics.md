@@ -3,7 +3,8 @@ layout: page
 title: Educational Robotics
 description: Cascade STEAM partners with Bellingham Public Schools to support their VEX Robotics program — mentor volunteers, event volunteers, and sponsorship for hundreds of student competitors.
 tags:
-  - community-project
+  - projects
+  - robotics
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
 banner-x: 60
 banner-y: 40
@@ -40,10 +41,3 @@ Sponsors are needed! The cost of competition is expensive — particularly trans
 ## Organizers
 
 Please contact Riley Liddle, Squalicum High School Robotics Lead and Cascade STEAM Engineering Community Group Co-Organizer, at [riley.liddle@bellinghamschools.org](mailto:riley.liddle@bellinghamschools.org) for any questions or comments regarding Educational Robotics, including volunteering and sponsorship.
-
----
-
-**Interested in getting involved? Volunteer? Collaborate?**
-We would love to hear from you! Please contact us at [info@cascadesteam.org](mailto:info@cascadesteam.org) or jump into discussion at the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/).
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)
