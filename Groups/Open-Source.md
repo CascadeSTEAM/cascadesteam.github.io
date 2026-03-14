@@ -45,3 +45,9 @@ We collaborate with [Bellingham Linux Users Group](https://blug.org) and are a p
 
 [Volunteer Organizers](../About/Leadership/) of Cascade STEAM Open Source are [Garth Johnson](https://www.linkedin.com/in/growlf) and [Michael Gan](https://www.linkedin.com/in/michaelbgan/). Please contact [open-source@cascadesteam.org](mailto:open-source@cascadesteam.org) for community group inquiries.
 
+---
+
+**Interested in getting involved? Volunteer? Collaborate?**
+We would love to hear from you! Please contact us at [info@cascadesteam.org](mailto:info@cascadesteam.org) or jump into discussion at the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/).
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)

@@ -50,3 +50,10 @@ Are your interests in alignment of the mission of Cascade STEAM? Create a Cascad
 - [LinkedIn](https://linkedin.com/company/cascadesteam) to promote your activities to professional networks.
 - [Facebook](https://facebook.com/cascadesteam) to promote your activities to personal networks.
 - [Google Workspace](https://workspace.google.com) with an organization email address and shared community group email address and Google Drive Shared Folder to organize collaboration.
+
+---
+
+**Interested in getting involved? Volunteer? Collaborate?**
+We would love to hear from you! Please contact us at [info@cascadesteam.org](mailto:info@cascadesteam.org) or jump into discussion at the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/).
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)

@@ -3,7 +3,10 @@ layout: page
 title: Service Corps
 description: Cascade STEAM Service Corps is a quarterly technology training and community service program — student interns and volunteers work with mentor tech professionals on real systems.
 tags:
-  - community-project
+  - projects
+  - community
+  - mentorship
+  - internship
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
 banner-x: 60
 banner-y: 40

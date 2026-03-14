@@ -3,9 +3,9 @@ layout: page
 title: Breach
 description: Cascade Breach is a monthly collaborative Capture The Flag event at Bellingham Makerspace — cooperative, low-stress, and open to all skill levels. Launching March 29, 2026.
 tags:
-  - community-project
   - breach
   - cybersecurity
+  - projects
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
 banner-x: 60
 banner-y: 40
@@ -16,7 +16,7 @@ aliases:
   - /breach
 ---
 
-Cascade STEAM Breach is a [Community Project](index) featuring a cybersecurity shared learning experience in a game of Capture the Flag!
+Cascade STEAM Breach is a [[Projects/index|Community Projects]] featuring a cybersecurity shared learning experience in a game of Capture the Flag!
 
 In a cooperative, low-stress format designed for all skill levels, the offensive Red Team takes on the defensive Blue Team in a structured learning exercise — planting, detecting, and resolving cybersecurity challenges in a controlled environment. Participants share their strategies for attacking and defending, which helps evolve further rounds of play with more difficult challenges.
 

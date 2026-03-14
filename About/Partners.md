@@ -15,7 +15,7 @@ aliases:
   - /partners
 ---
 
-Cascade STEAM is made possible through the commitment of [volunteer leadership](Leadership/) and open collaboration of partners. Thank you all for your efforts. Partners include:
+Cascade STEAM is made possible through the commitment of [[About/Leadership/index|Volunteer Leadership]] and open collaboration of partners. Thank you all for your efforts. Partners include:
 
 ## Community Partners
 
@@ -52,3 +52,9 @@ Cascade STEAM is made possible through the commitment of [volunteer leadership](
 - [Technology Alliance](https://technology-alliance.com)
 - [North Central Washington Technology Alliance](https://ncwtech.org)
 
+---
+
+**Interested in getting involved? Volunteer? Collaborate?**
+We would love to hear from you! Please contact us at [info@cascadesteam.org](mailto:info@cascadesteam.org) or jump into discussion at the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/).
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)

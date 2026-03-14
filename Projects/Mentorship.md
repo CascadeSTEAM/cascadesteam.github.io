@@ -3,7 +3,9 @@ layout: page
 title: Mentorship
 description: Cascade STEAM Mentorship connects community members in Traditional or Peer Mentorship arrangements — for students, professionals, and retired professionals 18 and older.
 tags:
-  - community-project
+  - projects
+  - community
+  - mentorship
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
 banner-x: 60
 banner-y: 40
