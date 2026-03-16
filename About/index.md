@@ -13,7 +13,6 @@ banner-display: auto
 aliases:
   - /about
 ---
-
 ## Mission
 
 Cascade STEAM is a 501(c)(3) nonprofit organization based in Bellingham, WA dedicated to develop and promote STEAM Education, Career Connected Learning, Digital Literacy, and Digital Equity for all people of all ages.
@@ -26,7 +25,7 @@ Please see our [Organization Page](Organization) to review our mission and struc
 
 ## Get Involved!
 
-We welcome all people of all ages to [get involved](../Get-Involved/) to help support our mission. Learn how you can support existing efforts or bring your passions to Cascade STEAM and launch new efforts!
+We welcome all people of all ages to [[Get-Involved/index|Get Involved]] to help support our mission. Learn how you can support existing efforts or bring your passions to Cascade STEAM and launch new efforts!
 
 ## Donate
 
