@@ -29,7 +29,7 @@ Cascade STEAM is made possible through the commitment of volunteer leadership an
 
 - Elijah Cherney: [LinkedIn](https://www.linkedin.com/in/elijah-c-940485101/), [Email](mailto:elijah.cherney@cascadesteam.org)
 - Michael Gan: [LinkedIn](https://www.linkedin.com/in/michaelbgan), [Email](mailto:michael.gan@cascadesteam.org)
-- Ian Garconnette: [LinkedIn](https://www.linkedin.com/in/michaelbgan), [Email](mailto:ian.garconnette@cascadesteam.org)
+- Ian Garconnette: [Email](mailto:ian.garconnette@cascadesteam.org)
 - Sam Groveman: [LinkedIn](https://www.linkedin.com/in/samgroveman), [Email](mailto:sam.groveman@cascadesteam.org)
 - Stephen Hanney: [LinkedIn](https://www.linkedin.com/in/stevehanney/), [Email](mailto:stephen.hanney@cascadesteam.org)
 - David Hirsch: [LinkedIn](https://www.linkedin.com/in/davidhirsch3), [Email](mailto:david.hirsch@cascadesteam.org)
