@@ -27,10 +27,3 @@ We plan to meet monthly every second Wednesday of the month. Meeting details wil
 ## Organizers
 
 [Volunteer Organizers](../About/Leadership/) of the Cascade STEAM Engineering Community Group are Riley Liddle and [Kris Keillor](https://www.linkedin.com/in/kris-keillor-205199276/). Please contact [engineering@cascadesteam.org](mailto:engineering@cascadesteam.org) for related community group inquiries.
-
----
-
-**Interested in getting involved? Volunteer? Collaborate?**
-We would love to hear from you! Please contact us at [info@cascadesteam.org](mailto:info@cascadesteam.org) or jump into discussion at the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/).
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)

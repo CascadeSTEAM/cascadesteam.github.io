@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About/Organization.md",
+                "file": "About/Leadership/Josh-Buker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Organization"
+              "title": "Josh-Buker"
             }
           }
         ]
@@ -203,10 +203,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "index.md",
-    "About/index.md",
+    "assets/images/members/joshbuker.jpeg",
+    "assets/images/members/Unconfirmed 880254.crdownload",
+    "About/Leadership/Garth-Johnson.md",
     "About/Leadership/index.md",
+    "About/index.md",
+    "Get-Involved/Donate.md",
     "About/Partners.md",
+    "About/Organization.md",
+    "index.md",
     "Leadership.md",
     "Projects/Stormwater-Monitoring.md",
     "Projects/Service-Corps.md",
@@ -226,10 +231,6 @@
     "About/Leadership/index_temp.md",
     "About/Leadership/Garth Johnson.md",
     "About/Leadership/Josh Buker.md",
-    "About/Leadership/Leslie Brendible.md",
-    "About/Leadership/Michael Gan.md",
-    "About/Leadership/Ian Hogan.md",
-    "README.md",
     "internal/Priority/Projects/Completed/index.base",
     "internal/Priority/Change Management/2 Discovery Time/ESP Discovery",
     "internal/Priority/Change Management/2 Discovery Time/Ansible Playbook Server",
@@ -238,7 +239,6 @@
     "internal/Priority/Issues/Issues",
     "internal/Priority/Issues/Archive",
     "internal/Priority/Change Management/Archived Projects",
-    "internal/Priority/Change Management/4 Project Retrospectives",
     "internal/_assets/banners/rpies.jpg",
     "internal/_assets/banners/Cascade_STEAM_horizontal_logo_primary.svg",
     "internal/_assets/banners/Cascade_STEAM_horizontal_logo_primary.png",

@@ -11,27 +11,26 @@ tags:
   - skills/aws
   - skills/docker
   - skills/community_organizer
+  - skills/bash
+  - skills/firewalls
+  - skills/linux
+  - skills/networking
+  - skills/ssh
+  - skills/sysadmin
+  - skills/zsh
+  - skills/non-profit
 board_role: President
 linked-in: https://www.linkedin.com/in/michaelbgan
-skills:
-  - bash
-  - firewalls
-  - linux
-  - networking
-  - ssh
-  - sysadmin
-  - zsh
-  - non-profit
 ---
 ![[michaelgan.jpeg|image-right]]Experienced in technology and organization management, business development, and community engagement. Please reach out! I would love to hear from you.
 
-## At Cascade STEAM
+## Role at Cascade STEAM
 
-**President** — Board of Directors
+**President**, Board of Directors
 
-Lead organizer for [LinuxFest Northwest](../../Projects/LinuxFest-NorthWest). Co-organizer of [Citizen Science](../../Groups/Citizen-Science) and [Data Engineering](../../Groups/Data-Engineering) community groups. Finance and Engagement committee lead.
+Lead organizer for [LinuxFest Northwest](../../Projects/LinuxFest-NorthWest). Co-organizer of [Citizen Science](../../Groups/Citizen-Science) and [Data Engineering](../../Groups/Data-Engineering) community groups.
 
-## Background
+## Career
 
 22 years spanning enterprise IT management, nonprofit leadership, and workforce development:
 
@@ -52,10 +51,3 @@ Lead organizer for [LinuxFest Northwest](../../Projects/LinuxFest-NorthWest). Co
 - [LinkedIn](https://www.linkedin.com/in/michaelbgan)
 - [Email](mailto:michael.gan@cascadesteam.org)
 - LFNW inquiries: [michael.gan@linuxfestnorthwest.org](mailto:michael.gan@linuxfestnorthwest.org)
-
----
-
-**Interested in getting involved? Volunteer? Collaborate?**
-We would love to hear from you! Please contact us at [info@cascadesteam.org](mailto:info@cascadesteam.org) or jump into discussion at the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/).
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)

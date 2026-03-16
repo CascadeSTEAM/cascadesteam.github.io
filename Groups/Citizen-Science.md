@@ -31,10 +31,3 @@ Access the RE Sources Meeting Room on the second floor by the stairs in the Sout
 ## Organizers
 
 [Volunteer Organizers](../About/Leadership/) of the Cascade STEAM Citizen Science Community Group are [Gil Lund](https://www.linkedin.com/in/gwlund) and [Michael Gan](https://www.linkedin.com/in/michaelbgan). Please contact [citizen-science@cascadesteam.org](mailto:citizen-science@cascadesteam.org) for community group inquiries.
-
----
-
-**Interested in getting involved? Volunteer? Collaborate?**
-We would love to hear from you! Please contact us at [info@cascadesteam.org](mailto:info@cascadesteam.org) or jump into discussion at the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/).
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)

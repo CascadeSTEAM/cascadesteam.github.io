@@ -41,7 +41,7 @@ Teams are formed of 3–5 players. At each event, teams are matched in a head-to
 
 Points are won by either (1) creating an undetected Challenge Flag (exploit) by the Red Team, or (2) detecting and resolving Challenge Flags (exploits) by the Blue Team.
 
-Each round consists of five phases: Prepare, Resolve, Attack, Victory, and Collaborate.
+Each round consists of five phases:
 
 1. **Prepare Phase:** The Red Team prepares five Challenge Flags (exploits) prior to the event.
 2. **Resolve Phase:** The Blue Team attempts to detect and resolve all five Challenge Flags created by the Red Team. If the Blue Team is not successful, then the Attack Phase begins.
@@ -51,13 +51,6 @@ Each round consists of five phases: Prepare, Resolve, Attack, Victory, and Colla
 
 ## What to Bring
 
-A laptop — Linux preferred (a VM works fine), but any OS is okay for most challenges. And yourself.
+A laptop — Linux preferred (a VM works fine), but any OS is okay for most challenges. No prior experience required.
+ If you've never heard of a CTF before, this is a great place to start.
 
-No prior experience required. If you've never heard of a CTF before, this is a great place to start.
-
----
-
-**Interested in getting involved? Volunteer? Collaborate?**
-We would love to hear from you! Please contact us at [info@cascadesteam.org](mailto:info@cascadesteam.org) or jump into discussion at the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/).
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)

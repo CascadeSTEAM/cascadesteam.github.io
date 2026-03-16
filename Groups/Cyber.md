@@ -6,6 +6,7 @@ tags:
 aliases:
   - /cyber
 ---
+
 ![[Cascade STEAM Cyber.png]]
 
 Welcome to Cascade STEAM's Cyber-focused community group!
@@ -28,7 +29,7 @@ Bellingham Makerspace
 
 Join us for an introduction and discussion of the [Cascade Breach Community Project](../Projects/Breach) and highlights of the recent [Seattle BSides Cybersecurity Conference](https://www.bsidesseattle.com/).
 
-[Cascade Breach](../Projects/Breach) is a [Community Project](../Projects/) featuring a cybersecurity shared learning experience in a game of Capture the Flag — a collaborative, low-stress format designed for all skill levels. The offensive Red Team and defensive Blue Team share strategies as a learning exercise, evolving each round with new challenges. **Our first Breach event is March 29th!**
+[Cascade Breach](../Projects/Breach) is a [Community Project](../Projects/) featuring a collaborative cybersecurity learning experience in a game of Capture the Flag. In a cooperative, low-stress format designed for all skill levels, participants share strategies for attacking and defending as a learning exercise, evolving each round with more difficult challenges. **Our first Breach event is March 29th!**
 
 ---
 
@@ -43,11 +44,11 @@ Thursday April 9, 2026, 5:20–7:00pm
 ## Past Meetings
 
 1. 5/25 — *What does the community want from this group?*
-2. 6/25 — Steven Reed, IT Cybersecurity Auditor, WA State Auditor's Office: *Cybersecurity Audits & Tools*
+2. 6/25 — Steven Reed, IT Cybersecurity Auditor, Washington State Auditor's Office (SAO): *Cybersecurity Audits & Tools*
 3. 7/25 — Chris Ranallo, Director of IT, Lummi Nation: *How to build a cybersecurity and IT program*
-4. 9/25 — Donavon Swinney, CISSP/CISA/CISM, Director of Information Security, WECU: *Cybersecurity in Financial Services*
-5. 10/25 — Brent Hurtig & Ianthe Andress, Motive Search Inc: *Recruiting for Big Tech & Tech Startups*
-6. 11/25 — Mike Hamilton, Field CISO, Lumifi; Co-Founder, PISCES: *Changes at CISA, PISCES, & Cyber Trends*
+4. 9/25 — Donavon Swinney, CISSP, CISA, CISM, Director of Information Security, Whatcom Educational Credit Union (WECU): *Cybersecurity in Financial Services*
+5. 10/25 — Brent Hurtig and Ianthe Andress, Motive Search Inc: *Recruiting for Big Tech & Tech Startups*
+6. 11/25 — Mike Hamilton, Field CISO, Lumifi; Co-Founder & Board Chairman, PISCES: *Changes at CISA, PISCES Program, & Cyber Trends and Stories*
 7. 1/26 — Panel Discussion: *What cybersecurity professionals should expect in 2026*
 8. 2/26 — Member Networking: *Rapid-fire Networking by Topic*
 
@@ -63,9 +64,3 @@ The Cyber group is the home of [Cascade Breach](../Projects/Breach) — our mont
 
 [Volunteer Organizers](../About/Leadership/) of the Cascade STEAM Cyber Community Group are [Marty Mulholland](https://www.linkedin.com/in/mulholland99) and [David Hirsch](https://www.linkedin.com/in/davidhirsch3). Please contact [cyber@cascadesteam.org](mailto:cyber@cascadesteam.org) for community group inquiries.
 
----
-
-**Interested in getting involved? Volunteer? Collaborate?**
-We would love to hear from you! Please contact us at [info@cascadesteam.org](mailto:info@cascadesteam.org) or jump into discussion at the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/).
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)

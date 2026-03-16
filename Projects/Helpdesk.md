@@ -38,4 +38,3 @@ Is your computer no longer supported by the original manufacturer? This is a HUG
 Please use our [Support Request Form](https://forms.gle/KYy3kUcMFQ9nvoWF9) to share details about your needs so that we can better assist you. A requested date and time is encouraged. Your feedback is also welcome.
 
 Contact us at [helpdesk@cascadesteam.org](mailto:helpdesk@cascadesteam.org) for questions or comments regarding the HelpDesk Program.
-

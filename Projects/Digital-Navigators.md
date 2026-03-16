@@ -24,4 +24,3 @@ To receive support for more complicated or longer time-frame technology issues, 
 Are you a social welfare or support organization that would like to arrange collaboration with Digital Navigators? Please reach out! We would love to collaborate with you to support your community members.
 
 Contact us at [digital-navigators@cascadesteam.org](mailto:digital-navigators@cascadesteam.org) for questions or comments regarding the Digital Navigators Program.
-

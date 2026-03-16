@@ -40,4 +40,3 @@ To apply: Please email your resume and a cover letter detailing your experience,
 [>> Apply <<](mailto:service-corps@cascadesteam.org)
 
 Contact us at [service-corps@cascadesteam.org](mailto:service-corps@cascadesteam.org) for questions or comments regarding the Service Corps Program.
-

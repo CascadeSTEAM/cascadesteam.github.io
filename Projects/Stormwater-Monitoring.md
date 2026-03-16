@@ -29,4 +29,3 @@ Cascade STEAM community members contribute to data collection, data analysis, an
 Join the [Citizen Science Community Group](../Groups/Citizen-Science) — meetings are on the third Thursday of the month at RE Sources' meeting room, 2309 Meridian St, Bellingham.
 
 Contact [citizen-science@cascadesteam.org](mailto:citizen-science@cascadesteam.org) for more information.
-
