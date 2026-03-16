@@ -31,4 +31,3 @@ Check the [Cascade STEAM Community Hub](http://hub.cascadesteam.org) for discuss
 **Location:**
 [Bellingham Makerspace](https://bellinghammakerspace.org)
 [1 Bellis Fair Parkway #618, Bellingham, WA 98225](https://maps.app.goo.gl/AXGdqY1NgtviXYy58)
-

@@ -13,15 +13,15 @@ tags:
 board_role: Secretary
 ---
 
-## At Cascade STEAM
+## Role at Cascade STEAM
 
-**Secretary** — Board of Directors (Founding Member)
+**Secretary**, Board of Directors (Founding Member)
 
-Lead organizer of [Cascade Breach](../../Projects/Breach), our monthly collaborative CTF program. Brings security governance expertise from the Cloud Security Alliance to Cascade STEAM's program and infrastructure design.
+Lead organizer of [Cascade Breach](../../Projects/Breach) — our monthly collaborative CTF program. Brings security governance expertise from the Cloud Security Alliance to Cascade STEAM's program and infrastructure design.
 
-## Background
+## Career
 
-Software engineer with 10 years at the Cloud Security Alliance and deep roots in the Pacific Northwest technology community:
+Software engineer with 10 years at the Cloud Security Alliance:
 
 - **Blue Sea Systems** (2014–2016) — Electronic Assembler; marine electronics and hardware
 - **Cloud Security Alliance** (2016–present):
@@ -45,10 +45,3 @@ Long-term trajectory toward robotics and holistic engineering.
 - [GitHub](https://github.com/joshbuker)
 - [Mastodon](https://infosec.exchange/@joshbuker)
 - [joshbuker.com](https://joshbuker.com)
-
----
-
-**Interested in getting involved? Volunteer? Collaborate?**
-We would love to hear from you! Please contact us at [info@cascadesteam.org](mailto:info@cascadesteam.org) or jump into discussion at the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/).
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)

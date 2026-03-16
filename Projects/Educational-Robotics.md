@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Educational Robotics
-description: Cascade STEAM partners with Bellingham Public Schools to support their VEX Robotics program — mentor volunteers, event volunteers, and sponsorship for hundreds of student competitors.
+description: Cascade STEAM partners with Bellingham Public Schools to support their VEX Robotics program — mentor volunteers, event volunteers, and sponsorship for student competitors.
 tags:
   - projects
   - robotics

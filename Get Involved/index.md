@@ -102,10 +102,3 @@ Here are a few areas where we can plug you in now! Don't see what you are lookin
 ## Feedback
 
 Have input or ideas to share? We appreciate your feedback and welcome your input via our [Community Survey](http://community-survey.cascadesteam.org).
-
----
-
-**Interested in getting involved? Volunteer? Collaborate?**
-We would love to hear from you! Please contact us at [info@cascadesteam.org](mailto:info@cascadesteam.org) or jump into discussion at the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/).
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)
