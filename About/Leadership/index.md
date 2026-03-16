@@ -29,6 +29,7 @@ Cascade STEAM is made possible through the commitment of volunteer leadership an
 
 - Elijah Cherney: [LinkedIn](https://www.linkedin.com/in/elijah-c-940485101/), [Email](mailto:elijah.cherney@cascadesteam.org)
 - Michael Gan: [LinkedIn](https://www.linkedin.com/in/michaelbgan), [Email](mailto:michael.gan@cascadesteam.org)
+- Ian Garconnette: [LinkedIn](https://www.linkedin.com/in/michaelbgan), [Email](mailto:ian.garconnette@cascadesteam.org)
 - Sam Groveman: [LinkedIn](https://www.linkedin.com/in/samgroveman), [Email](mailto:sam.groveman@cascadesteam.org)
 - Stephen Hanney: [LinkedIn](https://www.linkedin.com/in/stevehanney/), [Email](mailto:stephen.hanney@cascadesteam.org)
 - David Hirsch: [LinkedIn](https://www.linkedin.com/in/davidhirsch3), [Email](mailto:david.hirsch@cascadesteam.org)
@@ -38,8 +39,6 @@ Cascade STEAM is made possible through the commitment of volunteer leadership an
 - Riley Liddle: [Email](mailto:riley.liddle@cascadesteam.org)
 - Gil Lund: [LinkedIn](https://www.linkedin.com/in/gwlund), [Email](mailto:gil.lund@cascadesteam.org)
 - Marty Mulholland: [LinkedIn](https://www.linkedin.com/in/mulholland99), [Email](mailto:marty.mulholland@cascadesteam.org)
-- Ryan Shupe: [LinkedIn](https://www.linkedin.com/in/ryan-shupe-74a48219), [Email](mailto:ryan.shupe@gmail.com)
-- Kevin Stock: [LinkedIn](https://www.linkedin.com/in/kevinstock), [Email](mailto:kevin@toolhouse.com)
 - Eric Veal: [LinkedIn](https://www.linkedin.com/in/ejveal/), [Email](mailto:eric.veal@cascadesteam.org)
 
 ## Engagement Committee
