@@ -16,7 +16,8 @@ aliases:
   - /breach
 ---
 
-Cascade STEAM Breach is a [[Projects/index|Community Projects]] featuring a cybersecurity shared learning experience in a game of Capture the Flag!
+![[cascadeBREACH!.png]]
+Cascade STEAM Breach is a [[Projects/index|Community Project]] featuring a cyber-security shared learning experience in a game similar to Capture the Flag!
 
 In a cooperative, low-stress format designed for all skill levels, the offensive Red Team takes on the defensive Blue Team in a structured learning exercise — planting, detecting, and resolving cybersecurity challenges in a controlled environment. Participants share their strategies for attacking and defending, which helps evolve further rounds of play with more difficult challenges.
 

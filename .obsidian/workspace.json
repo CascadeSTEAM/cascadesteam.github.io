@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About/Leadership/Michael-Gan.md",
-                "mode": "preview",
-                "source": true
+                "file": "Projects/Breach.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Michael-Gan"
+              "title": "Breach"
             }
           }
         ]
@@ -203,10 +203,21 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Projects/Digital-Navigators.md",
+    "Projects/Breach.md",
+    "assets/images/cascadeBREACH!.png.AuSimP",
+    "index.md",
+    "assets/images/cascadeBREACH!.png",
+    "Groups/Cyber.md",
+    "Projects/Stormwater-Monitoring.md",
+    "Projects/Service-Corps.md",
+    "Projects/Mentorship.md",
+    "Projects/LinuxFest-NorthWest.md",
+    "Projects/Hack-Night.md",
+    "Projects/Educational-Robotics.md",
+    "About/Leadership/Michael-Gan.md",
     "About/Leadership/Josh-Buker.md",
     "About/Leadership/Garth-Johnson.md",
-    "About/Leadership/Michael-Gan.md",
-    "index.md",
     "assets/images/members/joshbuker.jpeg",
     "assets/images/members/Unconfirmed 880254.crdownload",
     "About/Leadership/index.md",
@@ -215,23 +226,13 @@
     "About/Partners.md",
     "About/Organization.md",
     "Leadership.md",
-    "Projects/Stormwater-Monitoring.md",
-    "Projects/Service-Corps.md",
-    "Projects/Mentorship.md",
-    "Projects/Hack-Night.md",
-    "Projects/LinuxFest-NorthWest.md",
     "Projects/Helpdesk.md",
-    "Projects/Educational-Robotics.md",
-    "Projects/Digital-Navigators.md",
-    "Projects/Breach.md",
     "Projects/index.md",
     "Get Involved/index.md",
     "assets.md",
     "Get Involved",
     "About/Leadership.md",
     "flag_rebuild.md",
-    "About/Leadership/index_temp.md",
-    "About/Leadership/Garth Johnson.md",
     "internal/Priority/Projects/Completed/index.base",
     "internal/Priority/Change Management/2 Discovery Time/ESP Discovery",
     "internal/Priority/Change Management/2 Discovery Time/Ansible Playbook Server",
@@ -239,7 +240,6 @@
     "internal/Priority/Issues/index.base",
     "internal/Priority/Issues/Issues",
     "internal/Priority/Issues/Archive",
-    "internal/Priority/Change Management/Archived Projects",
     "internal/_assets/banners/rpies.jpg",
     "internal/_assets/banners/Cascade_STEAM_horizontal_logo_primary.svg",
     "internal/_assets/banners/Cascade_STEAM_horizontal_logo_primary.png",
@@ -247,7 +247,6 @@
     "internal/_assets/zfs_dir.png",
     "internal/_assets/speachbubble.svg",
     "internal/_assets/proxmox.svg",
-    "internal/_assets/obsidian-directory-layout.svg",
-    "internal/_assets/obsidian-directory-layout.light.svg"
+    "internal/_assets/obsidian-directory-layout.svg"
   ]
 }
