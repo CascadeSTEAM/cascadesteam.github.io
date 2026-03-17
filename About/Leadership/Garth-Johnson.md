@@ -21,7 +21,9 @@ linked-in: https://www.linkedin.com/in/growlf
 
 **Vice President & Treasurer**, Board of Directors
 
-Co-organizer of the [Open Source Community Group](../../Groups/Open-Source). Former Board member of [Bellingham Makerspace](https://bellinghammakerspace.org), where I designed and continue to maintain the network infrastructure.
+Lead organizer of [Cascade Breach](../../Projects/Breach) — our monthly collaborative CTF program. Brings security governance expertise from the Cloud Security Alliance to Cascade STEAM's program and infrastructure design.
+
+Co-organizer of the [Open Source Community Group](../../Groups/Open-Source). Former Board member of [Bellingham Makerspace](https://bellinghammakerspace.org), where I designed and continue to maintain the network infrastructure for community members.
 
 ## Career
 
