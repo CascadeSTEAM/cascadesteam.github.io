@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About/Leadership/Josh-Buker.md",
-                "mode": "source",
-                "source": false
+                "file": "About/Leadership/Michael-Gan.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Josh-Buker"
+              "title": "Michael-Gan"
             }
           }
         ]
@@ -203,15 +203,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "About/Leadership/Josh-Buker.md",
+    "About/Leadership/Garth-Johnson.md",
+    "About/Leadership/Michael-Gan.md",
+    "index.md",
     "assets/images/members/joshbuker.jpeg",
     "assets/images/members/Unconfirmed 880254.crdownload",
-    "About/Leadership/Garth-Johnson.md",
     "About/Leadership/index.md",
     "About/index.md",
     "Get-Involved/Donate.md",
     "About/Partners.md",
     "About/Organization.md",
-    "index.md",
     "Leadership.md",
     "Projects/Stormwater-Monitoring.md",
     "Projects/Service-Corps.md",
@@ -230,7 +232,6 @@
     "flag_rebuild.md",
     "About/Leadership/index_temp.md",
     "About/Leadership/Garth Johnson.md",
-    "About/Leadership/Josh Buker.md",
     "internal/Priority/Projects/Completed/index.base",
     "internal/Priority/Change Management/2 Discovery Time/ESP Discovery",
     "internal/Priority/Change Management/2 Discovery Time/Ansible Playbook Server",
@@ -247,7 +248,6 @@
     "internal/_assets/speachbubble.svg",
     "internal/_assets/proxmox.svg",
     "internal/_assets/obsidian-directory-layout.svg",
-    "internal/_assets/obsidian-directory-layout.light.svg",
-    "internal/_assets/obsidian-directory-layout.dark.svg"
+    "internal/_assets/obsidian-directory-layout.light.svg"
   ]
 }

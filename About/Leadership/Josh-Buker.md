@@ -14,11 +14,7 @@ board_role: Secretary
 ---
 
 ## Role at Cascade STEAM
-
-**Secretary**, Board of Directors (Founding Member)
-
-Lead organizer of [Cascade Breach](../../Projects/Breach) — our monthly collaborative CTF program. Brings security governance expertise from the Cloud Security Alliance to Cascade STEAM's program and infrastructure design.
-
+![[joshbuker.jpeg|image-right]]
 ## Career
 
 Software engineer with 10 years at the Cloud Security Alliance:
