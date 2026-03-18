@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Breach.md",
-                "mode": "source",
+                "file": "index.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Breach"
+              "title": "index"
             }
           }
         ]
@@ -201,14 +201,16 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "fb9b7d43406f3d66",
   "lastOpenFiles": [
-    "Projects/Digital-Navigators.md",
-    "Projects/Breach.md",
-    "assets/images/cascadeBREACH!.png.AuSimP",
+    "Projects/Artificial-Intelligence-Workshops.md",
+    "Get Involved/index.md",
     "index.md",
-    "assets/images/cascadeBREACH!.png",
+    "Projects/Breach.md",
     "Groups/Cyber.md",
+    "Projects/Digital-Navigators.md",
+    "assets/images/cascadeBREACH!.png.AuSimP",
+    "assets/images/cascadeBREACH!.png",
     "Projects/Stormwater-Monitoring.md",
     "Projects/Service-Corps.md",
     "Projects/Mentorship.md",
@@ -228,7 +230,6 @@
     "Leadership.md",
     "Projects/Helpdesk.md",
     "Projects/index.md",
-    "Get Involved/index.md",
     "assets.md",
     "Get Involved",
     "About/Leadership.md",
