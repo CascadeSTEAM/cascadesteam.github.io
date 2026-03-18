@@ -17,6 +17,10 @@ aliases:
 
 Cascade STEAM Community Projects are organized collaborative efforts for community impact and social good. We welcome all people of all ages to participate. Organization and discussion occurs at our [Community Group](../Groups/) meetings and on our [Community Hub](http://hub.cascadesteam.org). See our [Meetup Page](https://meetup.com/cascadesteam) for scheduled events.
 
+## Artificial Intelligence Workshops
+
+Join the [Cascade STEAM Artificial Intelligence Community Group](https://cascadesteam.org/artificial-intelligence) as we meet for hands-on learning in our [Artificial Intelligence Workshops](Artificial-Intelligence-Workshops) events. We’ve partnered with [Anthropric](https://www.anthropic.com/) with their [Claude Code](https://code.claude.com/docs/en/overview) Workshop for Builders platform to collaborate on our own goals of organizing shared learning experiences and progressing our community work with a focus on education and lifelong learning.
+
 ## Breach
 
 [Breach](Breach) is a Community Project featuring a cybersecurity shared learning experience in a game of Capture the Flag! In a cooperative, low-stress format designed for all skill levels, participants share strategies for attacking and defending as a learning exercise, evolving each round with more difficult challenges. **Launching March 29, 2026.**
