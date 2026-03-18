@@ -2,8 +2,18 @@
 layout: page
 title: Artificial Intellience Workshops
 banner: assets/images/Cascade_STEAM_horizontal_logo_primary.svg
-banner-display: 80%
-banner-fade: -10
+banner-x: 60
+banner-y: 40
+banner-height: 260
+content-start: 211
+banner-display: auto
+tags:
+  - artificial intelligence
+  - workshops
+  - projects
+aliases:
+  - /artificial-intelligence-workshops
+  - /ai-workshops
 ---
 
 ## Artificial Intelligence Workshops
