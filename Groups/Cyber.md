@@ -21,23 +21,21 @@ Mark your calendars and watch this space as we confirm meeting locations. Consid
 
 ---
 
-## March (Meeting #9)
+## April (Meeting #10): Pen Testing
 
-**Cascade Breach Launch Discussion**
-Thursday March 12, 5:20–7:00pm
-Bellingham Makerspace
+* Thursday April 9, 5:20–7:00pm
+* [Bellingham Makerspace](https://bellinghammakerspace.org/)
 
-Join us for an introduction and discussion of the [Cascade Breach Community Project](../Projects/Breach) and highlights of the recent [Seattle BSides Cybersecurity Conference](https://www.bsidesseattle.com/).
+**Featured Speaker:** Miranda Skar, CISSP, Senior Pen Tester at LevelBlue
 
-[Cascade Breach](../Projects/Breach) is a [Community Project](../Projects/) featuring a collaborative cybersecurity learning experience in a game of Capture the Flag. In a cooperative, low-stress format designed for all skill levels, participants share strategies for attacking and defending as a learning exercise, evolving each round with more difficult challenges. **Our first Breach event is March 29th!**
+Miranda will share her career journey, describe how she became interested in pen testing, describe/show tools and techniques she uses, plus share favorite resources, training platforms, and a story or two about physical security pen tests. Miranda will also share her perspective about pen testing contracts, including tips for having a clear understanding between parties when scoping a pen test. 
 
----
+Miranda graduated from Western Washington University in 2019 with a Bachelor's degree in Computer and Information Systems Security/Information Assurance. Prior to that she earned her Associate of Science degree from Whatcom Community College. She holds the CISSP certification from ISC2 as well as GPEN and GCFE certifications from SANS institute.
 
-## April (Meeting #10)
-
-Thursday April 9, 2026, 5:20–7:00pm
-
-**Details:** TBD
+**Timeline:**<br>
+5:20pm - Doors open<br>
+5:45pm - Meeting begins<br>
+6:45pm - Wrap-up
 
 ---
 
@@ -51,6 +49,7 @@ Thursday April 9, 2026, 5:20–7:00pm
 6. 11/25 — Mike Hamilton, Field CISO, Lumifi; Co-Founder & Board Chairman, PISCES: *Changes at CISA, PISCES Program, & Cyber Trends and Stories*
 7. 1/26 — Panel Discussion: *What cybersecurity professionals should expect in 2026*
 8. 2/26 — Member Networking: *Rapid-fire Networking by Topic*
+9. 3/12 - Cascade Breach Launch Discussion
 
 ---
 
