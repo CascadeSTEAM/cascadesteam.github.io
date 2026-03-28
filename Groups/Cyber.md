@@ -21,11 +21,13 @@ Mark your calendars and watch this space as we confirm meeting locations. Consid
 
 ---
 
-## March (Meeting #9)
+## April (Meeting #10)
 
 **Cascade Breach Launch Discussion**
-Thursday March 12, 5:20–7:00pm
-Bellingham Makerspace
+
+Thursday April 9, 5:20–7:00pm
+
+Location: [Bellingham Makerspace](https://bellinghammakerspace.org/)
 
 Join us for an introduction and discussion of the [Cascade Breach Community Project](../Projects/Breach) and highlights of the recent [Seattle BSides Cybersecurity Conference](https://www.bsidesseattle.com/).
 
@@ -51,6 +53,7 @@ Thursday April 9, 2026, 5:20–7:00pm
 6. 11/25 — Mike Hamilton, Field CISO, Lumifi; Co-Founder & Board Chairman, PISCES: *Changes at CISA, PISCES Program, & Cyber Trends and Stories*
 7. 1/26 — Panel Discussion: *What cybersecurity professionals should expect in 2026*
 8. 2/26 — Member Networking: *Rapid-fire Networking by Topic*
+9. 3/12 - Cascade Breach Launch Discussion
 
 ---
 
