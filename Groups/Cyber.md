@@ -21,28 +21,21 @@ Mark your calendars and watch this space as we confirm meeting locations. Consid
 
 ---
 
-## April (Meeting #10)
-
-### Pen Testing
+## April (Meeting #10): Pen Testing
 
 * Thursday April 9, 5:20–7:00pm
 * [Bellingham Makerspace](https://bellinghammakerspace.org/)
 
-**Career Spotlight & Presentation: Pen Testing**
-
-**Miranda Skar, CISSP, Senior Pen Tester at LevelBlue**
+**Featured Speaker:** Miranda Skar, CISSP, Senior Pen Tester at LevelBlue
 
 Miranda will share her career journey, describe how she became interested in pen testing, describe/show tools and techniques she uses, plus share favorite resources, training platforms, and a story or two about physical security pen tests. Miranda will also share her perspective about pen testing contracts, including tips for having a clear understanding between parties when scoping a pen test. 
 
-Miranda graduated from Western Washington University in 2019 with a Bachelor's degree in Computer and Information Systems Security/Information Assurance. Prior to that she earned her Associate of Science degree from Whatcom Community College. She holds the CISSP certification from ISC2 as well as GPEN and GCFE certifications from SANS institute. 
+Miranda graduated from Western Washington University in 2019 with a Bachelor's degree in Computer and Information Systems Security/Information Assurance. Prior to that she earned her Associate of Science degree from Whatcom Community College. She holds the CISSP certification from ISC2 as well as GPEN and GCFE certifications from SANS institute.
 
----
-
-## April (Meeting #10)
-
-Thursday April 9, 2026, 5:20–7:00pm
-
-**Details:** TBD
+**Timeline:**<br>
+5:20pm - Doors open<br>
+5:45pm - Meeting begins<br>
+6:45pm - Wrap-up
 
 ---
 
