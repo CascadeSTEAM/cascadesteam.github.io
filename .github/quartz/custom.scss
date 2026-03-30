@@ -1,11 +1,35 @@
 // Custom styles for Quartz
 @use "./base.scss";
 
-// put your custom CSS here!
-// header {
-//   background-image: url('assets/images/Cascade_STEAM_horizontal_logo_primary.svg'); /* Adjust the path as necessary */
-//   background-size: cover; /* Ensures the image covers the entire header area */
-//   background-position: center; /* Centers the image */
-//   height: 200px; /* Adjust the height to your desired banner size */
-//   /* Add other styling as needed, such as padding or text color adjustments */
-// }
+.custom-block-container {
+  .custom-block-timestamp {
+    margin-top: 1rem;
+    padding-top: 0.5rem;
+    border-top: 1px solid var(--gray);
+    font-size: 0.75rem;
+    color: var(--gray);
+    font-family: var(--codeFont);
+    font-style: italic;
+  }
+}
+
+.volunteer-footer {
+  text-align: center;
+  margin-top: 2rem;
+  padding: 1.5rem;
+  border-top: 1px dashed var(--lightgray);
+
+  p {
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+
+  .donate-button {
+    margin-top: 10px;
+    transition: transform 0.2s ease;
+
+    &:hover {
+      transform: scale(1.05);
+    }
+  }
+}
