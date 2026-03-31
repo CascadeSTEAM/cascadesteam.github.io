@@ -26,7 +26,7 @@ Mark your calendars and watch this space as we confirm meeting locations. Consid
 * Thursday April 9, 5:20–7:00pm
 * [Bellingham Makerspace](https://bellinghammakerspace.org/)
 
-**Featured Speaker:** Miranda Skar, CISSP, Senior Pen Tester at LevelBlue
+**Featured Speaker:** Miranda Skar, CISSP, *Senior Pen Tester at LevelBlue*
 
 Miranda will share her career journey, describe how she became interested in pen testing, describe/show tools and techniques she uses, plus share favorite resources, training platforms, and a story or two about physical security pen tests. Miranda will also share her perspective about pen testing contracts, including tips for having a clear understanding between parties when scoping a pen test. 
 
@@ -49,7 +49,7 @@ Miranda graduated from Western Washington University in 2019 with a Bachelor's d
 6. 11/25 — Mike Hamilton, Field CISO, Lumifi; Co-Founder & Board Chairman, PISCES: *Changes at CISA, PISCES Program, & Cyber Trends and Stories*
 7. 1/26 — Panel Discussion: *What cybersecurity professionals should expect in 2026*
 8. 2/26 — Member Networking: *Rapid-fire Networking by Topic*
-9. 3/12 - Cascade Breach Launch Discussion
+9. 3/12 — *Cascade Breach Launch Discussion*
 
 ---
 
