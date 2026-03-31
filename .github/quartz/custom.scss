@@ -13,6 +13,13 @@
   }
 }
 
+img[alt="image-right"] {
+  float: right;
+  margin: 0 0 1rem 1.5rem;
+  max-width: 200px;
+  border-radius: 6px;
+}
+
 .volunteer-footer {
   text-align: center;
   margin-top: 2rem;
