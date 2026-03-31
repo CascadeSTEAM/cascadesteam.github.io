@@ -98,19 +98,12 @@
 body[data-slug="index"] {
   // Full-width hero treatment for the logo (first paragraph in article)
   article > p:first-child {
-    position: relative;
-    margin-left: -2rem;
-    margin-right: -2rem;
-    margin-top: -2rem;
-    padding: 3rem 2rem;
-    background: linear-gradient(135deg, var(--secondary) 0%, #1a3a4a 60%, var(--dark) 100%);
     text-align: center;
-    border-radius: 0;
+    padding: 2rem 0;
 
     img {
       max-height: 140px;
       width: auto;
-      filter: drop-shadow(0 4px 16px rgba(0,0,0,0.4));
     }
   }
 
