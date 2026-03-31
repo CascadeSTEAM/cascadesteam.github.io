@@ -147,6 +147,20 @@ body[data-slug="index"] {
   }
 }
 
+// ─── Table of Contents: remove box ─────────────────────────────────────────
+
+.sidebar.right {
+  .toc,
+  desktop-only,
+  .toc-content,
+  .toc-header {
+    border: none !important;
+    background: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+  }
+}
+
 // ─── Profile images ─────────────────────────────────────────────────────────
 
 img[alt="image-right"] {
