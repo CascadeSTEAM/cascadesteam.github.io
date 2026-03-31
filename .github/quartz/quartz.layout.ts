@@ -84,16 +84,10 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.DesktopOnly((props) => {
       const isLandingPage = props.fileData.frontmatter?.layout === "landing-page"
-
-      // If it's a landing page, we don't want to show the graph, backlinks, or table of contents, so we return null to render nothing.
       if (isLandingPage) return null
-
-      // For all other pages, we render the graph, backlinks, and table of contents in the right sidebar.
       return jsx(props.displayClass ?? "div", {
         children: [
-          Component.Graph()(props),
           Component.TableOfContents()(props),
-          Component.Backlinks()(props),
         ],
       })
     }),
@@ -125,20 +119,11 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer({
       title: "Directory",
-      // folderClickBehavior: "collapse",
-      // Add the filter function here
       filterFn: (node) => {
-        // List folders or files you want to hide
         const omit = new Set(["assets"])
-        
-        // Check against the node's display name or slug
         return !omit.has(node.displayName.toLowerCase())
       },
     })
   ],
-  right: [
-    Component.Graph(),
-    Component.TableOfContents(),
-    Component.Backlinks(),
-  ],
+  right: [],
 }
