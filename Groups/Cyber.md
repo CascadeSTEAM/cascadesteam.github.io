@@ -23,14 +23,32 @@ Mark your calendars and watch this space as we confirm meeting locations. Consid
 
 ## April (Meeting #10): Pen Testing
 
-* Thursday April 9, 5:20–7:00pm
-* [Bellingham Makerspace](https://bellinghammakerspace.org/)
+* **When**: Thursday April 9, 5:20–7:00pm
+* **Where**: [Bellingham Makerspace](https://bellinghammakerspace.org/)
 
 **Featured Speaker:** Miranda Skar, CISSP, *Senior Pen Tester at LevelBlue*
 
 Miranda will share her career journey, describe how she became interested in pen testing, describe/show tools and techniques she uses, plus share favorite resources, training platforms, and a story or two about physical security pen tests. Miranda will also share her perspective about pen testing contracts, including tips for having a clear understanding between parties when scoping a pen test. 
 
 Miranda graduated from Western Washington University in 2019 with a Bachelor's degree in Computer and Information Systems Security/Information Assurance. Prior to that she earned her Associate of Science degree from Whatcom Community College. She holds the CISSP certification from ISC2 as well as GPEN and GCFE certifications from SANS institute.
+
+**Timeline:**<br>
+5:20pm - Doors open<br>
+5:45pm - Meeting begins<br>
+6:45pm - Wrap-up
+
+---
+
+## May (Meeting #11): Cloud Security & CSA
+
+* **When**: Thursday May 14, 5:20–7:00pm
+* **Where**: TBA
+
+**Featured Speaker:** Ryan Bergsma, *Technology Director and Security Manager, Cloud Security Alliance*
+
+Ryan will discuss the most important aspects of cloud security, including how to protect your most important data when it is in the cloud, and how cybersecurity is different for cloud-based systems.  He can also talk about what is involved in being the Security Manager for a Security organization, and what the CSA is all about.
+
+Ryan is an alumni of Whatcom Community College, and a graduate of the WWU Bachelor's Degree program in Cybersecurity.  He started at CSA as a Research Analyst and has served in a number of roles there, including Training Director, before achieving his current role.  
 
 **Timeline:**<br>
 5:20pm - Doors open<br>
