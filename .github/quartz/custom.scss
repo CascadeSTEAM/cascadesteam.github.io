@@ -235,7 +235,8 @@ img[alt="image-right"] {
 //           └── ul.content > li ...
 
 $nav-height: 52px;
-$nav-logo-width: 200px;   // space reserved for logo on left
+$nav-logo-width: 170px;   // logo div width
+$nav-logo-offset: 200px;  // explorer left padding — slightly wider to clear first nav item
 $nav-search-width: 260px; // space reserved for search/controls on right
 
 @media (min-width: 801px) {
@@ -256,7 +257,7 @@ $nav-search-width: 260px; // space reserved for search/controls on right
     position: fixed;
     top: 0;
     left: 0;
-    width: $nav-logo-width;
+    width: $nav-logo-width;  // 170px — sized to the logo
     height: $nav-height;
     z-index: 301;
     background: var(--light);
@@ -309,7 +310,7 @@ $nav-search-width: 260px; // space reserved for search/controls on right
     align-items: stretch;
     overflow: visible;
     // Inset nav items so they don't overlap logo or search
-    padding: 0 #{$nav-search-width} 0 #{$nav-logo-width};
+    padding: 0 #{$nav-search-width} 0 #{$nav-logo-offset};
     min-height: unset;
     flex: unset;
 
