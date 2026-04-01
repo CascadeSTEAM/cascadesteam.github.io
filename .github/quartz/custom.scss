@@ -572,9 +572,69 @@ $nav-search-width: 260px; // space reserved for search/controls on right
     }
   }
 
-  // Dropdown: nested folder-outer — hide (no sub-sub-dropdown for now)
-  .sidebar.left .explorer .explorer-content > ul.explorer-ul > li > .folder-outer ul li > .folder-outer {
+  // ── Sub-menus (depth 2+): fly out to the right ──────────────────────────
+  // Any .folder-outer nested inside a dropdown becomes a hover fly-out.
+  // This covers About > Leadership > [profiles] and any further nesting.
+
+  $dropdown-base: ".sidebar.left .explorer .explorer-content > ul.explorer-ul > li > .folder-outer";
+
+  // li that contains a nested folder-outer needs relative positioning
+  #{$dropdown-base} ul li {
+    position: relative;
+  }
+
+  // The nested folder-outer: hidden by default, flies out to the right
+  #{$dropdown-base} ul li > .folder-outer {
     display: none !important;
+    visibility: visible !important;
+    position: absolute;
+    top: 0;
+    left: 100%;
+    min-width: 180px;
+    background: var(--light);
+    border: 1px solid var(--lightgray);
+    border-radius: 0 8px 8px 8px;
+    box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.12);
+    z-index: 500;
+
+    > ul {
+      overflow: visible !important;
+      margin: 0 !important;
+      padding: 0.4rem 0 !important;
+      border-left: none !important;
+    }
+  }
+
+  // Show fly-out on hover of the parent li
+  #{$dropdown-base} ul li:hover > .folder-outer {
+    display: block !important;
+  }
+
+  // Indicate sub-menu with a chevron on the folder title
+  #{$dropdown-base} ul li > .folder-container div > a.folder-title::after {
+    content: " ›";
+    opacity: 0.5;
+    font-size: 0.8em;
+  }
+
+  // Deep file links (depth 2+) — same style as depth-1 dropdown items
+  #{$dropdown-base} ul li > .folder-outer ul li > a {
+    display: block !important;
+    padding: 0.45rem 1.2rem;
+    height: auto;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--darkgray);
+    white-space: nowrap;
+    border-radius: 0;
+    opacity: 1;
+    transition: color 0.15s ease, text-shadow 0.15s ease, transform 0.15s ease;
+
+    &:hover {
+      color: var(--tertiary);
+      text-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+      transform: translateX(3px);
+    }
   }
 
   // Hide overflow fade indicator in nav mode
