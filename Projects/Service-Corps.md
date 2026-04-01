@@ -16,7 +16,6 @@ banner-display: auto
 aliases:
   - /service-corps
 ---
-
 Cascade STEAM [Service Corps](Service-Corps) is a technology training and community service program for social good. Each quarter, student interns and volunteers work closely with mentors to help develop and maintain the systems that we utilize for our organization management and community programs, including [Digital Navigators](Digital-Navigators) and [HelpDesk](Helpdesk).
 
 Service Corps includes:
