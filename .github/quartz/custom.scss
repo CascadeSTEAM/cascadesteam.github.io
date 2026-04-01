@@ -235,6 +235,8 @@ img[alt="image-right"] {
 //           └── ul.content > li ...
 
 $nav-height: 52px;
+$nav-logo-width: 170px;   // space reserved for logo on left
+$nav-search-width: 260px; // space reserved for search/controls on right
 
 @media (min-width: 801px) {
   // Push all page content below the fixed nav bar
@@ -246,6 +248,49 @@ $nav-height: 52px;
   .page > #quartz-body > .sidebar {
     top: $nav-height;
     height: calc(100vh - #{$nav-height});
+  }
+
+  // ── Logo: fixed left anchor of the nav bar ───────────────────────────────
+
+  .sidebar.left .logo {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: $nav-logo-width;
+    height: $nav-height;
+    z-index: 301;
+    background: var(--light);
+    display: flex !important;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0 1.25rem;
+    text-align: left;
+
+    img {
+      height: 30px;
+      width: auto;
+      max-width: none;
+      max-height: 30px;
+    }
+  }
+
+  // ── Search + controls: fixed right anchor of the nav bar ─────────────────
+
+  .sidebar.left .flex-component {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: $nav-search-width;
+    height: $nav-height;
+    z-index: 301;
+    background: var(--light);
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0 1.25rem;
+    gap: 0.5rem;
+    flex-wrap: nowrap !important;
   }
 
   // ── Explorer: escape sidebar and become a fixed top bar ──────────────────
@@ -263,7 +308,8 @@ $nav-height: 52px;
     flex-direction: row;
     align-items: stretch;
     overflow: visible;
-    padding: 0 1rem;
+    // Inset nav items so they don't overlap logo or search
+    padding: 0 #{$nav-search-width} 0 #{$nav-logo-width};
     min-height: unset;
     flex: unset;
 
