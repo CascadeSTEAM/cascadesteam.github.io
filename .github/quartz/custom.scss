@@ -261,6 +261,31 @@ img[alt="image-right"] {
   }
 }
 
+// ─── Footer social icons: orange pop-up hover ───────────────────────────────
+
+.social-icons a svg {
+  transition: transform 0.2s ease, color 0.2s ease, filter 0.2s ease;
+}
+
+.social-icons a:hover svg {
+  color: var(--tertiary) !important;
+  transform: translateY(-3px);
+  filter: drop-shadow(0 3px 6px rgba(0, 0, 0, 0.2));
+}
+
+// ─── Table of Contents links: orange hover ──────────────────────────────────
+
+.toc li > a {
+  transition: color 0.15s ease, text-shadow 0.15s ease, transform 0.15s ease;
+  display: inline-block;
+
+  &:hover {
+    color: var(--tertiary) !important;
+    text-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+    transform: translateX(2px);
+  }
+}
+
 // ─── Site-wide link consistency ──────────────────────────────────────────────
 
 // Internal wiki-links: consistent teal color
