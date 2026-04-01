@@ -201,6 +201,11 @@ img[alt="image-right"] {
   border-radius: 6px;
 }
 
+// Dashed separator only on the home page, where it divides Recent Notes from the footer
+body[data-slug="index"] .volunteer-footer {
+  border-top: 1px dashed var(--lightgray);
+}
+
 .volunteer-footer {
   text-align: center;
   margin-top: 2rem;
