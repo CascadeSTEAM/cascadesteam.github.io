@@ -222,13 +222,6 @@ img[alt="image-right"] {
   }
 }
 
-// ─── Hide folder page listing ("N items under this folder") ─────────────────
-// The nav bar makes this redundant — folder index pages no longer need it.
-
-.page-listing {
-  display: none;
-}
-
 // ─── Breadcrumbs: add home icon ─────────────────────────────────────────────
 
 .breadcrumb-container {
