@@ -225,6 +225,14 @@ img[alt="image-right"] {
 // ─── Horizontal top navigation bar (desktop only) ───────────────────────────
 // Transforms the Explorer/Directory sidebar into a fixed full-width top nav
 // with hover dropdown menus. Mobile layout is unchanged.
+//
+// Folder template structure (built by explorer.inline.ts):
+//   ul.explorer-ul > li
+//     ├── div.folder-container
+//     │     ├── svg.folder-icon
+//     │     └── div > a.folder-title   (folderClickBehavior="link")
+//     └── div.folder-outer [.open]
+//           └── ul.content > li ...
 
 $nav-height: 52px;
 
@@ -287,30 +295,27 @@ $nav-height: 52px;
     overflow: visible !important;
   }
 
-  // Top-level li
+  // Top-level li (no class — both folders and files are plain <li>)
   .sidebar.left .explorer .explorer-content > ul.explorer-ul > li {
     position: relative;
     display: flex !important;
     align-items: stretch;
-
-    // Top-level folder: override the grid animation with flex
-    &.folder-outer {
-      display: flex !important;
-      flex-direction: column;
-      visibility: visible !important;
-      grid-template-rows: unset !important;
-    }
   }
 
   // ── Folder nav items ─────────────────────────────────────────────────────
 
-  .sidebar.left .explorer .explorer-content > ul.explorer-ul > li .folder-container {
-    height: $nav-height;
+  // Folder container: fills nav bar height, hides folder icon
+  .sidebar.left .explorer .explorer-content > ul.explorer-ul > li > .folder-container {
+    display: flex;
+    align-items: stretch;
     padding: 0;
-    align-items: center;
 
-    div > a,
-    div > button {
+    .folder-icon {
+      display: none;
+    }
+
+    // Folder title link (folderClickBehavior="link" renders <a class="folder-title">)
+    div > a.folder-title {
       display: flex;
       align-items: center;
       height: $nav-height;
@@ -319,12 +324,9 @@ $nav-height: 52px;
       font-weight: 600;
       color: var(--dark);
       white-space: nowrap;
-      line-height: $nav-height;
-      border-radius: 0;
-
-      span {
-        font-size: 0.9rem;
-      }
+      font-family: var(--headerFont);
+      text-decoration: none;
+      opacity: 1;
 
       &:hover {
         color: var(--secondary);
@@ -353,10 +355,12 @@ $nav-height: 52px;
   }
 
   // ── Dropdown menus ───────────────────────────────────────────────────────
+  // .folder-outer is a <div> child of <li>, wrapping ul.content
+  // Default: completely hidden (override the grid/visibility animation)
 
-  // Hide dropdown by default (override grid animation completely)
-  .sidebar.left .explorer .explorer-content > ul.explorer-ul > li.folder-outer > ul.explorer-ul {
+  .sidebar.left .explorer .explorer-content > ul.explorer-ul > li > .folder-outer {
     display: none !important;
+    visibility: visible !important;
     position: absolute;
     top: $nav-height;
     left: 0;
@@ -366,42 +370,66 @@ $nav-height: 52px;
     border-top: none;
     border-radius: 0 0 8px 8px;
     box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
-    padding: 0.4rem 0;
     z-index: 400;
-    overflow: visible !important;
-    // Reset sidebar ul styles
-    margin-left: 0;
-    padding-left: 0;
-    border-left: none;
+
+    // The nested ul (class="content" from template)
+    > ul {
+      overflow: visible !important;
+      margin: 0 !important;
+      padding: 0.4rem 0 !important;
+      border-left: none !important;
+    }
   }
 
-  // Show on hover
-  .sidebar.left .explorer .explorer-content > ul.explorer-ul > li.folder-outer:hover > ul.explorer-ul {
+  // Show dropdown on hover
+  .sidebar.left .explorer .explorer-content > ul.explorer-ul > li:hover > .folder-outer {
     display: block !important;
   }
 
-  // Dropdown items
-  .sidebar.left .explorer .explorer-content > ul.explorer-ul > li.folder-outer > ul.explorer-ul li {
+  // Dropdown: file links
+  .sidebar.left .explorer .explorer-content > ul.explorer-ul > li > .folder-outer ul li > a {
     display: block !important;
-    visibility: visible !important;
-    grid-template-rows: unset !important;
+    padding: 0.45rem 1.2rem;
+    height: auto;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--darkgray);
+    white-space: nowrap;
+    border-radius: 0;
+    opacity: 1;
 
-    > a {
-      display: block !important;
+    &:hover {
+      background: var(--highlight);
+      color: var(--secondary);
+    }
+  }
+
+  // Dropdown: nested folder title links
+  .sidebar.left .explorer .explorer-content > ul.explorer-ul > li > .folder-outer ul li > .folder-container {
+    padding: 0;
+
+    .folder-icon { display: none; }
+
+    div > a.folder-title {
+      display: block;
       padding: 0.45rem 1.2rem;
-      height: auto;
       font-size: 0.875rem;
       font-weight: 500;
       color: var(--darkgray);
       white-space: nowrap;
-      border-radius: 0;
       opacity: 1;
+      text-decoration: none;
 
       &:hover {
         background: var(--highlight);
         color: var(--secondary);
       }
     }
+  }
+
+  // Dropdown: nested folder-outer — hide (no sub-sub-dropdown for now)
+  .sidebar.left .explorer .explorer-content > ul.explorer-ul > li > .folder-outer ul li > .folder-outer {
+    display: none !important;
   }
 
   // Hide overflow fade indicator in nav mode
