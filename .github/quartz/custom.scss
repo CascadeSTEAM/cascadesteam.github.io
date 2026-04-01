@@ -201,9 +201,30 @@ img[alt="image-right"] {
   border-radius: 6px;
 }
 
-// Dashed separator only on the home page, where it divides Recent Notes from the footer
-body[data-slug="index"] .volunteer-footer {
+// Quartz unconditionally renders <hr> immediately before .page-footer.
+// Hide it on all pages except the home page.
+body:not([data-slug="index"]) hr + .page-footer {
+  margin-top: 0;
+}
+
+body:not([data-slug="index"]) .page-footer {
+  // The hr is a preceding sibling — target it via the adjacent combinator trick
+  // by hiding any hr directly before this element using a wrapper approach.
+  // Since CSS has no previous-sibling selector, we hide the hr globally and
+  // restore only what we need on the home page.
+}
+
+// Hide the Quartz-injected <hr> before afterBody on all non-home pages
+article + hr {
+  display: none;
+}
+
+// Restore a subtle dashed line on the home page only (separates Recent Notes)
+body[data-slug="index"] article + hr {
+  display: block;
+  border: none;
   border-top: 1px dashed var(--lightgray);
+  margin: 1.5rem 0 0;
 }
 
 .volunteer-footer {
