@@ -48,7 +48,19 @@ Cascade STEAM is made possible through the commitment of volunteer leadership an
 - Tony McGarry: [LinkedIn](https://www.linkedin.com/in/tony-mcgarry), [Email](mailto:tony.mcgarry@cascadesteam.org)
 ## Infrastructure Committee
 - [[Garth-Johnson]]: [LinkedIn](https://www.linkedin.com/in/growlf), [Email](mailto:garth.johnson@cascadesteam.org)
+- [[Michael-Gan]]: [LinkedIn](https://www.linkedin.com/in/michaelbgan), [Email](mailto:michael.gan@cascadesteam.org)
+- Elijah Cherney: [LinkedIn](https://www.linkedin.com/in/elijah-c-940485101/), [Email](mailto:elijah.cherney@cascadesteam.org)
+- Kaleb Coberly:
+- Tim Haglund:
 ## Service Corps
 - [[Garth-Johnson]]: [LinkedIn](https://www.linkedin.com/in/growlf), [Email](mailto:garth.johnson@cascadesteam.org)
+- Vivian Miller:
+- Lilian Miller: 
+- Ricky Monnik:
+- Laith Wajeeh:
+- Austin Rehys:
+- Brittin:
+- Ari:
+- Alex:
 ## Advisory Committee
 All Organizers and Committee Members are also Advisory Committee Members.
