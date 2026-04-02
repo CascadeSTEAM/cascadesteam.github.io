@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "preview",
+                "file": "About/Leadership/Garth-Johnson.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Garth-Johnson"
             }
           }
         ]
@@ -203,7 +203,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "About/Leadership/Michael-Gan.md",
+    "About/Leadership/Garth-Johnson.md",
+    "About/Leadership/Josh-Buker.md",
+    "About/Leadership/index.md",
     "index.md",
+    "Projects/Mentorship.md",
+    "Projects/Service-Corps.md",
+    "Projects/Screenshot_20260401_154324.png",
+    "Projects/Stormwater-Monitoring.md",
     "Projects/Artificial-Intelligence-Workshops.md",
     "Get Involved/index.md",
     "Projects/Breach.md",
@@ -211,18 +219,11 @@
     "Projects/Digital-Navigators.md",
     "assets/images/cascadeBREACH!.png.AuSimP",
     "assets/images/cascadeBREACH!.png",
-    "Projects/Stormwater-Monitoring.md",
-    "Projects/Service-Corps.md",
-    "Projects/Mentorship.md",
     "Projects/LinuxFest-NorthWest.md",
     "Projects/Hack-Night.md",
     "Projects/Educational-Robotics.md",
-    "About/Leadership/Michael-Gan.md",
-    "About/Leadership/Josh-Buker.md",
-    "About/Leadership/Garth-Johnson.md",
     "assets/images/members/joshbuker.jpeg",
     "assets/images/members/Unconfirmed 880254.crdownload",
-    "About/Leadership/index.md",
     "About/index.md",
     "Get-Involved/Donate.md",
     "About/Partners.md",
@@ -233,7 +234,6 @@
     "assets.md",
     "Get Involved",
     "About/Leadership.md",
-    "flag_rebuild.md",
     "internal/Priority/Projects/Completed/index.base",
     "internal/Priority/Change Management/2 Discovery Time/ESP Discovery",
     "internal/Priority/Change Management/2 Discovery Time/Ansible Playbook Server",
@@ -247,7 +247,6 @@
     "internal/_assets/zfs_mp.png",
     "internal/_assets/zfs_dir.png",
     "internal/_assets/speachbubble.svg",
-    "internal/_assets/proxmox.svg",
-    "internal/_assets/obsidian-directory-layout.svg"
+    "internal/_assets/proxmox.svg"
   ]
 }
