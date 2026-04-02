@@ -12,6 +12,9 @@ import matter from "gray-matter"
 
 const REPO_ROOT = join(import.meta.dirname, "..")
 
+/** Minimum character length required for a page description. */
+const MIN_DESCRIPTION_LENGTH = 20
+
 /** Directories to skip entirely when scanning for markdown files. */
 const SKIP_DIRS = new Set([
   ".git",
@@ -89,13 +92,13 @@ describe("Markdown content files", () => {
       ).toHaveLength(0)
     })
 
-    it("every description is at least 20 characters long", () => {
+    it(`every description is at least ${MIN_DESCRIPTION_LENGTH} characters long`, () => {
       const tooShort: string[] = []
       for (const file of contentFiles) {
         const { data } = matter(readFileSync(file, "utf-8"))
         if (
           data.description &&
-          String(data.description).trim().length < 20
+          String(data.description).trim().length < MIN_DESCRIPTION_LENGTH
         ) {
           tooShort.push(
             `${relative(REPO_ROOT, file)}: "${data.description}"`,

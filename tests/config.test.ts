@@ -88,14 +88,14 @@ describe("quartz.config.ts", () => {
   // Theme colours
   // -------------------------------------------------------------------------
 
-  describe("theme colours", () => {
-    it("a lightMode and a darkMode colour section are defined", () => {
+  describe("theme colors", () => {
+    it("a lightMode and a darkMode color section are defined", () => {
       const src = readFileSync(CONFIG_FILE, "utf-8")
       expect(src).toMatch(/lightMode:\s*\{/)
       expect(src).toMatch(/darkMode:\s*\{/)
     })
 
-    it("all colour values are valid CSS colours (hex or rgba)", () => {
+    it("all color values are valid CSS colors (hex or rgba)", () => {
       const src = readFileSync(CONFIG_FILE, "utf-8")
 
       // Isolate just the colors block so we don't pick up unrelated strings.
@@ -107,12 +107,12 @@ describe("quartz.config.ts", () => {
 
       const colorsBlock = colorsBlockMatch![1]
       const colorValues = extractColorValues(colorsBlock)
-      expect(colorValues.length, "at least one colour value expected").toBeGreaterThan(0)
+      expect(colorValues.length, "at least one color value expected").toBeGreaterThan(0)
 
       const invalid = colorValues.filter((v) => !isValidColor(v))
       expect(
         invalid,
-        `Invalid CSS colour values found:\n  ${invalid.join("\n  ")}`,
+        `Invalid CSS color values found:\n  ${invalid.join("\n  ")}`,
       ).toHaveLength(0)
     })
 
