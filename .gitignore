@@ -1,3 +1,5 @@
 .vscode/
 internal/
 e2e.log
+.aider.*
+.claude/
