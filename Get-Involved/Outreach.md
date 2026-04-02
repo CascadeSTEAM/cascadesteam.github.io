@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Outreach
+description: Cascade STEAM outreach materials — logos, brand colors, and print flyers to help spread the word about our free community STEAM education programs in Bellingham, WA.
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
 banner-x: 60
 banner-y: 40

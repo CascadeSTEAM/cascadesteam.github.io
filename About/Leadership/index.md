@@ -16,7 +16,7 @@ aliases:
   - Volunteer Leadership
 publish: true
 ---
-Cascade STEAM is made possible through the commitment of volunteer leadership and open collaboration of [Partners](Partners.md). Cascade STEAM Leadership includes Board of Directors, Organizers, and Committee Members. Thank you all for your efforts.
+Cascade STEAM is made possible through the commitment of volunteer leadership and open collaboration of [Partners](../Partners). Cascade STEAM Leadership includes Board of Directors, Organizers, and Committee Members. Thank you all for your efforts.
 ## Board of Directors
 - [[Michael-Gan]]
 - [[Garth-Johnson]]

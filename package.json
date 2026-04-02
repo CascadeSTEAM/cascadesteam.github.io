@@ -1,0 +1,14 @@
+{
+  "name": "cascadesteam-tests",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "gray-matter": "^4.0.3",
+    "vitest": "^2.1.0"
+  }
+}

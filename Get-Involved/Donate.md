@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Donate
+description: Support Cascade STEAM — a 501(c)(3) nonprofit in Bellingham, WA. Donate via PayPal, check, or Venmo to fund free community STEAM education programs open to everyone.
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
 banner-x: 60
 banner-y: 40
