@@ -20,9 +20,9 @@ Cascade STEAM is made possible through the commitment of volunteer leadership an
 
 ## Board of Directors
 
-- Michael Gan, President: [LinkedIn](https://www.linkedin.com/in/michaelbgan), [Email](mailto:michael.gan@cascadesteam.org)
-- Garth Johnson, Vice President & Treasurer: [LinkedIn](https://www.linkedin.com/in/growlf), [Email](mailto:garth.johnson@cascadesteam.org)
-- Josh Buker, Secretary: [LinkedIn](https://www.linkedin.com/in/joshbuker), [Email](mailto:josh.buker@cascadesteam.org)
+- [[Michael-Gan]]
+- [[Garth-Johnson]]
+- [[Josh-Buker]]
 - Leslie Brendible: [LinkedIn](https://www.linkedin.com/in/lesliebrendible), [Email](mailto:leslie.brendible@cascadesteam.org)
 
 ## Organizers
