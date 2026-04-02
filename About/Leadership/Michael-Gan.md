@@ -22,7 +22,8 @@ tags:
 board_role: President
 linked-in: https://www.linkedin.com/in/michaelbgan
 ---
-![[michaelgan.jpeg|image-right]]Experienced in technology and organization management, business development, and community engagement. Please reach out! I would love to hear from you.
+> [!INFO]
+>![[michaelgan.jpeg|image-right]]Experienced in technology and organization management, business development, and community engagement. Please reach out! I would love to hear from you.
 
 ## Role at Cascade STEAM
 
