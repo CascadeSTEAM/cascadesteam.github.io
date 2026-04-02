@@ -3,3 +3,4 @@ internal/
 e2e.log
 .aider.*
 .claude/
+node_modules/
