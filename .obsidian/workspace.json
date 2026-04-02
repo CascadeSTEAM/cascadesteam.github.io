@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About/Leadership/index.md",
+                "file": "Groups/Artificial-Intelligence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Artificial-Intelligence"
             }
           }
         ]
@@ -203,7 +203,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Groups/Cyber.md",
+    "Groups/Artificial-Intelligence.md",
     "index.md",
+    "About/Leadership/index.md",
     "About/Code-of-Conduct.md",
     "assets/fragments/global-footer.md",
     "assets/fragments/site_logo.svg",
@@ -217,14 +220,12 @@
     "About/Leadership/Garth-Johnson.md",
     "About/Leadership/Michael-Gan.md",
     "About/Leadership/Josh-Buker.md",
-    "About/Leadership/index.md",
     "Projects/Service-Corps.md",
     "Projects/Screenshot_20260401_154324.png",
     "Projects/Stormwater-Monitoring.md",
     "Projects/Artificial-Intelligence-Workshops.md",
     "Get Involved/index.md",
     "Projects/Breach.md",
-    "Groups/Cyber.md",
     "Projects/Digital-Navigators.md",
     "assets/images/cascadeBREACH!.png.AuSimP",
     "assets/images/cascadeBREACH!.png",
@@ -234,7 +235,6 @@
     "About/index.md",
     "Get-Involved/Donate.md",
     "About/Partners.md",
-    "About/Organization.md",
     "Get Involved",
     "internal/Priority/Projects/Completed/index.base",
     "internal/Priority/Change Management/2 Discovery Time/ESP Discovery",
