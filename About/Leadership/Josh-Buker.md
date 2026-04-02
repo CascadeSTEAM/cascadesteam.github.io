@@ -12,9 +12,9 @@ tags:
   - skills/community_organizer
 board_role: Secretary
 ---
-
-## Role at Cascade STEAM
 ![[joshbuker.jpeg|image-right]]
+## Role at Cascade STEAM
+**Secretary**, Board of Directors
 ## Career
 
 Software engineer with 10 years at the Cloud Security Alliance:

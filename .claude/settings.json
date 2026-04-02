@@ -1,0 +1,37 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /home/netyeti/Obsidian/CascadeSTEAM -maxdepth 2 -name *.json -o -name *.yaml -o -name *.yml -o -name *.toml -o -name Gemfile -o -name *.config.*)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(rsync -av --delete --exclude='.git' --exclude='.obsidian' --exclude='.github' --exclude='private' --exclude='templates' --exclude='README.md' --exclude='internal' /home/netyeti/Obsidian/CascadeSTEAM/ /home/netyeti/Projects/quartz/content/)",
+      "Bash(cp /home/netyeti/Obsidian/CascadeSTEAM/.github/quartz/quartz.config.ts /home/netyeti/Projects/quartz/quartz.config.ts)",
+      "Bash(cp /home/netyeti/Obsidian/CascadeSTEAM/.github/quartz/quartz.layout.ts /home/netyeti/Projects/quartz/quartz.layout.ts)",
+      "Bash(cp /home/netyeti/Obsidian/CascadeSTEAM/.github/quartz/custom.scss /home/netyeti/Projects/quartz/quartz/styles/custom.scss)",
+      "Read(//home/netyeti/Projects/quartz/**)",
+      "Bash(docker build:*)",
+      "Bash(docker stop:*)",
+      "Bash(docker rm:*)",
+      "Bash(docker run:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(chromium --headless --screenshot=/tmp/cs_home.png --window-size=1400,900 http://localhost:8080)",
+      "Bash(chromium --headless --screenshot=/tmp/cs_leadership.png --window-size=1400,900 http://localhost:8080/About/Leadership/Michael-Gan)",
+      "Bash(chromium --headless --screenshot=/tmp/cs_groups.png --window-size=1400,900 http://localhost:8080/Groups)",
+      "Bash(chromium --headless --screenshot=/tmp/cs_project.png --window-size=1400,900 http://localhost:8080/Projects/LinuxFest-NorthWest)",
+      "Read(//usr/bin/**)",
+      "Bash(git checkout:*)",
+      "Bash(curl -s http://localhost:8080)",
+      "Bash(google-chrome --headless --screenshot=/tmp/cs_hero_light.png --window-size=1400,900 http://localhost:8080)",
+      "Bash(curl -s \"http://localhost:8080/About/Leadership/Michael-Gan\")",
+      "Bash(google-chrome --headless --screenshot=/tmp/cs_toc_zoom.png --window-size=400,600 --crop-x=1000 \"http://localhost:8080/About/Leadership/Michael-Gan\")",
+      "Bash(google-chrome --headless --screenshot=/tmp/cs_toc_full.png --window-size=1400,900 \"http://localhost:8080/About/Leadership/Michael-Gan\")",
+      "Bash(curl -s http://localhost:8080/index.css)",
+      "Bash(google-chrome --headless --screenshot=/tmp/cs_toc_after.png --window-size=1400,900 \"http://localhost:8080/About/Leadership/Michael-Gan\")"
+    ],
+    "additionalDirectories": [
+      "/home/netyeti/Projects/quartz/quartz/styles",
+      "/home/netyeti/Projects/quartz"
+    ]
+  }
+}
