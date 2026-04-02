@@ -15,9 +15,6 @@ STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, an
 
 ## Happening Now
 
-> **[Cascade Breach](Projects/Breach) — Launching March 29, 2026**
-> Our new monthly collaborative Capture The Flag event at Bellingham Makerspace. All skill levels welcome. [Learn more →](Projects/Breach)
-
 > **[LinuxFest Northwest 2026](Projects/LinuxFest-NorthWest) — April 24–26 at BTC**
 > The Pacific Northwest's largest open-source conference, co-produced by Cascade STEAM. [Learn more →](Projects/LinuxFest-NorthWest)
 
