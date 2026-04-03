@@ -3,7 +3,6 @@ const path = require('path');
 const os = require('os');
 
 const configPath = path.join(__dirname, 'quartz.config.ts');
-const localQuartzConfigPath = path.join(os.homedir(), 'Projects/quartz/quartz.config.ts');
 const themePath = path.join(__dirname, '../../.obsidian/themes/Cascade-Quartz/theme.css');
 
 if (!fs.existsSync(themePath)) {
@@ -83,8 +82,4 @@ newConfigContent = newConfigContent.replace(
 );
 
 fs.writeFileSync(configPath, newConfigContent);
-if (fs.existsSync(localQuartzConfigPath)) {
-    fs.writeFileSync(localQuartzConfigPath, newConfigContent);
-    console.log('Successfully pushed Obsidian theme colors back to ~/Projects/quartz/quartz.config.ts!');
-}
 console.log('Successfully pushed Obsidian theme colors back to .github/quartz/quartz.config.ts!');
