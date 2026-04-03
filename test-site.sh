@@ -25,6 +25,9 @@ echo "Building Quartz Docker image..."
 cd "$QUARTZ_DIR" || { echo "Failed to find $QUARTZ_DIR"; exit 1; }
 docker build -t quartz-local .
 
+echo "Synchronizing Obsidian theme configurations..."
+node "$PROJECT_DIR/.github/quartz/push-theme.cjs"
+
 echo "Running Quartz tests..."
 node "$PROJECT_DIR/scripts/verify-vault.js"
 if [ $? -ne 0 ]; then
