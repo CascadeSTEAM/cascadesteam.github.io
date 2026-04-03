@@ -5,3 +5,4 @@ e2e.log
 .claude/
 node_modules/
 GEMINI.md
+.quartz-env

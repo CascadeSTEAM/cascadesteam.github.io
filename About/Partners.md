@@ -16,7 +16,7 @@ aliases:
 ---
 
 Cascade STEAM is made possible through the commitment of [[About/Leadership/index|Volunteer Leadership]] and open collaboration of partners. Thank you all for your efforts. Partners include:
-
+	
 ## Community Partners
 
 - [Bellingham Codes](https://bellingham.codes)
