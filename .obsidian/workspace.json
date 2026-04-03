@@ -199,8 +199,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "913e242a46932458",
   "lastOpenFiles": [
+    "scripts/test-site.sh",
+    "scripts/verify-vault.js",
+    "scripts",
     "index.md",
     "Projects/index.md",
     "internal/Knowledge Base/index.md",
@@ -210,8 +213,6 @@
     "About/Partners.md",
     "About/Leadership/index.md",
     "Groups/Artificial-Intelligence.md",
-    "scripts/verify-vault.js",
-    "scripts",
     "test-site.sh",
     "GEMINI.md.org",
     "vitest.config.ts",
@@ -239,7 +240,6 @@
     "Projects/LinuxFest-NorthWest.md",
     "Projects/Helpdesk.md",
     "Projects/Hack-Night.md",
-    "internal/Meeting Notes/index.md",
     "Projects/Screenshot_20260401_154324.png",
     "assets/images/cascadeBREACH!.png",
     "assets/images/members/joshbuker.jpeg",
