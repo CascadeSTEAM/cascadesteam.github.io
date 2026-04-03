@@ -68,7 +68,7 @@ body {
     
     --background-modifier-border: #646464;
     --text-selection: #34b1bf33;
-    --text-highlight-bg: #rgba(0, 171, 197, 0.43);
+    --text-highlight-bg: rgba(0, 171, 197, 0.43);
     
     --h1-color: #34b0bf;
     --h2-color: #34b0bf;
