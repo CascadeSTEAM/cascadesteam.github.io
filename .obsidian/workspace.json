@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About/Leadership/Garth-Johnson.md",
+                "file": "Groups/Artificial-Intelligence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Garth-Johnson"
+              "title": "Artificial-Intelligence"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 327.5069465637207
   },
   "right": {
     "id": "ec9a81a540489a0b",
@@ -201,11 +201,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "index.md",
+    "Get-Involved/Outreach.md",
+    "Groups/index.md",
+    "assets/groups/Open-Source/DNS/DNS_Presentation.md",
+    "About/Leadership/Garth-Johnson.md",
     "About/Leadership/Josh-Buker.md",
     "About/Leadership/Michael-Gan.md",
-    "About/Leadership/Garth-Johnson.md",
-    "index.md",
-    "assets/groups/Open-Source/DNS/DNS_Presentation.md",
     "Groups/Open-Source.md.tmp.684073.1775168109027",
     "Groups/Open-Source.md.tmp.684073.1775168102759",
     "Groups/Open-Source.md.tmp.684073.1775168098203",
@@ -220,7 +222,6 @@
     "assets/Open-Source/DNS",
     "assets/images/Cascade_STEAM_horizontal_logo_primary_darkBG.png",
     "assets/images/Cascade_STEAM_horizontal_logo_primary_darkBG.svg",
-    "Get-Involved/Outreach.md",
     "Groups/Artificial-Intelligence.md",
     "Groups/Cyber.md",
     "About/Leadership/index.md",
