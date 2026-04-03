@@ -1,5 +1,6 @@
 ---
 title: Community Events
+description: Cascade STEAM community calendar — find upcoming meetings, workshops, and events for all our community groups and projects in Bellingham, WA.
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
 banner-x: 60
 banner-y: 40

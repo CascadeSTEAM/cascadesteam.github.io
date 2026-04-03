@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Artificial Intellience Workshops
+title: Artificial Intelligence Workshops
+description: Cascade STEAM AI Workshops — hands-on learning events for the Artificial Intelligence community group featuring speakers, Claude Code, free tokens, and guided projects in Bellingham, WA.
 banner: assets/images/Cascade_STEAM_horizontal_logo_primary.svg
 banner-x: 60
 banner-y: 40

@@ -12,7 +12,8 @@ tags:
   - skills/community_organizer
 board_role: Secretary
 ---
-![[joshbuker.jpeg|image-right]]
+> [!INFO]
+>![[joshbuker.jpeg|image-right]]
 ## Role at Cascade STEAM
 **Secretary**, Board of Directors
 ## Career

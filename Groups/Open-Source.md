@@ -41,6 +41,14 @@ The Open Source group is a key contributor to [LinuxFest Northwest](../Projects/
 
 We collaborate with [Bellingham Linux Users Group](https://blug.org) and are a proud partner of the annual [LinuxFest Northwest](https://lfnw.org) technology conference. [LFNW 2026](../Projects/LinuxFest-NorthWest) runs April 24–26 at Bellingham Technical College.
 
+## Resources
+
+### DNS: More Than Just a Lookup Table
+A deep dive into the Domain Name System — records, security, email authentication, and real-world uses.
+
+- [DNS Presentation (PPTX)](../assets/groups/Open-Source/DNS/DNS_Presentation_CascadeSTEAM.pptx)
+- [DNS Presentation (Markdown Slides)](../assets/groups/Open-Source/DNS/DNS_Presentation.md)
+
 ## Organizers
 
 [Volunteer Organizers](../About/Leadership/) of Cascade STEAM Open Source are [Garth Johnson](https://www.linkedin.com/in/growlf) and [Michael Gan](https://www.linkedin.com/in/michaelbgan/). Please contact [open-source@cascadesteam.org](mailto:open-source@cascadesteam.org) for community group inquiries.
