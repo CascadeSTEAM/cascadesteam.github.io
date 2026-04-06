@@ -14,20 +14,20 @@ aliases:
   - /about
 ---
 
-## Mission
+# Mission
 
-Cascade STEAM is a 501(c)(3) nonprofit organization based in Bellingham, WA dedicated to *Building a collaborative, supportive, and civic-minded STEAM community for social good."
+Cascade STEAM is a 501(c)(3) nonprofit organization based in Bellingham, WA dedicated to *Building a collaborative, supportive, and civic-minded STEAM community for social good.*
 
 STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, and Mathematics. STEAM education is a powerful framework to promote curiosity and creativity, encourage a shared learning experience, and build tools to solve important life challenges.
 
-## Organization
+# Organization
 
 Please see our [Organization Page](Organization) to review our mission and structure. Cascade STEAM is made possible through the commitment of [[About/Leadership/index|Volunteer Leadership]] and open collaboration of [Partners](Partners). Thank you all for your efforts.
 
-## Get Involved!
+# Get Involved!
 
 We welcome all people of all ages to [[Get-Involved/index|Get Involved]] to help support our mission. Learn how you can support existing efforts or bring your passions to Cascade STEAM and launch new efforts!
 
-## Donate
+# Donate
 
 Cascade STEAM is community supported - we are NOT a member organization with member dues. If you value our work and have the financial means to support us, then please donate! Your donation will help fund our operations and programs. Any donation amount is appreciated. See our [Donate](../Get-Involved/Donate) page for additional details and payment options. Thank you for your support!

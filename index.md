@@ -27,7 +27,7 @@ Our efforts are organized into programs, each of which is rooted in education, s
 > **[LinuxFest Northwest 2026](Projects/LinuxFest-NorthWest) — April 24–26 at BTC**
 > The Pacific Northwest's largest open-source conference, co-produced by Cascade STEAM. [Learn more →](Projects/LinuxFest-NorthWest)
 
-Most Cascade STEAM programs, events, and activities are *Free. Open to everyone. Bring your friends.* See our [Meetup Page](https://meetup.com/cascadesteam) for all scheduled events. 
+Most Cascade STEAM programs, events, and activities are *Free. Open to everyone. Bring your friends.* See our [Community Calendar](/calendar) for our public events, with additional details and RSVP on our [Meetup Page](https://meetup.com/cascadesteam). 
 
 ## Community
 
