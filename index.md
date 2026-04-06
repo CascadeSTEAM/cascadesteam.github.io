@@ -9,7 +9,7 @@ tags:
 
 ## Mission
 
-Cascade STEAM is a 501(c)(3) nonprofit organization based in Bellingham, WA dedicated to *Building a collaborative, supportive, and civic-minded STEAM community for social good."
+Cascade STEAM is a 501(c)(3) nonprofit organization based in Bellingham, WA dedicated to *Building a collaborative, supportive, and civic-minded STEAM community for social good.*
 
 STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, and Mathematics. STEAM education is a powerful framework to promote curiosity and creativity, encourage a shared learning experience, and build tools to solve important life challenges.
 
