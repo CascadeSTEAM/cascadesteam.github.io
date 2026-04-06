@@ -15,20 +15,18 @@ aliases:
   - /organization
 ---
 
-# Organization
+# Contact Information
 
-## Contact Information
-
-**Email Address:**
-[info@cascadesteam.org](mailto:info@cascadesteam.org)
+**Email Address:**<br>
+[info@cascadesteam.org](mailto:info@cascadesteam.org)<br>
 **See our [Leadership](/About/Leadership) page for individual contact information.**
 
-**Mailing Address:**
-Cascade STEAM
+**Mailing Address:**<br>
+Cascade STEAM<br>
 104 W Magnolia St #2551, Bellingham, WA 98225
 
-**Physical Address:**
-Cascade STEAM C/O Bellingham Makerspace
+**Physical Address:**<br>
+Cascade STEAM C/O Bellingham Makerspace<br>
 Bellis Fair Parkway #618, Bellingham, WA 98225
 
 ### Status
