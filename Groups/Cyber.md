@@ -20,7 +20,7 @@ Join us as we continue to work on organizing our group and building a local cybe
 Mark your calendars and watch this space as we confirm meeting locations. Consider creating a [Meetup account](https://www.meetup.com/cascadesteam) and following Cascade STEAM to receive email notices about our events.
 
 ---
-
+<!--
 ## April (Meeting #10): Pen Testing
 
 * **When**: Thursday April 9, 5:20–7:00pm
@@ -38,11 +38,12 @@ Miranda graduated from Western Washington University in 2019 with a Bachelor's d
 6:45pm - Wrap-up
 
 ---
+-->
 
 ## May (Meeting #11): Cloud Security & CSA
 
 * **When**: Thursday May 14, 5:20–7:00pm
-* **Where**: TBA
+* **Where**: [Brandywine Kitchen (upstairs)](https://brandywinekitchen.com/)
 
 **Featured Speaker:** Ryan Bergsma, *Technology Director and Security Manager, Cloud Security Alliance*
 
@@ -68,12 +69,13 @@ Ryan is an alumni of Whatcom Community College, and a graduate of the WWU Bachel
 7. 1/26 — Panel Discussion: *What cybersecurity professionals should expect in 2026*
 8. 2/26 — Member Networking: *Rapid-fire Networking by Topic*
 9. 3/12 — *Cascade Breach Launch Discussion*
+10. 4/9 — Miranda Skar, CISSP, Senior Pen Tester at LevelBlue: *Pen Testing*
 
 ---
 
 ## Community Project: Cascade Breach
 
-The Cyber group is the home of [Cascade Breach](../Projects/Breach) — our monthly collaborative Capture The Flag event at Bellingham Makerspace. Launching **March 29, 2026**. All skill levels welcome; cooperative format designed for learning.
+The Cyber group is the home of [Cascade Breach](../Projects/Breach) — our monthly collaborative Capture The Flag event at Bellingham Makerspace. All skill levels welcome; cooperative format designed for learning.
 
 ---
 
