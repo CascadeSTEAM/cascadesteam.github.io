@@ -28,6 +28,7 @@ Community Groups include:
 - **[Data Engineering](Data-Engineering)**: data engineering, including data storage and access, machine learning (ML), and large language models (LLMs)
 - **[Engineering](Engineering)**: engineering, including robotics
 - **[Open Source](Open-Source)**: everything open source software and hardware, including GNU/Linux
+- **[Spectrum](Spectrum)**: all things wireless, including WiFi, Meshtastic and Meshcore, and Amateur Radio
 
 We also collaborate with other local community groups, including:
 
