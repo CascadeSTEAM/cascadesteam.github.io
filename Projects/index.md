@@ -25,6 +25,10 @@ Join the [Cascade STEAM Artificial Intelligence Community Group](https://cascade
 
 [Breach](Breach) is a Community Project featuring a cybersecurity shared learning experience in a game of Capture the Flag! In a cooperative, low-stress format designed for all skill levels, participants share strategies for attacking and defending as a learning exercise, evolving each round with more difficult challenges. **Launching March 29, 2026.**
 
+## Collaborative Internship
+
+[Collaborative Internship](Collaborative-Internship) is an extension of [Service Corps](Service-Corps) \- our technology training and community service program for social good \- by partnering with local businesses and nonprofits to give students hands-on, real-world experience while simplifying the internship process for employers.
+
 ## Digital Navigators
 
 FREE Community Tech Support is available from Cascade STEAM via our [Digital Navigators](Digital-Navigators) Program. Assistance is offered to the public from technology students and industry professionals through scheduled onsite events at social welfare and support organizations to help resolve basic computing challenges completely free of charge.
