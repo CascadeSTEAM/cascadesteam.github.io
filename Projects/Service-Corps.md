@@ -16,21 +16,15 @@ banner-display: auto
 aliases:
   - /service-corps
 ---
-Cascade STEAM [Service Corps](Service-Corps) is a technology training and community service program for social good. Each quarter, student interns and volunteers work closely with mentors to help develop and maintain the systems that we utilize for our organization management and community programs, including [Digital Navigators](Digital-Navigators) and [HelpDesk](Helpdesk).
+*Service Corps* is a technology training and community service program for social good. Each quarter, student interns and volunteers work closely with mentors to help develop and maintain the systems that we utilize for our organization management and community programs.
 
 Service Corps includes:
-
 - Mentorship with business and technology professionals
-- Computer networking fundamentals
-- Open source software fundamentals
-- Server management
-- Network management
-- Database management
-- Issue Tracker management
-- Project management
-- Customer Service through [Digital Navigators](Digital-Navigators), [HelpDesk](Helpdesk), and other programs
+- Computer networking and open source software fundamentals training
+- Management of servers, networks, databases, issues, projects, and collaboration systems
+- Customer Service via community service programs, such as [Digital Navigators](Digital-Navigators) and [Help Desk](Help-Desk)
 
-Interns commit to an arranged number of hours for program credit with one of our [education partners](../About/Partners) (currently unpaid). Volunteers participate as available.
+Interns commit to an arranged number of hours for program credit with one of our [Education Partners](Partners). Volunteers participate as available. Employers participate via our [Collaborative Internship](Collaborative-Internship) program, by partnering with local businesses and nonprofits to give students hands-on, real-world experience while simplifying the internship process for employers.
 
 Collaboration occurs virtually on the [Cascade STEAM Community Hub](http://hub.cascadesteam.org) and on Monday and Saturday evenings in person at the Bellingham Makerspace during [Service Corps](Service-Corps) and [Hack Night](Hack-Night) programs.
 
