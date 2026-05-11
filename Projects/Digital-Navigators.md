@@ -19,7 +19,7 @@ FREE Community Tech Support is now available from Cascade STEAM via our [Digital
 
 Our goal is to provide FREE individualized technology assistance and tailored services or advice with a portable platform at community centers and gathering points that might normally not be set up for technological events. Using informal and both technical and non-technical methods of offering drop-in community members quick and specific solutions to computer, tech, and electronic challenges, we look to fill the gap between premium user support and technical skill classes.
 
-To receive support for more complicated or longer time-frame technology issues, please refer to our community [HelpDesk](Helpdesk) Program, which is by suggested donation.
+To receive support for more complicated or longer time-frame technology issues, please refer to our community [Help Desk](Help-Desk) Program.
 
 Are you a social welfare or support organization that would like to arrange collaboration with Digital Navigators? Please reach out! We would love to collaborate with you to support your community members.
 
