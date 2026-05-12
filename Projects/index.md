@@ -29,6 +29,10 @@ Join the [Cascade STEAM Artificial Intelligence Community Group](https://cascade
 
 [Collaborative Internship](Collaborative-Internship) is an extension of [Service Corps](Service-Corps) \- our technology training and community service program for social good \- by partnering with local businesses and nonprofits to give students hands-on, real-world experience while simplifying the internship process for employers.
 
+## Consulting
+
+[Consulting](Consulting) is now available from Cascade STEAM \- leveraging our team’s extensive combined experience collaborating with employer, nonprofit, education, and local government partners in service of their business, technology, and community engagement goals.
+
 ## Digital Navigators
 
 FREE Community Tech Support is available from Cascade STEAM via our [Digital Navigators](Digital-Navigators) Program. Assistance is offered to the public from technology students and industry professionals through scheduled onsite events at social welfare and support organizations to help resolve basic computing challenges completely free of charge.
