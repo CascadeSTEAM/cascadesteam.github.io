@@ -21,7 +21,7 @@ Cascade STEAM is made possible through the commitment of volunteer leadership an
 - [[Michael-Gan]]
 - [[Garth-Johnson]]
 - [[Josh-Buker]]
-- Leslie Brendible: [LinkedIn](https://www.linkedin.com/in/lesliebrendible), [Email](mailto:leslie.brendible@cascadesteam.org)
+
 ## Organizers
 - [[Michael-Gan]]: [LinkedIn](https://www.linkedin.com/in/michaelbgan), [Email](mailto:michael.gan@cascadesteam.org)
 - [[Garth-Johnson]]: [LinkedIn](https://www.linkedin.com/in/growlf), [Email](mailto:garth.johnson@cascadesteam.org)
@@ -36,22 +36,26 @@ Cascade STEAM is made possible through the commitment of volunteer leadership an
 - Gil Lund: [LinkedIn](https://www.linkedin.com/in/gwlund), [Email](mailto:gil.lund@cascadesteam.org)
 - Marty Mulholland: [LinkedIn](https://www.linkedin.com/in/mulholland99), [Email](mailto:marty.mulholland@cascadesteam.org)
 - Eric Veal: [LinkedIn](https://www.linkedin.com/in/ejveal/), [Email](mailto:eric.veal@cascadesteam.org)
+
 ## Engagement Committee
 - [[Michael-Gan]]: [LinkedIn](https://www.linkedin.com/in/michaelbgan), [Email](mailto:michael.gan@cascadesteam.org)
 - Jason Davies: [LinkedIn](https://www.linkedin.com/in/jason-davies-aa536b9/), [Email](mailto:jason.davies@cascadesteam.org)
 - Brett Greene: [LinkedIn](https://www.linkedin.com/in/brettgreene/), [Email](mailto:brett.greene@cascadesteam.org)
 - Kathleen May: [LinkedIn](https://www.linkedin.com/in/kathleenmay/), [Email](mailto:kathleen.may@cascadesteam.org)
 - Trevor Westerlund: [LinkedIn](https://www.linkedin.com/in/twesterlund/), [Email](mailto:trevor.westerlund@cascadesteam.org)
+
 ## Finance Committee
 - [[Michael-Gan]]: [LinkedIn](https://www.linkedin.com/in/michaelbgan), [Email](mailto:michael.gan@cascadesteam.org)
 - [[Garth-Johnson]]: [LinkedIn](https://www.linkedin.com/in/growlf), [Email](mailto:garth.johnson@cascadesteam.org)
 - Tony McGarry: [LinkedIn](https://www.linkedin.com/in/tony-mcgarry), [Email](mailto:tony.mcgarry@cascadesteam.org)
+
 ## Infrastructure Committee
 - [[Garth-Johnson]]: [LinkedIn](https://www.linkedin.com/in/growlf), [Email](mailto:garth.johnson@cascadesteam.org)
 - [[Michael-Gan]]: [LinkedIn](https://www.linkedin.com/in/michaelbgan), [Email](mailto:michael.gan@cascadesteam.org)
 - Elijah Cherney: [LinkedIn](https://www.linkedin.com/in/elijah-c-940485101/), [Email](mailto:elijah.cherney@cascadesteam.org)
 - Kaleb Coberly:
 - Tim Haglund:
+
 ## Service Corps
 - [[Garth-Johnson]]: [LinkedIn](https://www.linkedin.com/in/growlf), [Email](mailto:garth.johnson@cascadesteam.org)
 - Vivian Miller:
@@ -62,5 +66,9 @@ Cascade STEAM is made possible through the commitment of volunteer leadership an
 - Brittin:
 - Ari:
 - Alex:
+
 ## Advisory Committee
 All Organizers and Committee Members are also Advisory Committee Members.
+
+Additional Members:
+- Leslie Brendible: [LinkedIn](https://www.linkedin.com/in/lesliebrendible), [Email](mailto:leslie.brendible@cascadesteam.org)
