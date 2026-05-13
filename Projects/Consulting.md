@@ -21,7 +21,7 @@ aliases:
 
 Our **Consulting Engagements** are led by highly experienced business and technology professionals leveraging trusted local service providers when needed, and as appropriate and upon arrangement: distinguished students and accomplished mentors supporting them via [*Service Corps*](Service-Corps) \- our technology training and community service program.
 
-**How It Works**
+## How It Works
 
 For small projects we provide a FREE Recommendation as a community service:
 
@@ -35,11 +35,11 @@ With your agreement we will launch a **Consulting Engagement** and perform an **
 
 If we can be of further assistance, and upon your interest, we will provide a written **Proposal** to continue our **Consulting Engagement**.
 
-**Cost**
+## Cost
 
 Consulting Engagements are varying and negotiable. Costs will vary based on the type of work performed, experience and expertise required, and (optional) approval to include student interns and mentors via *Service Corps* to perform appropriate, supervised work, which is highly discounted. We also provide a 20% discount to fellow non-profit organizations.
 
-**Everyone Wins\!**
+## Everyone Wins\!
 
 Businesses and Organizations receive discounted consulting services from highly experienced professionals. Interns get valuable training and real-world, hands-on experience. Cascade STEAM re-invests in our *Consulting* and *Service Corps* programs. And we all contribute to *Building a collaborative, supportive, and civic-minded STEAM community for social good.*
 
