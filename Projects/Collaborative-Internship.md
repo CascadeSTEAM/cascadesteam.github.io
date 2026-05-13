@@ -34,6 +34,6 @@ For a typical quarter-long internship: an employer pays \$10,000 to Cascade STEA
 
 ## Everyone Wins\!
 
-Employers get a well-supported intern with minimal overhead. Interns get valuable training and real-world, hands-on experience. Cascade STEAM re-invests in our collaborative internship program. And we all contribute to *Building a collaborative, supportive, and civic-minded STEAM community for social good.*
+Employers get a well-supported intern with minimal overhead. Interns get valuable training and real-world, hands-on experience. Cascade STEAM re-invests in our *Collaborative Internship* and *Service Corps* programs. And we all contribute to *Building a collaborative, supportive, and civic-minded STEAM community for social good.*
 
 Ready to get started? Email us at [collaborative-internship@cascadesteam.org](mailto:collaborative-internship@cascadesteam.org).
