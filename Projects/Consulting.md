@@ -41,6 +41,6 @@ Consulting Engagements are varying and negotiable. Costs will vary based on the 
 
 **Everyone Wins\!**
 
-Businesses and Organizations receive discounted consulting services from highly experienced professionals. Interns get valuable training and real-world, hands-on experience. Cascade STEAM re-invests in our *Service Corps* program. And we all contribute to *Building a collaborative, supportive, and civic-minded STEAM community for social good.*
+Businesses and Organizations receive discounted consulting services from highly experienced professionals. Interns get valuable training and real-world, hands-on experience. Cascade STEAM re-invests in our *Consulting* and *Service Corps* programs. And we all contribute to *Building a collaborative, supportive, and civic-minded STEAM community for social good.*
 
 Ready to get started? Email us at [consulting@cascadesteam.org](mailto:consulting@cascadesteam.org).
