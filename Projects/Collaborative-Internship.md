@@ -18,7 +18,7 @@ aliases:
 ---
 *Collaborative Internship* is an extension of [*Service Corps*](Service-Corps) \- our technology training and community service program for social good \- by partnering with local businesses and nonprofits to give students hands-on, real-world experience while simplifying the internship process for employers.
 
-**How It Works**
+## How It Works
 
 We handle everything: recruiting, hiring, onboarding, training, supervision, management, mentorship, and payment. You get a motivated intern without the administrative burden.
 
@@ -28,12 +28,12 @@ We handle everything: recruiting, hiring, onboarding, training, supervision, man
 * We help onboard them into your organization alongside your team.  
 * We support everyone throughout — weekly reports, regular check-ins, and a final review.
 
-**Cost**
+## Cost
 
-For a typical quarter-long internship: an employer pays **$10,000** to Cascade STEAM, which covers **$5,000** to the intern ($25/hr × 200 hours) and **$5,000** to Cascade STEAM to facilitate the program.
+For a typical quarter-long internship: an employer pays \$10,000 to Cascade STEAM, which covers \$5,000 to the intern (\$25/hr × 200 hours) and \$5,000 to Cascade STEAM to facilitate the program.
 
-**Everyone Wins\!**
+## Everyone Wins\!
 
-Employers get a well-supported intern with minimal overhead. Interns get valuable training and real-world, hands-on experience. Cascade STEAM re-invests in our collaborative internship program. And we all contribute to *Building a collaborative, supportive, and civic-minded STEAM community for social good.*
+Employers get a well-supported intern with minimal overhead. Interns get valuable training and real-world, hands-on experience. Cascade STEAM re-invests in our *Collaborative Internship* and *Service Corps* programs. And we all contribute to *Building a collaborative, supportive, and civic-minded STEAM community for social good.*
 
 Ready to get started? Email us at [collaborative-internship@cascadesteam.org](mailto:collaborative-internship@cascadesteam.org).

@@ -19,13 +19,15 @@ aliases:
   - /helpdesk
 ---
 
-FREE Community Tech Support is now available from [Cascade STEAM](https://cascadesteam.org) via our [Help Desk](Help-Desk) Program. Assistance is offered to the public from volunteer technology professionals and students. Donations are appreciated.
+FREE Community Tech Support is now available from [Cascade STEAM](https://cascadesteam.org) via our [*Help Desk*](Help-Desk) program. Assistance is offered to the public from volunteer technology students and professionals to the general public. Donations are appreciated.
 
-Services are provided on the second and third Sundays of the month from 1pm–3:30pm at the [Bellingham Makerspace](https://bellinghammakerspace.org) in the [Bellis Fair Mall](https://bellisfair.com) in collaboration with [NW Free Repairs](https://nwfreerepairs.wordpress.com) - a group of volunteers providing help fixing a wide variety of items, including small appliances, tools, electrical devices, toys, and clothing.
+Services are planned on the second and third Sundays of the month from 1pm–3:30pm at the [Bellingham Makerspace](https://bellinghammakerspace.org) in the [Bellis Fair Mall](https://bellisfair.com). Please confirm scheduled events at our [*Community Events*](Community-Events) web page, our [Meetup Page](https://meetup.com/cascadesteam), or our [*Community Hub*](http://hub.cascadesteam.org).
+
+*Help Desk* operates in collaboration with [NW Free Repairs](https://nwfreerepairs.wordpress.com) - a group of volunteers providing help fixing a wide variety of items, including small appliances, tools, electrical devices, toys, and clothing. Bring your items for repair help while visiting us at Cascade STEAM!
 
 Address: [1 Bellis Fair Parkway #618, Bellingham, WA 98225](https://maps.app.goo.gl/AXGdqY1NgtviXYy58)
 
-Help Desk services include:
+*Help Desk* services include:
 
 - Computer hardware and software troubleshooting
 - Computer privacy and security assessment, recommendations, and configuration

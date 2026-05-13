@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Breach
-description: Cascade Breach is a monthly collaborative Capture The Flag event at Bellingham Makerspace — cooperative, low-stress, and open to all skill levels. Launching March 29, 2026.
+description: Cascade STEAM Breach is a monthly collaborative Capture The Flag event at Bellingham Makerspace — cooperative, low-stress, and open to all skill levels.
 tags:
   - breach
   - cybersecurity
@@ -17,13 +17,11 @@ aliases:
 ---
 
 ![[cascadeBREACH!.png]]
-Cascade STEAM Breach is a [[Projects/index|Community Project]] featuring a cyber-security shared learning experience in a game similar to Capture the Flag!
+*Breach* is a [[Projects/index|Community Project]] featuring a cyber-security shared learning experience in a game similar to Capture the Flag!
 
 In a cooperative, low-stress format designed for all skill levels, the offensive Red Team takes on the defensive Blue Team in a structured learning exercise — planting, detecting, and resolving cybersecurity challenges in a controlled environment. Participants share their strategies for attacking and defending, which helps evolve further rounds of play with more difficult challenges.
 
-**Breach is planned for the 4th Sunday of the month from 1pm–5pm at the [Bellingham Makerspace](https://bellinghammakerspace.org).** Check our [Community Calendar](../Events/), [Meetup Page](https://meetup.com/cascadesteam), and/or our [Community Hub (Discord)](http://hub.cascadesteam.org) for scheduled events. Join the **#breach** and **#cyber** channels on Discord for event and team discussion.
-
-**Our first Breach event is March 29, 2026!**
+*Breach* is planned for the 4th Sunday of the month from 1pm–5pm at the [Bellingham Makerspace](https://bellinghammakerspace.org). Check our [Community Calendar](../Events/), [Meetup Page](https://meetup.com/cascadesteam), and/or our [Community Hub (Discord)](http://hub.cascadesteam.org) for scheduled events. Join the **#breach** and **#cyber** channels on our *Community Hub* for event and team discussion.
 
 Contact [breach@cascadesteam.org](mailto:breach@cascadesteam.org) to discuss details regarding the Cascade STEAM Breach Community Project.
 
@@ -53,5 +51,3 @@ Each round consists of five phases:
 ## What to Bring
 
 A laptop — Linux preferred (a VM works fine), but any OS is okay for most challenges. No prior experience required.
- If you've never heard of a CTF before, this is a great place to start.
-

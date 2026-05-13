@@ -15,24 +15,24 @@ banner-display: auto
 aliases:
   - /mentorship
 ---
-Cascade STEAM Mentorship connects community members interested in STEAM in either a "Traditional Mentorship" or "Peer Mentorship" arrangement and provides a support structure for a positive mentorship experience for all.
+*Mentorship* connects community members interested in STEAM in either a "Traditional Mentorship" or "Peer Mentorship" arrangement and provides a support structure for a positive mentorship experience for all.
 
-"Traditional Mentorship" pairs a junior and senior member based on personal and professional interests to help the junior member (mentee) establish and progress goals while the senior member provides personal and professional guidance (mentor).
+"Traditional Mentorship" pairs a junior and senior member based on personal and professional interests to help the junior member (mentee) establish and progress goals while the senior member (mentor) provides personal and professional guidance.
 
-"Peer Mentorship" pairs either junior or senior members together to create a peer relationship as they work on self improvement topics together. Goals are separately established by each peer based on their own interests, and mentorship occurs via the collaboration, accountability, and encouragement of Peer Mentorship partners.
+"Peer Mentorship" pairs either junior or senior members to create a peer relationship as they work on self improvement topics together. Goals are separately established by each peer based on their own interests, and mentorship occurs via the collaboration, accountability, and encouragement of Peer Mentorship partners.
 
-Mentorship is designed for those 18 years of age or older — high school students, college students, professionals, and retired professionals.
+*Mentorship* is designed for those 18 years of age or older — high school students, college students, professionals, and retired professionals.
 
 ## How It Works
 
 - Submit your registration to participate as a Mentee, Mentor, or Peer Mentor Partner.
-- Mentorship Program Organizers will match participants based on interests.
-- A mentorship handbook will be provided to help provide a positive mentorship experience for all, with recommendations for those new to mentorship.
-- Participants meet with their mentorship partner ~twice per month for ~one hour in each month of the quarter.
-- Group discussion occurs on the [Cascade STEAM Community Hub](http://hub.cascadesteam.org) (Discord). Private conversation occurs in any format of interest to all parties — in person, phone, online, etc.
-- While organized mentorship activities for a cohort end after three months, we encourage participants to stay connected.
+- *Mentorship* Program Organizers will match participants based on interests.
+- A *Mentorship* Handbook will be provided to help provide a positive mentorship experience for all, with recommendations for those new to mentorship.
+- Participants meet with their *Mentorship* partner ~twice per month for ~one hour in each month of the quarter.
+- Private conversation occurs in any format of interest to all parties — in person, phone, online, etc.
+- While organized *Mentorship* activities for a cohort end after three months, we encourage participants to stay connected.
 
-[>> REGISTER NOW <<](https://forms.gle/rZ5ExToQ8iWdXo5u8)
+>> NEXT COHORT EXPECTED SUMMER 2026 << 
 
 ## Community Groups
 
