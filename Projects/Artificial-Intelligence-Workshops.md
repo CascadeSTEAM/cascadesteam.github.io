@@ -19,10 +19,8 @@ aliases:
 
 ## Artificial Intelligence Workshops
 
-Join the [Cascade STEAM Artificial Intelligence Community Group](https://cascadesteam.org/artificial-intelligence) as we meet for hands-on learning in our Artificial Intelligence Workshops events.
+Join our [*Artificial Intelligence*](Artificial-Intelligence) [*Community Group*](Community-Groups) as we meet for hands-on learning in our *Artificial Intelligence Workshops* events, planned for the first Sunday of the Month from 1pm-5pm at the [Bellingham Makerspace](https://bellinghammakerspace.org), and collaborate in our community work with a focus on education and lifelong learning. Bring your own computer\! Project ideas are also great to prepare prior, and we’ll provide plenty of ideas through our community work discussions.
 
-We’ve partnered with [Anthropric](https://www.anthropic.com/) with their [Claude Code](https://code.claude.com/docs/en/overview) Workshop for Builders platform to collaborate on our own goals of organizing shared learning experiences and progressing our community work with a focus on education and lifelong learning.
-
-Provided to participants are AI and Claude Code introductions, free Claude Code tokens, technical support, food, and beverages. Bring your own computer\! Project ideas are also great to work on prior, and we’ll provide plenty of ideas through our community work discussion.
+For some of our workshops: We will partner with [Anthropric](https://www.anthropic.com/) and their [Claude Code](https://code.claude.com/docs/en/overview) Workshop for Builders platform . Provided to participants are AI and Claude Code introductions, free Claude Code tokens, technical support, food, and beverages. 
 
 Check the [Cascade STEAM Community Hub](http://hub.cascadesteam.org) for discussion and the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) for details and to RSVP for scheduled events.
