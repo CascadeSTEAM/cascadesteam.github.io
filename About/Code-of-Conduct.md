@@ -60,7 +60,7 @@ Note: Reporter is NOT required to include contact information, but including con
 
 ### Report Review
 
-Upon receiving a report, the Cascade STEAM Board of Directors will convene and assemble a team from Cascade STEAM [Leadership](Leadership/) to respond to the report, including reviewing and investigating the report and determining the appropriate response.
+Upon receiving a report, the Cascade STEAM Board of Directors will convene and assemble a team from Cascade STEAM [Leadership](https://cascadesteam.org/leadership) to respond to the report, including reviewing and investigating the report and determining the appropriate response.
 
 ### Report Response
 
