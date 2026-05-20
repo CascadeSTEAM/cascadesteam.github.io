@@ -57,6 +57,10 @@ Community Tech Support is available from Cascade STEAM via our [HelpDesk](Helpde
 
 [Mentorship](Mentorship) connects community members interested in STEAM in either a "Traditional Mentorship" or "Peer Mentorship" arrangement, providing a support structure for a positive mentorship experience for all.
 
+## Reuse
+
+[***Reuse***](https://cascadesteam.org/reuse) is an extension of [***Service Corps***](https://cascadesteam.org/service-corps) to refurbish donated technology equipment for a new, productive use and purpose in our community, and provide students valuable hands-on experience with technology.
+
 ## Service Corps
 
 Cascade STEAM [Service Corps](Service-Corps) is a technology training program for social good. Each quarter, student interns and volunteers work closely with technology professionals to help develop and maintain the systems that we utilize for our organization management and community programs, including [Digital Navigators](Digital-Navigators) and [HelpDesk](Helpdesk).
