@@ -24,6 +24,10 @@ STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, an
 
 Please see our [Organization Page](Organization) to review our mission and structure. Cascade STEAM is made possible through the commitment of [[About/Leadership/index|Volunteer Leadership]] and open collaboration of [Partners](Partners). Thank you all for your efforts.
 
+# Sponsorship
+
+We welcome and celebrate your financial support as an annual Gold, Silver, or Bronze [Sponsor](https://cascadesteam.org/sponsorship)\! Your financial support will provide continued operation of our organization and programs, including [***Community Groups***](https://cascadesteam.org/community-groups) and [***Community Projects***](https://cascadesteam.org/community-projects), and support new community building and community service programs in development.
+
 # Get Involved!
 
 We welcome all people of all ages to [[Get-Involved/index|Get Involved]] to help support our mission. Learn how you can support existing efforts or bring your passions to Cascade STEAM and launch new efforts!
