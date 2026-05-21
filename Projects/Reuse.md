@@ -25,7 +25,7 @@ Members of our community donate their equipment in **GOOD** condition:
 * Desktop and laptop computers and accessories  
 * Monitors and TVs  
 * Networking equipment  
-* Servers and server equipment.
+* Servers and server equipment
 
 Our [***Service Corps***](https://cascadesteam.org/service-corps) team of students and mentors refurbish the donated equipment:
 
@@ -37,8 +37,8 @@ We then use the refurbished equipment in our own [***Community Projects***](http
 
 # Arrangements
 
-All donations are appreciated, however **EQUIPMENT** **DONATIONS MUST BE APPROVED**. Please provide a picture and written detail regarding potential equipment donations.
+While all [***Donations***](https://cascadesteam.org/donate) are appreciated, **EQUIPMENT DONATIONS MUST BE APPROVED**. Please provide a picture and written detail regarding potential equipment donations.
 
-We recommend any equipment in **POOR** condition be donated directly to [***Computers 4 People in Need***](https://c4pin.org), a fellow local nonprofit organization and [***Community Partner***](https://cascadesteam.org/community-partners), that performs reclamation of precious metals and recycling.
+We recommend any equipment in **POOR** condition to be donated directly to [***Computers 4 People in Need***](https://c4pin.org), a fellow local nonprofit organization and [***Community Partner***](https://cascadesteam.org/community-partners), that performs reclamation of precious metals and recycling.
 
-Please contact [***reuse@cascadesteam.org***](mailto:reuse@cascadesteam.org) for questions or comments about the [***Reuse***](https://cascadesteam.org/reuse) program, and to arrange donations.
+Please contact [***reuse@cascadesteam.org***](mailto:reuse@cascadesteam.org) for questions or comments about the [***Reuse***](https://cascadesteam.org/reuse) program, and to arrange equipment donations.
