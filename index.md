@@ -30,7 +30,7 @@ Community Building:
 * [***Educational Robotics***](https://cascadesteam.org/educational-robotics) provides support for the Bellingham Public Schools Robotics Program.  
 * [***Hack Night***](https://cascadesteam.org/hack-night) is a weekly collaborative night for personal, professional, and community projects.   
 * [***LinuxFest Northwest***](https://cascadesteam.org/linuxfest-northwest) is an open source technology conference that we co-organize.  
-* [***Mentorship***](https://cascadesteam.org/mentorship) connects mentors and mentees in traditional or peer mentorship relationships.  
+* [***Mentorship***](https://cascadesteam.org/mentorship) connects mentors and mentees in traditional or peer mentorship relationships.
 * [***Service Corps***](https://cascadesteam.org/service-corps) is a technology training and community service program for social good.  
 * [***Stormwater Monitoring***](https://cascadesteam.org/stormwater-monitoring) provides support for the RE Sources Water Keeper Program.
 
@@ -38,6 +38,7 @@ Community Service:
 
 * [***Digital Navigators***](https://cascadesteam.org/digital-navigators) provides FREE basic technology support for social service patrons.  
 * [***Help Desk***](https://cascadesteam.org/help-desk) provides FREE technology support for the general public by suggested donation.
+* [***Reuse***](https://cascadesteam.org/reuse) refurbishes donated technology equipment for a new, productive use in our community.  
 
 Cascade STEAM programs and events strive to be ***Free. Open to everyone. Bring your friends.***
 
