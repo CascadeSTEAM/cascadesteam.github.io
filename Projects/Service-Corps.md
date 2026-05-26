@@ -25,7 +25,7 @@ aliases:
 * Mentorship with business and technology professionals  
 * Computer networking and open source software fundamentals training  
 * Management of servers, networks, databases, issues, projects, and collaboration systems  
-* Customer Service via [***Collaborative Internship***](https://cascadesteam.org/collaborative-Internship), [***Consulting***](https://cascadesteam.org/consulting), [***Digital Navigators***](https://cascadesteam.org/digital-navigators), [***Help Desk***](https://cascadesteam.org/help-desk), and [**Reuse**](https://cascadesteam.org/reuse) community programs, as arranged
+* Customer Service via our [***Collaborative Internship***](https://cascadesteam.org/collaborative-Internship), [***Consulting***](https://cascadesteam.org/consulting), [***Digital Navigators***](https://cascadesteam.org/digital-navigators), [***Help Desk***](https://cascadesteam.org/help-desk), and [***Reuse***](https://cascadesteam.org/reuse) Community Service Programs, as arranged
 
 Interns commit to an arranged number of hours for program credit with one of our [***Education Partners***](https://cascadesteam.org/partners). Volunteers participate as available. Collaboration occurs with our [***Infrastructure Committee***](https://cascadesteam.org/leadership) virtually on our [***Community Hub***](http://hub.cascadesteam.org) and in person as arranged.
 
