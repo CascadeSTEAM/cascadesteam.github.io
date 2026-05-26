@@ -49,7 +49,7 @@ In alignment with our mission: We will facilitate engagement with the community 
 
 # Composition
 
-Cascade STEAM is comprised of individuals representing (1) the fields of science, technology, engineering, arts, and mathematics, (2) education, industry, local government, and nonprofit sectors, and (3) community interests. We operate as a Board of Directors managing organization governance and Board Committees managing organization activities. Visit our [Leadership](About/Leadership) and [Partners](About/Partners) pages to learn more about our efforts.
+Cascade STEAM is comprised of individuals representing (1) the fields of science, technology, engineering, arts, and mathematics, (2) education, industry, local government, and nonprofit sectors, and (3) community interests. We operate as a Board of Directors managing organization governance and Board Committees managing organization activities. Visit our [Leadership](Leadership) and [Partners](Partners) pages to learn more about our efforts.
 
 # Committees
 

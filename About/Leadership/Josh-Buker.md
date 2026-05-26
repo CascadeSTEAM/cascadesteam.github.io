@@ -1,6 +1,8 @@
 ---
 title: Josh Buker
 description: Josh Buker is Secretary and Founding Board Member of Cascade STEAM, a software engineer and Cloud Security Alliance Research Analyst with a decade of security governance experience.
+aliases:
+  - /josh-buker
 tags:
   - person
   - organizer

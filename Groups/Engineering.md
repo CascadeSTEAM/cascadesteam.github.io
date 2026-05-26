@@ -11,7 +11,7 @@ banner-height: 260
 content-start: 211
 banner-display: auto
 aliases:
-  - engineering
+  - /engineering
 ---
 
 Engineering is a Cascade STEAM [Community Group](index.md) with a focus on engineering and engineering-related [community projects](../Projects/). Cascade STEAM Engineering connects students, founders, mentors, and teachers in our community through support and collaboration. At our monthly group meetings, attendees are encouraged to present their engineering projects for 3–5 minutes and field questions to help everyone find success.

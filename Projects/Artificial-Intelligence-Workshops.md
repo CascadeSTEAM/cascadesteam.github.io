@@ -19,7 +19,7 @@ aliases:
 
 ## Artificial Intelligence Workshops
 
-Join our [*Artificial Intelligence*](Artificial-Intelligence) [*Community Group*](Community-Groups) as we meet for hands-on learning in our *Artificial Intelligence Workshops* events, planned for the first Sunday of the Month from 1pm-5pm at the [Bellingham Makerspace](https://bellinghammakerspace.org), and collaborate in our community work with a focus on education and lifelong learning. Bring your own computer\! Project ideas are also great to prepare prior, and we’ll provide plenty of ideas through our community work discussions.
+Join our [*Artificial Intelligence*](../Groups/Artificial-Intelligence) [*Community Group*](../Groups/) as we meet for hands-on learning in our *Artificial Intelligence Workshops* events, planned for the first Sunday of the Month from 1pm-5pm at the [Bellingham Makerspace](https://bellinghammakerspace.org), and collaborate in our community work with a focus on education and lifelong learning. Bring your own computer\! Project ideas are also great to prepare prior, and we’ll provide plenty of ideas through our community work discussions.
 
 For some of our workshops: We will partner with [Anthropric](https://www.anthropic.com/) and their [Claude Code](https://code.claude.com/docs/en/overview) Workshop for Builders platform . Provided to participants are AI and Claude Code introductions, free Claude Code tokens, technical support, food, and beverages. 
 

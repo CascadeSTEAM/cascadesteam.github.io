@@ -1,6 +1,8 @@
 ---
 title: Garth Johnson
 description: Garth Johnson is Vice President & Treasurer of Cascade STEAM and a DevOps professional and full-time instructor at Bellingham Technical College with 43 years in technology.
+aliases:
+  - /garth-johnson
 tags:
   - person
   - organizer
