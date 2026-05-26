@@ -13,6 +13,7 @@ content-start: 211
 banner-display: auto
 aliases:
   - /partners
+  - /community-partners
 ---
 
 Cascade STEAM is made possible through the commitment of [Volunteer Leadership](About/Leadership) and open collaboration of partners. Thank you all for your efforts. Partners include:
@@ -35,7 +36,6 @@ Cascade STEAM is made possible through the commitment of [Volunteer Leadership](
 # Local Government Partners
 
 - [Bellingham Public Library](https://bellinghampubliclibrary.org)
-- [Economic Development Association of Skagit County (EDASC)](https://skagit.org)
 
 # Nonprofit Partners
 
