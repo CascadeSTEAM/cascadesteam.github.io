@@ -25,17 +25,14 @@ aliases:
 * Mentorship with business and technology professionals  
 * Computer networking and open source software fundamentals training  
 * Management of servers, networks, databases, issues, projects, and collaboration systems  
-* Community Service via [***Digital Navigators***](https://cascadesteam.org/digital-navigators) and [***Help Desk***](https://cascadesteam.org/help-desk) programs  
-* Customer Service via [***Collaborative Internship***](https://cascadesteam.org/collaborative-Internship) and [***Consulting***](https://cascadesteam.org/consulting) programs, as arranged
+* Customer Service via [***Collaborative Internship***](https://cascadesteam.org/collaborative-Internship), [***Consulting***](https://cascadesteam.org/consulting), [***Digital Navigators***](https://cascadesteam.org/digital-navigators), [***Help Desk***](https://cascadesteam.org/help-desk), and [**Reuse**](https://cascadesteam.org/reuse) community programs, as arranged
 
-Interns commit to an arranged number of hours for program credit with one of our [***Education Partners***](https://cascadesteam.org/partners). Volunteers participate as available.
+Interns commit to an arranged number of hours for program credit with one of our [***Education Partners***](https://cascadesteam.org/partners). Volunteers participate as available. Collaboration occurs with our [***Infrastructure Committee***](https://cascadesteam.org/leadership) virtually on our [***Community Hub***](http://hub.cascadesteam.org) and in person as arranged.
 
 Employers participate via our [***Collaborative Internship***](https://cascadesteam.org/collaborative-internship) program \- we partner with local businesses and nonprofits to give students hands-on, real-world experience while simplifying the internship process for employers.
-
-Collaboration occurs virtually on our [***Community Hub***](http://hub.cascadesteam.org) and on Monday and Saturday evenings in person during our [***Service Corps***](https://cascadesteam.org/Projects/Service-Corps) and [***Hack Night***](https://cascadesteam.org/Projects/Hack-Night) programs.
 
 # Apply
 
 To apply as a student intern, volunteer, or mentor: Please email your resume and a cover letter detailing your experience, career aspirations, and community service interests with the subject “Service Corps Application”. You must be at least 18 years old at the beginning of the quarter in which you participate.
 
-Contact us at [***service-corps@cascadesteam.org***](mailto:service-corps@cascadesteam.org) to apply or for questions or comments regarding the Service Corps Program.
+Contact us at [***service-corps@cascadesteam.org***](mailto:service-corps@cascadesteam.org) to apply, or for questions or comments regarding the [***Service Corps***](https://cascadesteam.org/service-corps) Program.
