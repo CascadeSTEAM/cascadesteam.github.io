@@ -12,7 +12,6 @@ content-start: 211
 banner-display: auto
 aliases:
   - /community-projects
-  - Community Projects
 ---
 
 Cascade STEAM Community Projects are organized collaborative efforts for community impact and social good. We welcome all people of all ages to participate. Organization and discussion occurs at our [Community Group](../Groups/) meetings and on our [Community Hub](http://hub.cascadesteam.org). See our [Meetup Page](https://meetup.com/cascadesteam) for scheduled events.
@@ -47,11 +46,11 @@ Join Cascade STEAM for [Hack Night](Hack-Night) on Saturdays from 4pm–"Late" a
 
 ## HelpDesk
 
-Community Tech Support is available from Cascade STEAM via our [HelpDesk](Helpdesk) Program. Assistance is offered to the public from volunteer technology professionals and students by suggested donation.
+Community Tech Support is available from Cascade STEAM via our [HelpDesk](Help-Desk) Program. Assistance is offered to the public from volunteer technology professionals and students by suggested donation.
 
 ## LinuxFest Northwest Conference
 
-[LinuxFest Northwest](LinuxFest-NorthWest) is an annual, free-to-attend F/LOSS conference featuring presentations and exhibits on free/libre and open source topics, as well as Linux distributions & applications, licensing, InfoSec, DevOps, AI/ML, creative software, hardware, and privacy; something for everyone from the novice to the professional! LinuxFest Northwest 2026 will be held **April 24–26, 2026** in Bellingham, WA at Bellingham Technical College.
+[LinuxFest Northwest](LinuxFest-Northwest) is an annual, free-to-attend F/LOSS conference featuring presentations and exhibits on free/libre and open source topics, as well as Linux distributions & applications, licensing, InfoSec, DevOps, AI/ML, creative software, hardware, and privacy; something for everyone from the novice to the professional! LinuxFest Northwest 2026 will be held **April 24–26, 2026** in Bellingham, WA at Bellingham Technical College.
 
 ## Mentorship
 
@@ -63,7 +62,7 @@ Community Tech Support is available from Cascade STEAM via our [HelpDesk](Helpde
 
 ## Service Corps
 
-Cascade STEAM [Service Corps](Service-Corps) is a technology training program for social good. Each quarter, student interns and volunteers work closely with technology professionals to help develop and maintain the systems that we utilize for our organization management and community programs, including [Digital Navigators](Digital-Navigators) and [HelpDesk](Helpdesk).
+Cascade STEAM [Service Corps](Service-Corps) is a technology training program for social good. Each quarter, student interns and volunteers work closely with technology professionals to help develop and maintain the systems that we utilize for our organization management and community programs, including [Digital Navigators](Digital-Navigators) and [HelpDesk](Help-Desk).
 
 ## Stormwater Monitoring
 

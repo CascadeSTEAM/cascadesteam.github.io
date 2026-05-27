@@ -24,7 +24,7 @@ Join [Cascade STEAM](https://cascadesteam.org/) for [Hack Night](Hack-Night) on 
 
 Free. Open to everyone. All are welcome. Family Friendly. Bring your friends.
 
-P.S. If you are looking for project ideas, then we've got them! See our [Digital Navigators](Digital-Navigators), [HelpDesk](Helpdesk), and other [Community Projects](index) for inspiration.
+P.S. If you are looking for project ideas, then we've got them! See our [Digital Navigators](Digital-Navigators), [HelpDesk](Help-Desk), and other [Community Projects](index) for inspiration.
 
 Check the [Cascade STEAM Community Hub](http://hub.cascadesteam.org) for discussion and the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) for details and to RSVP for scheduled events.
 

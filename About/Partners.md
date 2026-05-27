@@ -16,7 +16,7 @@ aliases:
   - /community-partners
 ---
 
-Cascade STEAM is made possible through the commitment of [Volunteer Leadership](About/Leadership) and open collaboration of partners. Thank you all for your efforts. Partners include:
+Cascade STEAM is made possible through the commitment of [Volunteer Leadership](Leadership) and open collaboration of partners. Thank you all for your efforts. Partners include:
 
 # Education Partners
 

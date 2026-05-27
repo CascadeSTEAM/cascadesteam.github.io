@@ -13,7 +13,9 @@ This project is the source for the [Cascade STEAM website](https://cascadesteam.
   - `assets/fragments/`: Contains `global-header.md` and `global-footer.md` used by Quartz.
   - `assets/images/`: Site logos and project-specific images.
 - `Events/`: Event-related information and archives.
-- `Get-Involved/`: Donation and outreach pages.
+- `About/Donate.md`: Donation page.
+- `About/Outreach.md`: Outreach materials page.
+- `About/get-involved.md`: Get Involved page.
 - `Groups/`: Information about community groups (AI, Cyber, Engineering, etc.).
 - `internal/`: Internal documents (not intended for public site, excluded via Quartz config).
 - `Projects/`: Active and past community projects.
@@ -58,4 +60,4 @@ This project is the source for the [Cascade STEAM website](https://cascadesteam.
 - **Visuals**: Aim for clean, professional aesthetics with high readability.
 ## Contact Us
 
-Interested to [get involved](Get-Involved/index.md)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [info@cascadesteam.org](mailto:info@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://hub.cascadesteam.org).
+Interested to [get involved](get-involved.md)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [info@cascadesteam.org](mailto:info@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://hub.cascadesteam.org).

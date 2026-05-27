@@ -1,6 +1,8 @@
 ---
 title: Michael Gan
 description: Michael Gan is President of Cascade STEAM, with 22 years spanning enterprise IT management, nonprofit leadership, and workforce development in the Pacific Northwest.
+aliases:
+  - /michael-gan
 tags:
   - person
   - organizer
