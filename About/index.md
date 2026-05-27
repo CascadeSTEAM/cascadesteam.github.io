@@ -42,4 +42,4 @@ Please see our [Organization Page](https://cascadesteam.org/organization) to rev
 
 # Get Involved!
 
-We welcome all people of all ages to [[Get-Involved/index|Get Involved]] to help support our mission. Learn how you can support existing efforts or bring your passions to Cascade STEAM and launch new efforts!
+We welcome all people of all ages to [[get-involved|Get Involved]] to help support our mission. Learn how you can support existing efforts or bring your passions to Cascade STEAM and launch new efforts!
