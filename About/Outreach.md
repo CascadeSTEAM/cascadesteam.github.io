@@ -11,7 +11,7 @@ banner-display: auto
 aliases:
   - /outreach
 ---
-Logos and print materials to assist outreach. Thank you for your support.
+Logos and materials to assist outreach. Thank you for your support!
 
 ## Logos
 
@@ -19,17 +19,23 @@ Logos and print materials to assist outreach. Thank you for your support.
 - Vertical Primary Logo: [SVG](/assets/images/Cascade_STEAM_vertical_logo_primary.svg), [PNG](/assets/images/Cascade_STEAM_vertical_logo_primary.png)
 - Mark Primary Logo: [SVG](/assets/images/Cascade_STEAM_mark_primary.svg), [PNG](/assets/images/Cascade_STEAM_mark_primary.png)
 
-## Print Materials
+## Prospectus
 
-### Flyers
-- [[Cascade STEAM Flyer - Asks.pdf]]
-- [[Cascade STEAM Flyer - Collaborative Internship.pdf]]
-- [[Cascade STEAM Flyer - Consulting.pdf]]
-- [[Cascade STEAM Flyer - Reuse.pdf]]
-- [[Cascade STEAM Flyer - Service Corps.pdf]]
-- [[Cascade STEAM Flyer - Sponsorship.pdf]]
+- [[Cascade STEAM Prospectus.pdf]]
+
+## Flyers
+
 - [[Cascade STEAM Flyer - Who We Are.pdf]]
 - [[Cascade STEAM Flyer - What We Do.pdf]]
+- [[Cascade STEAM Flyer - Asks.pdf]]
+- [[Cascade STEAM Flyer - Sponsorship.pdf]]
+- [[Cascade STEAM Flyer - Service Corps.pdf]]
+- [[Cascade STEAM Flyer - Collaborative Internship.pdf]]
+- [[Cascade STEAM Flyer - Consulting.pdf]]
+- [[Cascade STEAM Flyer - Digital Navigators.pdf]]
+- [[Cascade STEAM Flyer - Help Desk.pdf]]
+- [[Cascade STEAM Flyer - Reuse.pdf]]
+- [[Cascade STEAM Flyer - Thank You.pdf]]
 
 ## Colors
 
