@@ -19,7 +19,6 @@ Join us as we continue to work on organizing our group and building a local cybe
 
 Mark your calendars and watch this space as we confirm meeting locations. Consider creating a [Meetup account](https://www.meetup.com/cascadesteam) and following Cascade STEAM to receive email notices about our events.
 
----
 <!--
 ## April (Meeting #10): Pen Testing
 
@@ -38,7 +37,7 @@ Miranda graduated from Western Washington University in 2019 with a Bachelor's d
 6:45pm - Wrap-up
 
 ---
--->
+
 
 ## May (Meeting #11): Cloud Security & CSA
 
@@ -55,7 +54,25 @@ Ryan is an alumni of Whatcom Community College, and a graduate of the WWU Bachel
 5:20pm - Doors open<br>
 5:45pm - Meeting begins<br>
 6:45pm - Wrap-up
+-->
+---
 
+
+## June (Meeting #12): Digital Forensics and Incident Response
+
+* **When**: Thursday June 11, 5:20–7:00pm
+* **Where**: [Bellingham Makerspace](https://bellinghammakerspace.org/)
+
+**Featured Speaker:** Bjorn Townsend, *Cofounder and Principal Consultant at the Stillwater Group*
+
+The presentation will cover key elements of Digital Forensics and Incident Response, with particular attention to evidence handling, litigation considerations, and liability risks. Attendees will hear real‑world examples and stories that illustrate these challenges in practice, along with an update on the newly forming Washington State Volunteer CIRT (Cyber Incident Response Team).
+
+As Cofounder and Principal Consultant at The Stillwater Group, Bjorn brings years of cybersecurity consulting experience focused on protecting public‑sector critical infrastructure, including IT, OT/ICS/SCADA, criminal justice, and public safety systems.  
+
+**Timeline:**<br>
+5:20pm - Doors open<br>
+5:45pm - Meeting begins<br>
+6:45pm - Wrap-up
 ---
 
 ## Past Meetings
@@ -70,6 +87,7 @@ Ryan is an alumni of Whatcom Community College, and a graduate of the WWU Bachel
 8. 2/26 — Member Networking: *Rapid-fire Networking by Topic*
 9. 3/12 — *Cascade Breach Launch Discussion*
 10. 4/9 — Miranda Skar, CISSP, Senior Pen Tester at LevelBlue: *Pen Testing*
+11. 5/14 - Ryan Bergsma, Technology Director and Security Manager, Cloud Security Alliance: *Cloud Security & CSA*
 
 ---
 
