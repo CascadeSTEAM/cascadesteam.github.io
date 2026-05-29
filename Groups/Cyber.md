@@ -87,7 +87,7 @@ As Cofounder and Principal Consultant at The Stillwater Group, Bjorn brings year
 8. 2/26 — Member Networking: *Rapid-fire Networking by Topic*
 9. 3/12 — *Cascade Breach Launch Discussion*
 10. 4/9 — Miranda Skar, CISSP, Senior Pen Tester at LevelBlue: *Pen Testing*
-11. 5/14 - Ryan Bergsma, Technology Director and Security Manager, Cloud Security Alliance: *Cloud Security & CSA*
+11. 5/14 — Ryan Bergsma, Technology Director and Security Manager, Cloud Security Alliance: *Cloud Security & CSA*
 
 ---
 
