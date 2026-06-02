@@ -35,4 +35,4 @@ While every project varies, a discount is provided when including student intern
 
 Everyone wins\! Businesses and Organizations receive discounted consulting services from highly experienced professionals. Interns get valuable training and real-world, hands-on experience. Cascade STEAM re-invests in our [***Consulting***](https://cascadesteam.org/consulting) and [***Service Corps***](https://cascadesteam.org/service-corps) programs. And we all contribute to ***Building a collaborative, supportive, and civic-minded STEAM community for social good.***
 
-Ready to get started? Email us at [***consulting@cascadesteam.org***](mailto:consulting@cascadesteam.org).
+Please contact us at [***consulting@cascadesteam.org***](mailto:consulting@cascadesteam.org) regarding the [***Consulting***](https://cascadesteam.org/consulting) Program.
