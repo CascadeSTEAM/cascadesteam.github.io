@@ -26,7 +26,7 @@ Artificial Intelligence (AI) is a Cascade STEAM [Community Group](index) focused
 
 ## Meetings
 
-We plan to meet on the fourth Thursday of the month from **5:30–7:30pm** at [The Bellingham Makerspace](https://bellinghammakerspace.org/). Meeting details will be posted on the [Cascade STEAM Community Hub (Discord)](http://hub.cascadesteam.org) and the [Cascade STEAM Meetup Page](https://www.meetup.com/cascadesteam/). Cascade STEAM uses the Community Hub and Meetup to coordinate and share events.
+We plan to meet on the third Thursday of the month from **5:30–7:30pm** at [The Bellingham Makerspace](https://bellinghammakerspace.org/). Meeting details will be posted on the [Cascade STEAM Community Hub (Discord)](http://hub.cascadesteam.org) and the [Cascade STEAM Meetup Page](https://www.meetup.com/cascadesteam/). Cascade STEAM uses the Community Hub and Meetup to coordinate and share events.
 
 Additional events and workshops will take place with hybrid events or in-person hackathons. Have a suggestion? [Let's chat!](mailto:artificial-intelligence@cascadesteam.org)
 

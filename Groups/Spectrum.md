@@ -19,7 +19,7 @@ Spectrum is a Cascade STEAM [Community Group](https://cascadesteam.org/) focused
 
 ## **Meetings**
 
-We plan to meet on the third Thursday of the month from **5:30–7:30pm** at [The Bellingham Makerspace](https://bellinghammakerspace.org/). Additional meetings will take place on Saturdays during [Hack Night](https://cascadesteam.org/hack-night) and arranged workshops. Please check our [Community Calendar](https://cascadesteam.org/community-calendar), [Meetup Page](https://www.meetup.com/cascadesteam/), or [Community Hub](http://hub.cascadesteam.org) for scheduled events.
+We plan to meet on the fourth Thursday of the month from **5:30–7:30pm** at [The Bellingham Makerspace](https://bellinghammakerspace.org/). Additional meetings will take place on Saturdays during [Hack Night](https://cascadesteam.org/hack-night) and arranged workshops. Please check our [Community Calendar](https://cascadesteam.org/community-calendar), [Meetup Page](https://www.meetup.com/cascadesteam/), or [Community Hub](http://hub.cascadesteam.org) for scheduled events.
 
 **Location:**
 
