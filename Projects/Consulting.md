@@ -19,13 +19,13 @@ aliases:
 ---
 [***Consulting***](https://cascadesteam.org/consulting) is now available from Cascade STEAM, leveraging our team’s extensive experience collaborating with partners and clients to progress their business, technology, education, and community engagement goals.
 
-Our **Consulting Engagements** are led by highly experienced business and technology professionals. We partner with trusted local service providers as needed, and feature distinguished student interns and accomplished mentors via our [***Service Corps***](https://cascadesteam.org/service-corps) program when appropriate.
+Our **Consulting Projects** are led by highly experienced business and technology professionals. We partner with trusted local service providers as needed, and feature distinguished student interns and accomplished mentors via our [***Service Corps***](https://cascadesteam.org/service-corps) program when appropriate.
 
 # How It Works
 
-We offer a **FREE Consultation** as a community service:  We’ll meet for an **Introduction**, do some basic **Discovery** to explore options, and provide our **Recommendation.** If we can be of assistance: We will provide a written **Proposal** to create a **Consulting Engagement**.
+We offer a **FREE Consultation** as a community service:  We’ll meet for an **Introduction**, do some basic **Discovery** to explore options, and provide our **Recommendation.** If we can be of assistance: We will provide a written **Proposal** to create a **Consulting Project**.
 
-If we require additional information to solidify our project together: We’ll perform an **Expanded** **Discovery**, provide a written **Assessment**, revise our **Proposal** with an updated **Project Scope**, and confirm the details of our **Consulting Engagement** before proceeding.
+If we require additional information to solidify our project together: We’ll perform an **Expanded** **Discovery**, provide a written **Assessment**, revise our **Proposal** with an updated **Project Scope**, and confirm the details of our **Consulting Project** before proceeding.
 
 # Cost
 
