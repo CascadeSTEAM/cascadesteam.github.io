@@ -10,6 +10,8 @@ banner-display: auto
 aliases:
   - /events
   - /calendar
+  - /community-events
+  - /community-calendar
 tags:
   - calendar
 permalink: events
