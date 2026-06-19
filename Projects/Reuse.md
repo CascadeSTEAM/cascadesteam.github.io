@@ -17,7 +17,9 @@ aliases:
   - /equipment-donations
 ---
 
-[***Reuse***](https://cascadesteam.org/reuse) is an extension of [***Service Corps***](https://cascadesteam.org/service-corps) to refurbish donated technology equipment for a new, productive use and purpose in our community, and provide students valuable hands-on experience with technology.
+# Reuse
+
+[***Reuse***](https://cascadesteam.org/reuse) is an extension of [***Service Corps***](https://cascadesteam.org/service-corps) to refurbish donated technology and office equipment for a new, productive purpose in our community and provide students valuable hands-on experience with refurbishment.
 
 # How it Works
 
@@ -26,7 +28,9 @@ Members of our community donate their equipment in **GOOD** condition:
 * Desktop and laptop computers and accessories  
 * Monitors and TVs  
 * Networking equipment  
-* Servers and server equipment
+* Servers and server equipment  
+* Audio/Video equipment  
+* Office equipment, including desks, chairs, tables, shelving, and storage
 
 Our [***Service Corps***](https://cascadesteam.org/service-corps) team of students and mentors refurbish the donated equipment:
 
