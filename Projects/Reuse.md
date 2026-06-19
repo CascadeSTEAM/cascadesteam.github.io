@@ -17,7 +17,9 @@ aliases:
   - /equipment-donations
 ---
 
-[***Reuse***](https://cascadesteam.org/reuse) is an extension of [***Service Corps***](https://cascadesteam.org/service-corps) to refurbish donated technology equipment for a new, productive use and purpose in our community, and provide students valuable hands-on experience with technology.
+# Reuse
+
+[***Reuse***](https://cascadesteam.org/reuse) is an extension of [***Service Corps***](https://cascadesteam.org/service-corps) to refurbish donated technology and office equipment for a new, productive purpose in our community and provide students valuable hands-on experience with refurbishment.
 
 # How it Works
 
@@ -26,7 +28,9 @@ Members of our community donate their equipment in **GOOD** condition:
 * Desktop and laptop computers and accessories  
 * Monitors and TVs  
 * Networking equipment  
-* Servers and server equipment
+* Servers and server equipment  
+* Audio/Video equipment  
+* Office equipment, including desks, chairs, tables, shelving, and storage
 
 Our [***Service Corps***](https://cascadesteam.org/service-corps) team of students and mentors refurbish the donated equipment:
 
@@ -34,12 +38,12 @@ Our [***Service Corps***](https://cascadesteam.org/service-corps) team of studen
 * Physical assessment, repair, cleaning, and modification  
 * New operating system installation and basic configuration
 
-We then [***Reuse***](https://cascadesteam.org/reuse) the refurbished equipment in our own [***Community Projects***](https://cascadesteam.org/community-projects), such as [***Digital Navigators***](https://cascadesteam.org/digital-navigators), or provide to students for **FREE** to support their education, or provide to other members of our community by suggested donation.
+We then [***Reuse***](https://cascadesteam.org/reuse) the refurbished equipment in our own [***Community Projects***](https://cascadesteam.org/community-projects), such as [***Digital Navigators***](https://cascadesteam.org/digital-navigators), or provide to our student interns and volunteers for **FREE** to support their education, or provide to other members of our community by suggested donation.
 
 # Arrangements
 
 While all [***Donations***](https://cascadesteam.org/donate) are appreciated, **EQUIPMENT DONATIONS MUST BE APPROVED**. Please provide a picture and written detail regarding potential equipment donations.
 
-We recommend any equipment in **POOR** condition to be donated directly to [***Computers 4 People in Need***](https://c4pin.org), a fellow local nonprofit organization and [***Partner***](https://cascadesteam.org/partners), that performs reclamation of precious metals and recycling.
+We recommend any equipment in **POOR** condition to be donated directly to [***Computers 4 People in Need***](https://c4pin.org), a fellow local nonprofit organization and [***Partner***](https://cascadesteam.org/partners) who performs reclamation of precious metals and recycling.
 
 Please contact us at [***reuse@cascadesteam.org***](mailto:reuse@cascadesteam.org) regarding the [***Reuse***](https://cascadesteam.org/reuse) Program.

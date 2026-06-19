@@ -17,28 +17,28 @@ STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, an
 
 Our efforts are organized into [***Community Groups***](https://cascadesteam.org/community-groups) and [***Community Projects***](https://cascadesteam.org/community-projects).
 
-[***Community Groups***](https://cascadesteam.org/community-groups) convene aspiring, current, and retired professionals interested in a STEAM topic to connect with fellow community members for technical discussion and to socialize, including [***Artificial Intelligence***](https://cascadesteam.org/artificial-intelligence), [***Citizen Science***](https://cascadesteam.org/citizen-science), [***Cyber***](https://cascadesteam.org/cyber), [***Data Engineering***](https://cascadesteam.org/data-engineering), [***Engineering***](https://cascadesteam.org/engineering), [***Spectrum***](https://cascadesteam.org/spectrum), and [***Open Source***](https://cascadesteam.org/open-source).
+[***Community Groups***](https://cascadesteam.org/community-groups) convene community members interested in a STEAM topic to connect, participate in shared learning experiences, and socialize. Our current [***Community Groups***](https://cascadesteam.org/community-groups) include [***Artificial Intelligence***](https://cascadesteam.org/artificial-intelligence), [***Citizen Science***](https://cascadesteam.org/citizen-science), [***Cyber***](https://cascadesteam.org/cyber), [***Data Engineering***](https://cascadesteam.org/data-engineering), [***Engineering***](https://cascadesteam.org/engineering), [***Spectrum***](https://cascadesteam.org/spectrum), and [***Open Source***](https://cascadesteam.org/open-source).
 
-Collaborations evolve into [***Community Projects***](https://cascadesteam.org/community-projects) to further our efforts of community building and community service, and often collaborate with [***Community Partners***](https://cascadesteam.org/partners) in shared purpose, including:
-
-Community Building:
-
-* [***Artificial Intelligence Workshops***](https://cascadesteam.org/artificial-intelligence-workshops) for collective AI training with a focus on community work.
-* [***Breach***](https://cascadesteam.org/breach) is a cybersecurity-focused game of capture the flag teaching security concepts.
-* [***Educational Robotics***](https://cascadesteam.org/educational-robotics) provides support for the Bellingham Public Schools Robotics Program.
-* [***Hack Night***](https://cascadesteam.org/hack-night) is a weekly collaborative night for personal, professional, and community projects.
-* [***LinuxFest Northwest***](https://cascadesteam.org/linuxfest-northwest) is an open source technology conference that we co-organize.
-* [***Mentorship***](https://cascadesteam.org/mentorship) connects mentors and mentees in traditional or peer mentorship relationships.
-* [***Stormwater Monitoring***](https://cascadesteam.org/stormwater-monitoring) provides support for the RE Sources Water Keeper Program.
+As collaborative interests evolve, these efforts are organized as [***Community Projects***](https://cascadesteam.org/community-projects) to further our goals of community building and community service. As [***Service Corps***](https://cascadesteam.org/service-corps) also functions as our volunteer coordination program, many of our [***Community Projects***](https://cascadesteam.org/community-projects) are expansions of [***Service Corps***](https://cascadesteam.org/service-corps).
 
 Community Service:
 
-* [***Service Corps***](https://cascadesteam.org/service-corps) is a technology training and community service program for social good.
-* [***Collaborative Internship***](https://cascadesteam.org/collaborative-internship) extends *Service Corps* with local organizations to facilitate internships.
-* [***Consulting***](https://cascadesteam.org/consulting) provides business, technology, and community engagement services.
-* [***Digital Navigators***](https://cascadesteam.org/digital-navigators) provides FREE basic technology support for social service patrons.
-* [***Help Desk***](https://cascadesteam.org/help-desk) provides FREE technology support for the general public by suggested donation.
-* [***Reuse***](https://cascadesteam.org/reuse) refurbishes donated technology equipment for a new, productive use in our community.
+* [***Service Corps***](https://cascadesteam.org/service-corps) is a technology training and community service program for social good.  
+* [***Collaborative Internship***](https://cascadesteam.org/collaborative-internship) works with students and local organizations to provide internships.  
+* [***Consulting***](https://cascadesteam.org/consulting) provides business, technology, and education services to the community.  
+* [***Digital Navigators***](https://cascadesteam.org/digital-navigators) provides FREE basic technology support for social service patrons.  
+* [***Help Desk***](https://cascadesteam.org/help-desk) provides FREE technology support for the general public.  
+* [***Reuse***](https://cascadesteam.org/reuse) refurbishes donated technology and office equipment for a new productive purpose.
+
+Community Building:
+
+* [***Artificial Intelligence Workshops***](https://cascadesteam.org/artificial-intelligence-workshops) for collective AI training with a focus on community work.  
+* [***Breach***](https://cascadesteam.org/breach) is a cybersecurity-focused game of capture the flag teaching security concepts.  
+* [***Educational Robotics***](https://cascadesteam.org/educational-robotics) provides support for the Bellingham Public Schools Robotics Program.  
+* [***Hack Night***](https://cascadesteam.org/hack-night) is a weekly collaborative night for personal, professional, and community projects.   
+* [***LinuxFest Northwest***](https://cascadesteam.org/linuxfest-northwest) is an annual open source technology conference that we co-organize.  
+* [***Mentorship***](https://cascadesteam.org/mentorship) connects mentors and mentees in traditional or peer mentorship relationships.  
+* [***Stormwater Monitoring***](https://cascadesteam.org/stormwater-monitoring) provides support for the RE Sources Water Keeper Program.
 
 Cascade STEAM programs and events strive to be ***Free. Open to everyone. Bring your friends.***
 
