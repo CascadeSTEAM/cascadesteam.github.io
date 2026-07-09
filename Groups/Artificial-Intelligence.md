@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Artificial Intelligence
-description: Cascade STEAM Artificial Intelligence community group — live sessions on AI tools, research, real use cases, and community impact. Meets 4th Thursday monthly at Bellingham Makerspace.
+description: Cascade STEAM Artificial Intelligence community group — live sessions on AI tools, research, real use cases, and community impact. Meets 3rd Thursday monthly at Bellingham Makerspace.
 tags:
   - community-group
   - "#artificial-intelligence"
