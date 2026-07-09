@@ -20,19 +20,19 @@ Citizen Science is a Cascade STEAM [Community Group](https://cascadesteam.org/co
 
 We plan to meet monthly from 5:30–7:00pm at various locations in Bellingham. Meeting details will be available on the [Cascade STEAM Community Hub](http://hub.cascadesteam.org) and the [Cascade STEAM Meetup Page](https://www.meetup.com/cascadesteam).
 
-# July 2026
+### July 2026
 
 Our agenda for July is *Lightning Talks* and is in collaboration with [PNW Climate Week](https://pnwclimateweek.org)! Several speakers from local organizations will share brief presentations and Q&A (5-10 minutes) regarding their organizations and major projects -- followed by open discussion. [PLEASE REGISTER ON LUMA TO ATTEND](https://luma.com/u3mm1vtf).
 
-Cascade STEAM Citizen Science
-July 14th 2026, 5:30pm-7:00pm
-[Brandywine Kitchen](https://brandywinekitchen.com)
+Cascade STEAM Citizen Science<br>
+July 14th 2026, 5:30pm-7:00pm<br>
+[Brandywine Kitchen](https://brandywinekitchen.com)<br>
 [PLEASE REGISTER ON LUMA TO ATTEND](https://luma.com/u3mm1vtf) in collaboration with [PNW Climate Week](https://pnwclimateweek.org)
 
-Timeline:
-5:30pm-5:45pm - Arrival & Socializing
-5:45pm-6:00pm - Introduction
-6:00pm-6:45pm - Lightning Talks
+Timeline:<br>
+5:30pm-5:45pm - Arrival & Socializing<br>
+5:45pm-6:00pm - Introduction<br>
+6:00pm-6:45pm - Lightning Talks<br>
 6:45pm-7:00pm - Open Discussion
 
 ## Online Discussion
@@ -41,7 +41,7 @@ Online discussion, group organization, and community project planning occurs at 
 
 ## Stormwater Monitoring Community Project
 
-The Stormwater Monitoring [Community Project](https://cascadesteam.org/community-projects) aims to understand and improve the stormwater monitoring for Bellingham. We'll learn about methods used by the [City of Bellingham](https://cob.org/services/environment/stormwater), [Washington State Department of Ecology](https://ecology.wa.gov/water-shorelines/water-quality/nonpoint-pollution/stormwater), and the local non-profit [RE Sources](https://re-sources.org) to ensure Bellingham Bay is minimally impacted by stormwater run-off. To learn more see this great summary of the [RE Sources Stormwater Monitoring Project](https://www.re-sources.org/2024/06/three-years-of-bellingham-stormwater-monitoring-reveals-pollution-hotspots-including-taylor-dock/).
+The [Stormwater Monitoring](https://cascadesteam.org/stormwater-monitoring) [Community Project](https://cascadesteam.org/community-projects) aims to understand and improve the stormwater monitoring for Bellingham. We'll learn about methods used by the [City of Bellingham](https://cob.org/services/environment/stormwater), [Washington State Department of Ecology](https://ecology.wa.gov/water-shorelines/water-quality/nonpoint-pollution/stormwater), and the local non-profit [RE Sources](https://re-sources.org) to ensure Bellingham Bay is minimally impacted by stormwater run-off. To learn more see this great summary of the [RE Sources Stormwater Monitoring Project](https://www.re-sources.org/2024/06/three-years-of-bellingham-stormwater-monitoring-reveals-pollution-hotspots-including-taylor-dock/).
 
 ## Organizers
 
