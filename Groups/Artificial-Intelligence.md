@@ -37,7 +37,7 @@ Additional events and workshops will take place with hybrid events or in-person 
 
 ## Organizers
 
-[Volunteer Organizers](../About/Leadership/) of Cascade STEAM Artificial Intelligence are [Erica Lamont](https://www.linkedin.com/in/ericalamont/) and [Stephen Hanney](https://www.linkedin.com/in/stevehanney/). Please contact [artificial-intelligence@cascadesteam.org](mailto:artificial-intelligence@cascadesteam.org) for community group inquiries.
+[Volunteer Organizers](../About/Leadership/) of Cascade STEAM Artificial Intelligence are [Erica Lamont](mailto:erica.lamont@cascadesteam.org) and [Stephen Hanney](mailto:stephen.hanney@cascadesteam.org). Please contact [artificial-intelligence@cascadesteam.org](mailto:artificial-intelligence@cascadesteam.org) for community group inquiries.
 
 ## Resources
 - [[2026_AI_Field_Guide.pdf]] - Slide deck from 2026-03-26
