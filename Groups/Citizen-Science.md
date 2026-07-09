@@ -14,7 +14,7 @@ aliases:
   - /citizen-science
 ---
 
-Citizen Science is a Cascade STEAM [Community Group](https://cascadesteam.org/community-groups) with a focus on life sciences and science-related [Community Projects](https://cascadesteam.org/community-projects). Anyone interested in science-related technical topics, discussion, socializing, community-building, and collaboration among local organizations are welcome to attend.
+Citizen Science is a Cascade STEAM [Community Group](https://cascadesteam.org/community-groups) with a focus on life sciences and science-related [Community Projects](https://cascadesteam.org/community-projects). Anyone interested in science-related technical topics, discussion, socializing, community-building, and collaboration among local organizations is welcome to attend.
 
 ## Meetings
 
