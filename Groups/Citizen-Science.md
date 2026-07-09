@@ -27,7 +27,8 @@ Our agenda for July is *Lightning Talks* and is in collaboration with [PNW Clima
 Cascade STEAM Citizen Science<br>
 July 14th 2026, 5:30pm-7:00pm<br>
 [Brandywine Kitchen](https://brandywinekitchen.com)<br>
-[PLEASE REGISTER ON LUMA TO ATTEND](https://luma.com/u3mm1vtf) in collaboration with [PNW Climate Week](https://pnwclimateweek.org)
+[PLEASE REGISTER ON LUMA TO ATTEND](https://luma.com/u3mm1vtf)<br>
+A collaboration with [PNW Climate Week](https://pnwclimateweek.org)
 
 Timeline:<br>
 5:30pm-5:45pm - Arrival & Socializing<br>
