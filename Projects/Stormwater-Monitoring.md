@@ -12,6 +12,7 @@ content-start: 211
 banner-display: auto
 aliases:
   - /stormwater
+  - /stormwater-monitoring
 ---
 
 The [Citizen Science Community Group](../Groups/Citizen-Science) organizes support for [RE Sources](https://re-sources.org) and their [Stormwater Monitoring Project](https://www.re-sources.org/2024/06/three-years-of-bellingham-stormwater-monitoring-reveals-pollution-hotspots-including-taylor-dock/) to help protect Bellingham Bay.
@@ -26,6 +27,4 @@ Cascade STEAM community members contribute to data collection, data analysis, an
 
 ## Get Involved
 
-Join the [Citizen Science Community Group](../Groups/Citizen-Science) — meetings are on the third Thursday of the month at RE Sources' meeting room, 2309 Meridian St, Bellingham.
-
-Contact [citizen-science@cascadesteam.org](mailto:citizen-science@cascadesteam.org) for more information.
+Join the [Citizen Science Community Group](../Groups/Citizen-Science). Contact [citizen-science@cascadesteam.org](mailto:citizen-science@cascadesteam.org) for more information.
