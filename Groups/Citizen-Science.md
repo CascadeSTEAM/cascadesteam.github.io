@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Citizen Science
-description: Cascade STEAM Citizen Science community group — focused on science and community projects including stormwater monitoring to protect Bellingham Bay. Meets 3rd Thursday monthly at RE Sources.
+description: Cascade STEAM Citizen Science community group — focused on science and community projects.
 tags:
   - community-group
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
@@ -14,20 +14,35 @@ aliases:
   - /citizen-science
 ---
 
-Citizen Science is a Cascade STEAM [Community Group](index) with a focus on science and science-related [community projects](../Projects/).
-
-Calling all aspiring Citizen Scientists! Cascade STEAM is kicking off Citizen Science with the [Stormwater Monitoring](../Projects/Stormwater-Monitoring) [Community Project](../Projects/) to understand and improve the stormwater monitoring for Bellingham. In this group you'll learn about the techniques used by the [City of Bellingham](https://cob.org/services/environment/stormwater), [Washington State Department of Ecology](https://ecology.wa.gov/water-shorelines/water-quality/nonpoint-pollution/stormwater), and the local non-profit [RE Sources](https://re-sources.org) to ensure Bellingham Bay is minimally impacted by stormwater run-off. To learn more see this great summary of the [RE Sources Stormwater Monitoring Project](https://www.re-sources.org/2024/06/three-years-of-bellingham-stormwater-monitoring-reveals-pollution-hotspots-including-taylor-dock/).
+Citizen Science is a Cascade STEAM [Community Group](https://cascadesteam.org/community-groups) with a focus on life sciences and science-related [Community Projects](https://cascadesteam.org/community-projects). Anyone interested in science-related technical topics, discussion, socializing, community-building, and collaboration among local organizations are welcome to attend.
 
 ## Meetings
 
-We plan to meet on the third Thursday of the month from 5:30–7:30pm at the [RE Sources](https://re-sources.org) Meeting Room. Meeting details will be available on the [Cascade STEAM Community Hub](http://hub.cascadesteam.org) and the [Cascade STEAM Meetup Page](https://www.meetup.com/cascadesteam).
+We plan to meet monthly from 5:30–7:00pm at various locations in Bellingham. Meeting details will be available on the [Cascade STEAM Community Hub](http://hub.cascadesteam.org) and the [Cascade STEAM Meetup Page](https://www.meetup.com/cascadesteam).
 
-**Location:**
-[RE Sources](https://maps.app.goo.gl/GgWdUnySYs34MGj46), [2309 Meridian St, Bellingham, WA 98225](https://www.google.com/maps/place/2309+Meridian+St,+Bellingham,+WA+98225/)
+# July 2026
 
-**Directions:**
-Access the RE Sources Meeting Room on the second floor by the stairs in the Southwest corner of the building.
+Our agenda for July is *Lightning Talks* and is in collaboration with [PNW Climate Week](https://pnwclimateweek.org)! Several speakers from local organizations will share brief presentations and Q&A (5-10 minutes) regarding their organizations and major projects -- followed by open discussion. [PLEASE REGISTER ON LUMA TO ATTEND](https://luma.com/u3mm1vtf).
+
+Cascade STEAM Citizen Science
+July 14th 2026, 5:30pm-7:00pm
+[Brandywine Kitchen](https://brandywinekitchen.com)
+[PLEASE REGISTER ON LUMA TO ATTEND](https://luma.com/u3mm1vtf) in collaboration with [PNW Climate Week](https://pnwclimateweek.org)
+
+Timeline:
+5:30pm-5:45pm - Arrival & Socializing
+5:45pm-6:00pm - Introduction
+6:00pm-6:45pm - Lightning Talks
+6:45pm-7:00pm - Open Discussion
+
+## Online Discussion
+
+Online discussion, group organization, and community project planning occurs at the [Cascade STEAM Community Hub](http://hub.cascadesteam.org) in the **#science** channel.
+
+## Stormwater Monitoring Community Project
+
+The Stormwater Monitoring [Community Project](https://cascadesteam.org/community-projects) aims to understand and improve the stormwater monitoring for Bellingham. We'll learn about methods used by the [City of Bellingham](https://cob.org/services/environment/stormwater), [Washington State Department of Ecology](https://ecology.wa.gov/water-shorelines/water-quality/nonpoint-pollution/stormwater), and the local non-profit [RE Sources](https://re-sources.org) to ensure Bellingham Bay is minimally impacted by stormwater run-off. To learn more see this great summary of the [RE Sources Stormwater Monitoring Project](https://www.re-sources.org/2024/06/three-years-of-bellingham-stormwater-monitoring-reveals-pollution-hotspots-including-taylor-dock/).
 
 ## Organizers
 
-[Volunteer Organizers](../About/Leadership/) of the Cascade STEAM Citizen Science Community Group are [Gil Lund](https://www.linkedin.com/in/gwlund) and [Michael Gan](https://www.linkedin.com/in/michaelbgan). Please contact [citizen-science@cascadesteam.org](mailto:citizen-science@cascadesteam.org) for community group inquiries.
+[Volunteer Organizers](https://cascadesteam.org/leadership) of the Cascade STEAM Citizen Science Community Group are [Gil Lund](mailto:gil.lund@cascadesteam.org) and [Michael Gan](mailto:michael.gan@cascadesteam.org). Please contact [citizen-science@cascadesteam.org](mailto:citizen-science@cascadesteam.org) for community group inquiries.
