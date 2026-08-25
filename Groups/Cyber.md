@@ -9,7 +9,7 @@ aliases:
 
 ![[Cascade STEAM Cyber.png]]
 
-Welcome to Cascade STEAM's Cyber-focused community group!
+Welcome to Cascade STEAM's Cybersecurity-focused community group!
 
 ## Upcoming Meetings
 
@@ -58,36 +58,37 @@ Ryan is an alumni of Whatcom Community College, and a graduate of the WWU Bachel
 ---
 
 
-## June (Meeting #12): Digital Forensics and Incident Response
+## September (Meeting #13): Introducing CISA, from Washington State’s Coordinator
 
-* **When**: Thursday June 11, 5:20–7:00pm
-* **Where**: [Bellingham Makerspace](https://bellinghammakerspace.org/)
+* **When**: Thursday September 10, 5:20–7:00pm
+* **Where**: [Brandywine Kitchen (upstairs)](https://brandywinekitchen.com/)
 
-**Featured Speaker:** Bjorn Townsend, *Cofounder and Principal Consultant at the Stillwater Group*
+**Featured Speaker:** RJ Niesen, *CISSP, PMP; Cybersecurity State Coordinator, Cybersecurity and Infrastructure Security Agency (CISA)*
 
-The presentation will cover key elements of Digital Forensics and Incident Response, with particular attention to evidence handling, litigation considerations, and liability risks. Attendees will hear real‑world examples and stories that illustrate these challenges in practice, along with an update on the newly forming Washington State Volunteer CIRT (Cyber Incident Response Team).
-
-As Cofounder and Principal Consultant at The Stillwater Group, Bjorn brings years of cybersecurity consulting experience focused on protecting public‑sector critical infrastructure, including IT, OT/ICS/SCADA, criminal justice, and public safety systems.  
+RJ has served as Cybersecurity State Coordinator for Washington State at CISA since November 2024. He’ll describe his career journey, which included two decades of service in the United States Army followed by private-sector consulting experience. RJ will then present a “CISA 101” session to introduce us to the services CISA offers to both public and private sector organizations.
 
 **Timeline:**<br>
 5:20pm - Doors open<br>
 5:45pm - Meeting begins<br>
 6:45pm - Wrap-up
+
 ---
+
 
 ## Past Meetings
 
-1. 5/25 — *What does the community want from this group?*
+1. 5/25/2025 — *What does the community want from this group?*
 2. 6/25 — Steven Reed, IT Cybersecurity Auditor, Washington State Auditor's Office (SAO): *Cybersecurity Audits & Tools*
 3. 7/25 — Chris Ranallo, Director of IT, Lummi Nation: *How to build a cybersecurity and IT program*
 4. 9/25 — Donavon Swinney, CISSP, CISA, CISM, Director of Information Security, Whatcom Educational Credit Union (WECU): *Cybersecurity in Financial Services*
 5. 10/25 — Brent Hurtig and Ianthe Andress, Motive Search Inc: *Recruiting for Big Tech & Tech Startups*
 6. 11/25 — Mike Hamilton, Field CISO, Lumifi; Co-Founder & Board Chairman, PISCES: *Changes at CISA, PISCES Program, & Cyber Trends and Stories*
-7. 1/26 — Panel Discussion: *What cybersecurity professionals should expect in 2026*
+7. 1/26/2026 — Panel Discussion: *What cybersecurity professionals should expect in 2026*
 8. 2/26 — Member Networking: *Rapid-fire Networking by Topic*
 9. 3/12 — *Cascade Breach Launch Discussion*
 10. 4/9 — Miranda Skar, CISSP, Senior Pen Tester at LevelBlue: *Pen Testing*
 11. 5/14 — Ryan Bergsma, Technology Director and Security Manager, Cloud Security Alliance: *Cloud Security & CSA*
+12. 6/11 - Bjorn Townsend, Cofounder and Principal Consultant at the Stillwater Group: *Digital Forensics and Incident Response*
 
 ---
 
