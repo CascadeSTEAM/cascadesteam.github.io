@@ -11,6 +11,10 @@ aliases:
 
 Welcome to Cascade STEAM's Cybersecurity-focused community group!
 
+## Important Announcement - New Organizers Needed!
+
+Marty and Dave, the Cyber group organizers, are hanging up their hats at the end of 2026.  November will be the final meeting they will organize.  They are looking forward to the next phase of the Cyber group, under new leadership.  Anybody can help make this group even greater than it is today!  If you are interested (even if you don't want to go solo), contact [Marty](mailto:marty.mulholland@cascadesteam.org?subject=Interested%20in%20co-organizing%20STEAM%20Cyber%20group), [Dave](mailto:david.hirsch@cascadesteam.org?subject=Interested%20in%20co-organizing%20STEAM%20Cyber%20group), or [Michael Gan](mailto:michael.gan@cascadesteam.org?subject=Interested%20in%20co-organizing%20STEAM%20Cyber%20group), leader of Cascade STEAM.
+
 ## Upcoming Meetings
 
 We meet on the second Thursday of the month from ~5:30–7:00pm at various locations. Meeting details will be available on this page, the [Cascade STEAM Community Hub](http://hub.cascadesteam.org), and the [Cascade STEAM Meetup Page](https://www.meetup.com/cascadesteam). We will not hold meetings in July, August, or December; join us for Cascade STEAM Socials on these months instead!
@@ -58,18 +62,18 @@ Ryan is an alumni of Whatcom Community College, and a graduate of the WWU Bachel
 ---
 
 
-## September (Meeting #13): Introducing CISA, from Washington State’s Coordinator
+## October (Meeting #14): Networking and Cybersecurity Trivia!
+* **When**: Thursday October 8, 5:20–7:00pm
+* **Where**: [Sol De Mexico](https://soldemexicofamilymexicanrestaurantwa.com/), 1120 Lakeway Drive, Bellingham
 
-* **When**: Thursday September 10, 5:20–7:00pm
-* **Where**: [Brandywine Kitchen (upstairs)](https://brandywinekitchen.com/)
-
+<!--
 **Featured Speaker:** RJ Niesen, *CISSP, PMP; Cybersecurity State Coordinator, Cybersecurity and Infrastructure Security Agency (CISA)*
-
-RJ has served as Cybersecurity State Coordinator for Washington State at CISA since November 2024. He’ll describe his career journey, which included two decades of service in the United States Army followed by private-sector consulting experience. RJ will then present a “CISA 101” session to introduce us to the services CISA offers to both public and private sector organizations.
+-->
+This event will be a start-of-Fall, end-of-Summer, meeting of new faces.  To grease the socialization wheels, you can order margaritas, and the moderators will run a Cybersecurity Trivia game.  The Grand Prize is fame and bragging rights. Teams will be 2-4 people.  Entry fee is zero.
 
 **Timeline:**<br>
 5:20pm - Doors open<br>
-5:45pm - Meeting begins<br>
+5:45pm - Trivia begins<br>
 6:45pm - Wrap-up
 
 ---
@@ -89,6 +93,7 @@ RJ has served as Cybersecurity State Coordinator for Washington State at CISA si
 10. 4/9 — Miranda Skar, CISSP, Senior Pen Tester at LevelBlue: *Pen Testing*
 11. 5/14 — Ryan Bergsma, Technology Director and Security Manager, Cloud Security Alliance: *Cloud Security & CSA*
 12. 6/11 - Bjorn Townsend, Cofounder and Principal Consultant at the Stillwater Group: *Digital Forensics and Incident Response*
+13. 9/10 - RJ Niesen, CISSP, PMP; Cybersecurity State Coordinator, Cybersecurity and Infrastructure Security Agency (CISA): *Introducing CISA*
 
 ---
 
