@@ -76,8 +76,7 @@ Cascade STEAM<br>
 104 W Magnolia St #2551, Bellingham, WA 98225
 
 **Physical Address:**<br>
-Cascade STEAM C/O Bellingham Makerspace<br>
-Bellis Fair Parkway #618, Bellingham, WA 98225
+We are a virtual organization, hosting programs online and various in-person events at partner and social locations.
 
 # Status
 
