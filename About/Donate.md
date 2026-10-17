@@ -16,13 +16,13 @@ Our programs are ***“Free. Open to everyone. Bring your friends.”*** on purp
 
 [***Cascade STEAM***](https://cascadesteam.org) **is *community supported*** \- we are NOT a member organization with member dues. If you value our work and have the financial means to support us, then please [***Donate***](https://cascadesteam.org/donate)\! Your financial support will provide continued operation of our organization and programs, including [***Community Groups***](https://cascadesteam.org/community-groups) and [***Community Projects***](https://cascadesteam.org/community-projects), and support new community building and community service programs in development. Join us in our mission of ***Building a collaborative, supportive, and civic-minded STEAM community for social good***.
 
-**We invite you to become an Individual Supporting Member for $100 or more, annually.** As [***Cascade STEAM***](https://cascadesteam.org) is a 501(c)(3) nonprofit organization your donation is [tax deductible](https://www.irs.gov/publications/p526), and those with [non-itemized filings may now deduct donations up to $2,000 annually](https://www.irs.gov/taxtopics/tc506).
+As [***Cascade STEAM***](https://cascadesteam.org) is a 501(c)(3) nonprofit organization your donation is [tax deductible](https://www.irs.gov/publications/p526), and those with [non-itemized filings may now deduct donations up to \$2,000 annually](https://www.irs.gov/taxtopics/tc506).
 
 Individuals and organizations are invited to alternatively consider [***Sponsorship***](https://cascadesteam.org/sponsorship) to more publicly financially support our efforts, recognize your contributions, and collaborate with our [***Partners***](https://cascadesteam.org/partners). 
 
 # Donate Today
 
-Our preferred payment options are [***PayPal***](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C) for donations below $250, and check for donations of $250 or above. Additional options include Cash, [***PayPal Giving Fund***](https://www.paypal.com/fundraiser/charity/5056769), and [***Venmo***](https://account.venmo.com/charity/donate?charity=3993349652481532884). Any donation amount and method is appreciated\!
+Our preferred payment options are [***PayPal***](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C) for donations below \$250, and check for donations of \$250 or above. Additional options include Cash, [***PayPal Giving Fund***](https://www.paypal.com/fundraiser/charity/5056769), and [***Venmo***](https://account.venmo.com/charity/donate?charity=3993349652481532884). Any donation amount and method is appreciated\!
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)
 
