@@ -16,32 +16,23 @@ aliases:
   - /community-partners
 ---
 
-Cascade STEAM is made possible through the commitment of [Volunteer Leadership](Leadership) and open collaboration of partners. Thank you all for your efforts. Partners include:
-
-# Education Partners
-
-- [Bellingham Public Schools](https://bellinghamschools.org)
-- [Bellingham Technical College](https://btc.edu)
-- [Skagit Valley College](https://skagit.edu)
-- [Western Washington University](https://wwu.edu)
-- [Whatcom Community College](https://whatcom.edu)
-
-# Employer Partners
-
-- [Creed Technology](https://www.creedtechnology.com/)
-- [Datalation](https://datalation.org/)
-- [Sole Graphics](https://solegraphics.com/)
-- [NW Technology](https://www.nwtechnology.com/)
-
-# Local Government Partners
+Cascade STEAM is made possible through the commitment of [Volunteer Leadership](Leadership) and open collaboration of partners, including:
 
 - [Bellingham Public Library](https://bellinghampubliclibrary.org)
-
-# Nonprofit Partners
-
-- [Bellingham Makerspace](https://bellinghammakerspace.org)
+- [Bellingham Public Schools](https://bellinghamschools.org)
+- [Bellingham Technical College](https://btc.edu)
 - [Computers 4 People in Need](https://c4pin.org)
 - [Innovate Bellingham](https://innovatebellingham.org)
 - [LinuxFest Northwest](https://lfnw.org)
 - [RE Sources](https://re-sources.org)
+- [Skagit Valley College](https://skagit.edu)
 - [Technology Alliance](https://technology-alliance.com)
+- [Western Washington University](https://wwu.edu)
+- [Whatcom Community College](https://whatcom.edu)
+
+
+
+
+
+
+
