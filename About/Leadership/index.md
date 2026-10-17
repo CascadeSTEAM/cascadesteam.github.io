@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Leadership
-description: Cascade STEAM leadership — Board of Directors, Organizers, and Committee Members making our programs possible through volunteer commitment.
+description: Cascade STEAM Leadership — Board of Directors, Organizers, and Committee Members making our programs possible through volunteer commitment.
 tags:
   - about
   - leadership
@@ -18,58 +18,52 @@ publish: true
 Cascade STEAM is made possible through the commitment of volunteer leadership and open collaboration of [Partners](../Partners). Cascade STEAM Leadership includes Board of Directors, Organizers, and Committee Members. Thank you all for your efforts.
 
 ## Board of Directors
-- [[Michael-Gan]]
-- [[Garth-Johnson]]
-- [[Josh-Buker]]
+- Michael-Gan: [LinkedIn](https://www.linkedin.com/in/michaelbgan), [Email](mailto:michael.gan@cascadesteam.org)
 
 ## Organizers
 - Elijah Cherney: [LinkedIn](https://www.linkedin.com/in/elijah-c-940485101/), [Email](mailto:elijah.cherney@cascadesteam.org)
-- [[Michael-Gan]]: [LinkedIn](https://www.linkedin.com/in/michaelbgan), [Email](mailto:michael.gan@cascadesteam.org)
+- [Michael Gan]: [LinkedIn](https://www.linkedin.com/in/michaelbgan), [Email](mailto:michael.gan@cascadesteam.org)
 - Ian Garconnette: [Email](mailto:ian.garconnette@cascadesteam.org)
-- Sam Groveman: [LinkedIn](https://www.linkedin.com/in/samgroveman), [Email](mailto:sam.groveman@cascadesteam.org)
-- Stephen Hanney: [LinkedIn](https://www.linkedin.com/in/stevehanney/), [Email](mailto:stephen.hanney@cascadesteam.org)
+- Sam Groveman: [LinkedIn](https://www.linkedin.com/in/samgroveman), [Email](mailto:sam.groveman@cascadwsteam.org)
 - David Hirsch: [LinkedIn](https://www.linkedin.com/in/davidhirsch3), [Email](mailto:david.hirsch@cascadesteam.org)
-- [[Garth-Johnson]]: [LinkedIn](https://www.linkedin.com/in/growlf), [Email](mailto:garth.johnson@cascadesteam.org)
 - Kris Keillor: [LinkedIn](https://www.linkedin.com/in/kris-keillor-205199276), [Email](mailto:kris.keillor@cascadesteam.org)
-- Erica Lamont: [LinkedIn](https://www.linkedin.com/in/ericalamont/), [Email](mailto:erica.lamont@cascadesteam.org)
-- Riley Liddle: [Email](mailto:riley.liddle@cascadesteam.org)
-- Gil Lund: [LinkedIn](https://www.linkedin.com/in/gwlund), [Email](mailto:gil.lund@cascadesteam.org)
+- Riley Liddle:
+ [Email](mailto:riley.liddle@cascadesteam.org)
 - Marty Mulholland: [LinkedIn](https://www.linkedin.com/in/mulholland99), [Email](mailto:marty.mulholland@cascadesteam.org)
 - Steve Stroh: [LinkedIn](https://www.linkedin.com/in/stevestroh),[Email](mailto:steve.stroh@cascadesteam.org)
 - Andrew Underwood: [LinkedIn](https://www.linkedin.com/in/arunderwood), [Email](mailto:andrew.underwood@cascadesteam.org)
 - Eric Veal: [LinkedIn](https://www.linkedin.com/in/ejveal/), [Email](mailto:eric.veal@cascadesteam.org)
 
-## Engagement Committee
-- Jason Davies: [LinkedIn](https://www.linkedin.com/in/jason-davies-aa536b9/), [Email](mailto:jason.davies@cascadesteam.org)
-- [[Michael-Gan]]: [LinkedIn](https://www.linkedin.com/in/michaelbgan), [Email](mailto:michael.gan@cascadesteam.org)
-- Brett Greene: [LinkedIn](https://www.linkedin.com/in/brettgreene/), [Email](mailto:brett.greene@cascadesteam.org)
-- Kathleen May: [LinkedIn](https://www.linkedin.com/in/kathleenmay/), [Email](mailto:kathleen.may@cascadesteam.org)
-- Trevor Westerlund: [LinkedIn](https://www.linkedin.com/in/twesterlund/), [Email](mailto:trevor.westerlund@cascadesteam.org)
-
-## Finance Committee
-- [[Michael-Gan]]: [LinkedIn](https://www.linkedin.com/in/michaelbgan), [Email](mailto:michael.gan@cascadesteam.org)
-- [[Garth-Johnson]]: [LinkedIn](https://www.linkedin.com/in/growlf), [Email](mailto:garth.johnson@cascadesteam.org)
-- Tony McGarry: [LinkedIn](https://www.linkedin.com/in/tony-mcgarry), [Email](mailto:tony.mcgarry@cascadesteam.org)
-
 ## Infrastructure Committee
 - Elijah Cherney: [LinkedIn](https://www.linkedin.com/in/elijah-c-940485101/), [Email](mailto:elijah.cherney@cascadesteam.org)
 - Kaleb Coberly: [LinkedIn](https://www.linkedin.com/in/kaleb-coberly/),[Email](mailto:kaleb.coberly@cascadesteam.org)
+- [Michael Gan]: [LinkedIn](https://www.linkedin.com/in/michaelbgan), [Email](mailto:michael.gan@cascadesteam.org)
 - Keith Matthews: [LinkedIn](https://www.linkedin.com/in/keith-l-matthews), [Email](mailto:keith.matthews@cascadesteam.org)
-- [[Michael-Gan]]: [LinkedIn](https://www.linkedin.com/in/michaelbgan), [Email](mailto:michael.gan@cascadesteam.org)
+
+# Past Leadership and Volunteers
+
+We appreciate the contributions of past volunteer Board Members, Organizers, Committee Members, and Service Corps Interns and Volunteers:
+
+Board Members:
+- Leslie Brendible: [LinkedIn](https://www.linkedin.com/in/lesliebrendible)
+- Josh Buker: [LinkedIn](https://www.linkedin.com/in/joshbuker)
+- Garth Johnson: [LinkedIn](https://www.linkedin.com/in/growlf)
+
+Organizers:
+- Stephen Hanney: [LinkedIn](https://www.linkedin.com/in/stevehanney/)
+- Erica Lamont: [LinkedIn](https://www.linkedin.com/in/ericalamont/)
+- Gil Lund: [LinkedIn](https://www.linkedin.com/in/gwlund)
+
+Infrastructure Committee:
 - Tim Hagglund: [LinkedIn](https://www.linkedin.com/in/tim-hagglund-445b9250/)
-- [[Garth-Johnson]]: [LinkedIn](https://www.linkedin.com/in/growlf), [Email](mailto:garth.johnson@cascadesteam.org)
 
-## Service Corps
-- Brittin Kellar: [LinkedIn](https://www.linkedin.com/in/brittin-kellar-68433225a/), [Email](mailto:brittin.kellar@cascadesteam.org) 
-- Ari Logan: [Email](mailto:ari.logan@cascadesteam.org)
-- Vivian Miller: [LinkedIn](https://www.linkedin.com/in/vivianmiller/), [Email](mailto:vivan.miller@cascadesteam.org)
-- Lilian Miller: [LinkedIn](https://www.linkedin.com/in/lilimiller/), [Email](mailto:lilian.miller@cascadesteam.org)
-- Richard Monnik: [LinkedIn](https://www.linkedin.com/in/rigunkes/), [Email](mailto:richard.monnik@cascadesteam.org)
-- Austin Reyes: [LinkedIn](https://www.linkedin.com/in/reyesa2/), [Email](mailto:austin.reyes@cascadesteam.org)
-- Laith Wajeeh: [LinkedIn](https://www.linkedin.com/in/laith-penticoff-wajeeh-985b27246/), [Email](mailto:laith.wajeeh@cascadesteam.org)
+Service Corps Interns and Volunteers:
+- Brittin Kellar: [LinkedIn](https://www.linkedin.com/in/brittin-kellar-68433225a/)
+- Ari Logan
+- Vivian Miller: [LinkedIn](https://www.linkedin.com/in/vivianmiller/)
+- Lilian Miller: [LinkedIn](https://www.linkedin.com/in/lilimiller/)
+- Richard Monnik: [LinkedIn](https://www.linkedin.com/in/rigunkes/)
+- Austin Reyes: [LinkedIn](https://www.linkedin.com/in/reyesa2/)
+- Laith Wajeeh: [LinkedIn](https://www.linkedin.com/in/laith-penticoff-wajeeh-985b27246/)
 
-## Advisory Committee
-All Organizers and Committee Members are also Advisory Committee Members.
 
-Additional Members:
-- Leslie Brendible: [LinkedIn](https://www.linkedin.com/in/lesliebrendible), [Email](mailto:leslie.brendible@cascadesteam.org)

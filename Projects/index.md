@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Community Projects
-description: Cascade STEAM Community Projects — Breach CTF, Digital Navigators, Educational Robotics, Hack Night, HelpDesk, LinuxFest Northwest, Mentorship, Service Corps, and Stormwater Monitoring.
+description: Cascade STEAM Community Projects — Consulting. Collaborative Internship, Digital Navigators, Educational Robotics, LinuxFest Northwest, Service Corps, and Reuse
 tags:
   - projects
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
@@ -16,14 +16,6 @@ aliases:
 
 Cascade STEAM Community Projects are organized collaborative efforts for community impact and social good. We welcome all people of all ages to participate. Organization and discussion occurs at our [Community Group](../Groups/) meetings and on our [Community Hub](http://hub.cascadesteam.org). See our [Meetup Page](https://meetup.com/cascadesteam) for scheduled events.
 
-## Artificial Intelligence Workshops
-
-Join the [Cascade STEAM Artificial Intelligence Community Group](https://cascadesteam.org/artificial-intelligence) as we meet for hands-on learning in our [Artificial Intelligence Workshops](Artificial-Intelligence-Workshops) events. We’ve partnered with [Anthropric](https://www.anthropic.com/) with their [Claude Code](https://code.claude.com/docs/en/overview) Workshop for Builders platform to collaborate on our own goals of organizing shared learning experiences and progressing our community work with a focus on education and lifelong learning.
-
-## Breach
-
-[Breach](Breach) is a Community Project featuring a cybersecurity shared learning experience in a game of Capture the Flag! In a cooperative, low-stress format designed for all skill levels, participants share strategies for attacking and defending as a learning exercise, evolving each round with more difficult challenges. **Launching March 29, 2026.**
-
 ## Collaborative Internship
 
 [Collaborative Internship](Collaborative-Internship) is an extension of [Service Corps](Service-Corps) \- our technology training and community service program for social good \- by partnering with local businesses and nonprofits to give students hands-on, real-world experience while simplifying the internship process for employers.
@@ -36,26 +28,6 @@ Join the [Cascade STEAM Artificial Intelligence Community Group](https://cascade
 
 FREE Community Tech Support is available from Cascade STEAM via our [Digital Navigators](Digital-Navigators) Program. Assistance is offered to the public from technology students and industry professionals through scheduled onsite events at social welfare and support organizations to help resolve basic computing challenges completely free of charge.
 
-## Educational Robotics
-
-[Educational Robotics](Educational-Robotics) is a collaboration of the Cascade STEAM [Engineering Community Group](../Groups/Engineering) and [Bellingham Public Schools](https://www.bellinghamschools.org) to support their [VEX Robotics Program](https://www.vexrobotics.com/). With VEX Robotics, hundreds of students throughout the district participate in a range of casual to globally-competitive robotics development, including mechanical engineering, fabrication, assembly, software development, technical writing, and project management. We help students learn robotics and host local robotics events.
-
-## Hack Night
-
-Join Cascade STEAM for [Hack Night](Hack-Night) on Saturdays from 4pm–"Late" at the Bellingham Makerspace for an open, collaborative session of shared learning! Bring your projects, homework, questions, and ideas and let's do them together.
-
-## HelpDesk
-
-Community Tech Support is available from Cascade STEAM via our [HelpDesk](Help-Desk) Program. Assistance is offered to the public from volunteer technology professionals and students by suggested donation.
-
-## LinuxFest Northwest Conference
-
-[LinuxFest Northwest](LinuxFest-Northwest) is an annual, free-to-attend F/LOSS conference featuring presentations and exhibits on free/libre and open source topics, as well as Linux distributions & applications, licensing, InfoSec, DevOps, AI/ML, creative software, hardware, and privacy; something for everyone from the novice to the professional! LinuxFest Northwest 2026 will be held **April 24–26, 2026** in Bellingham, WA at Bellingham Technical College.
-
-## Mentorship
-
-[Mentorship](Mentorship) connects community members interested in STEAM in either a "Traditional Mentorship" or "Peer Mentorship" arrangement, providing a support structure for a positive mentorship experience for all.
-
 ## Reuse
 
 [***Reuse***](https://cascadesteam.org/reuse) is an extension of [***Service Corps***](https://cascadesteam.org/service-corps) to refurbish donated technology equipment for a new, productive use and purpose in our community, and provide students valuable hands-on experience with technology.
@@ -64,6 +36,44 @@ Community Tech Support is available from Cascade STEAM via our [HelpDesk](Help-D
 
 Cascade STEAM [Service Corps](Service-Corps) is a technology training program for social good. Each quarter, student interns and volunteers work closely with technology professionals to help develop and maintain the systems that we utilize for our organization management and community programs, including [Digital Navigators](Digital-Navigators) and [HelpDesk](Help-Desk).
 
+# Collaborations
+
+We often collaborate with other organizations and occasionally those evolve into larger organized efforts:
+
+## Educational Robotics
+
+[Educational Robotics](Educational-Robotics) is a collaboration of the Cascade STEAM [Engineering Community Group](../Groups/Engineering) and [Bellingham Public Schools](https://www.bellinghamschools.org) to support their [VEX Robotics Program](https://www.vexrobotics.com/). With VEX Robotics, hundreds of students throughout the district participate in a range of casual to globally-competitive robotics development, including mechanical engineering, fabrication, assembly, software development, technical writing, and project management. We help students learn robotics and host local robotics events.
+
+## LinuxFest Northwest Conference
+
+[LinuxFest Northwest](LinuxFest-Northwest) is an annual, free-to-attend F/LOSS conference featuring presentations and exhibits on free/libre and open source topics, as well as Linux distributions & applications, licensing, InfoSec, DevOps, AI/ML, creative software, hardware, and privacy; something for everyone from the novice to the professional! LinuxFest Northwest 2027 will be held **April 23–25, 2027** in Bellingham, WA at Bellingham Technical College.
+
+# Past Community Projects
+
+Volunteer organizers and community members have contributed to several projects in the past for shared learning and collaborative community impact:
+
+## Artificial Intelligence Workshops
+
+The [Cascade STEAM Artificial Intelligence Community Group](https://cascadesteam.org/artificial-intelligence) hosted hands-on learning in our Artificial-Intelligence-Workshops events. We also partnered with [Anthropric](https://www.anthropic.com/) with their [Claude Code](https://code.claude.com/docs/en/overview) Workshop for Builders platform to collaborate on our own goals of organizing shared learning experiences and progressing our community work with a focus on education and lifelong learning. ** No longer organized.**
+
+## Breach
+
+[Breach](Breach) was a Community Project featuring a cybersecurity shared learning experience in a game of Capture the Flag! In a cooperative, low-stress format designed for all skill levels, participants share strategies for attacking and defending as a learning exercise, evolving each round with more difficult challenges. **No longer organized.**
+
+## Hack Night
+
+We kicked off a free open community Hack-Night on Saturdays from 5pm–"Late" at the Bellingham Makerspace for a collaborative session of shared learning! **Now a Bellingham Makerspace event.**
+
+## Help Desk
+
+FREE Community Tech Support was available from Cascade STEAM via our Help-Desk Program. Assistance was offered to the public from volunteer technology professionals and students. **Now merged with Digital Navigators.**
+
+## Mentorship
+
+Mentorship connected community members interested in STEAM in either a "Traditional Mentorship" or "Peer Mentorship" arrangement, providing a support structure for a positive mentorship experience for all. **Now merged with Service Corps.**
+
 ## Stormwater Monitoring
 
-The [Citizen Science Community Group](../Groups/Citizen-Science) helps in organizing support for [RE Sources](https://re-sources.org) and their [Stormwater Monitoring Project](https://www.re-sources.org/2024/06/three-years-of-bellingham-stormwater-monitoring-reveals-pollution-hotspots-including-taylor-dock/) to help protect Bellingham Bay. Organizers are working to create science, technology, and administrative projects and subprojects for community members to easily plug into and contribute.
+The [Citizen Science Community Group](../Groups/Citizen-Science) helped in organizing support for [RE Sources](https://re-sources.org) and their [Stormwater Monitoring Project](https://www.re-sources.org/2024/06/three-years-of-bellingham-stormwater-monitoring-reveals-pollution-hotspots-including-taylor-dock/) to help protect Bellingham Bay. Organizers  worked to create science, technology, and administrative projects and subprojects for community members to easily plug into and contribute. **No longer organized.**
+
+
