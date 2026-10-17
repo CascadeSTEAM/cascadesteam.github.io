@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Partners
-description: Cascade STEAM community, education, employer, government, and affiliate partners — 20+ organizations building Bellingham's technology ecosystem together.
+description: Cascade STEAM community partners —building Bellingham's STEAM ecosystem together.
 tags:
   - about
   - partners
