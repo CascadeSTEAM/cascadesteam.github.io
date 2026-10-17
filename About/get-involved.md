@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Get Involved
-description: Get involved with Cascade STEAM — join a community group, become a mentor, volunteer for Digital Navigators or HelpDesk, start a new program, or join a committee in Bellingham, WA.
+description: Get involved with Cascade STEAM — join a community group volunteer for Digital Navigators, start a new program, or join a committee in Bellingham, WA.
 tags:
   - get-involved
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
@@ -29,14 +29,6 @@ Here are a few areas where we can plug you in now! Don't see what you are lookin
 - Join an existing Community Group as a co-organizer to help support the group.
 - Passionate about a topic not served by a current Community Group? Start a new Community Group! We can help you get started, connect with like-minded community members, and support your efforts.
 
-### Artificial Intelligence Workshops
-
-- Help lead a workshop as a guest speaker.
-
-### Breach
-
-- Help organize
-
 ### Digital Navigators
 
 - Join as a volunteer to provide FREE basic technology support to social welfare organization patrons.
@@ -51,34 +43,16 @@ Here are a few areas where we can plug you in now! Don't see what you are lookin
 - Participate as a mentor to High School Robotics students.
 - Volunteer to support a robotics event.
 
-### Hack Night
-
-- Bring your own projects and share details about them.
-- Help folks looking for feedback or assistance with their projects.
-
-### Help Desk
-
-- Join as a volunteer to provide FREE technology support to the public.
-
 ### LinuxFest Northwest Conference
 
 - Become an organizer helping to manage a large component of the conference.
 - Become a lead volunteer helping to coordinate the conference the month prior.
 - Become a volunteer to help host the conference the day of the event.
 
-### Mentorship
-
-- Become a mentor or mentee in either a peer or traditional mentorship relationship.
-
 ### Service Corps
 
 - Join as an intern, volunteer, or mentor to help manage and develop the technology we use at Cascade STEAM.
 - Help work on a technology development project to support new capabilities and community service programs.
-
-### Stormwater Monitoring
-
-- Help RE Sources with data collection to monitor water quality in Bellingham Bay.
-- Help RE Sources with technology and administrative projects.
 
 ## Committees
 

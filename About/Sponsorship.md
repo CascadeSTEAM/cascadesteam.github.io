@@ -21,24 +21,19 @@ We welcome and celebrate your financial support as an annual Gold, Silver, or Br
 Bronze: **$5,000**
 
 * Spirited collaboration with our business, education, local government, and nonprofit [***Partners***](https://cascadesteam.org/partners)  
-* Name and logo displayed on our website and at our headquarters at [***Bellingham Makerspace***](https://bellinghammakerspace.org)  
-* 5% Discount on events and programs
+* Name and logo displayed on our website and in-person events  
+* Exhibition table at our new Annual Conference Event
 
 Silver: **$10,000**
 
-* Spirited collaboration with our business, education, local government, and nonprofit [***Partners***](https://cascadesteam.org/partners)  
-* Name and logo displayed on our website and at our headquarters at [***Bellingham Makerspace***](https://bellinghammakerspace.org)  
+Everything in Bronze, plus:  
 * Exclusive Sponsor of one of our **[*Community Groups*](https://cascadesteam.org/community-groups)** or **[*Community Projects*](https://cascadesteam.org/community-projects)**  
-* 10% Discount on events and programs
 
 Gold: **$20,000**
 
-* Spirited collaboration with our business, education, local government, and nonprofit [***Partners***](https://cascadesteam.org/partners)  
-* Name and logo displayed on our website and at our headquarters at [***Bellingham Makerspace***](https://bellinghammakerspace.org)  
-* Exclusive Sponsor of one of our [***Community Groups***](https://cascadesteam.org/community-groups) or [***Community Projects***](https://cascadesteam.org/community-projects)  
+Everything in Bronze, plus: 
 * A [***Collaborative Internship***](https://cascadesteam.org/collaborative-internship) included or donated to one of our nonprofit [***Partners***](https://cascadesteam.org/partners)  
 * A [***Consulting Engagement***](https://cascadesteam.org/consulting) included or donated to one of our nonprofit [***Partners***](https://cascadesteam.org/partners)  
-* 20% Discount on events and programs
 
 # Let’s Collaborate
 
