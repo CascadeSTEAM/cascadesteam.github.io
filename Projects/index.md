@@ -54,11 +54,11 @@ Volunteer organizers and community members have contributed to several projects 
 
 ## Artificial Intelligence Workshops
 
-The [Cascade STEAM Artificial Intelligence Community Group](https://cascadesteam.org/artificial-intelligence) hosted hands-on learning in our Artificial-Intelligence-Workshops events. We also partnered with [Anthropric](https://www.anthropic.com/) with their [Claude Code](https://code.claude.com/docs/en/overview) Workshop for Builders platform to collaborate on our own goals of organizing shared learning experiences and progressing our community work with a focus on education and lifelong learning. ** No longer organized.**
+The [Cascade STEAM Artificial Intelligence Community Group](https://cascadesteam.org/artificial-intelligence) hosted hands-on learning in our Artificial-Intelligence-Workshops events. We also partnered with [Anthropric](https://www.anthropic.com/) with their [Claude Code](https://code.claude.com/docs/en/overview) Workshop for Builders platform to collaborate on our own goals of organizing shared learning experiences and progressing our community work with a focus on education and lifelong learning. **On Hiatus.**
 
 ## Breach
 
-[Breach](Breach) was a Community Project featuring a cybersecurity shared learning experience in a game of Capture the Flag! In a cooperative, low-stress format designed for all skill levels, participants share strategies for attacking and defending as a learning exercise, evolving each round with more difficult challenges. **No longer organized.**
+[Breach](Breach) was a Community Project featuring a cybersecurity shared learning experience in a game of Capture the Flag! In a cooperative, low-stress format designed for all skill levels, participants share strategies for attacking and defending as a learning exercise, evolving each round with more difficult challenges. **On Hiatus.**
 
 ## Hack Night
 
@@ -74,6 +74,6 @@ Mentorship connected community members interested in STEAM in either a "Traditio
 
 ## Stormwater Monitoring
 
-The [Citizen Science Community Group](../Groups/Citizen-Science) helped in organizing support for [RE Sources](https://re-sources.org) and their [Stormwater Monitoring Project](https://www.re-sources.org/2024/06/three-years-of-bellingham-stormwater-monitoring-reveals-pollution-hotspots-including-taylor-dock/) to help protect Bellingham Bay. Organizers  worked to create science, technology, and administrative projects and subprojects for community members to easily plug into and contribute. **No longer organized.**
+The [Citizen Science Community Group](../Groups/Citizen-Science) helped in organizing support for [RE Sources](https://re-sources.org) and their [Stormwater Monitoring Project](https://www.re-sources.org/2024/06/three-years-of-bellingham-stormwater-monitoring-reveals-pollution-hotspots-including-taylor-dock/) to help protect Bellingham Bay. Organizers  worked to create science, technology, and administrative projects and subprojects for community members to easily plug into and contribute. **No longer organised.**
 
 
