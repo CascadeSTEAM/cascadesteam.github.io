@@ -24,7 +24,7 @@ We welcome and celebrate your financial support as an annual [***Sponsor***](htt
 
 ## Bronze: **\$5,000**
 Everything in Copper, plus:
-* Exhibition table and Event Sponsorship at our Annual Conference in 2027
+* Exhibition table and Event Sponsorship at our Annual Conference launching in 2027
 
 ## Silver: **\$10,000**
 
@@ -34,13 +34,11 @@ Everything in Bronze, plus:
 ## Gold: **\$20,000**
 
 Everything in Silver, plus: 
-* A [***Collaborative Internship***](https://cascadesteam.org/collaborative-internship) included or donated to one of our nonprofit [***Partners***](https://cascadesteam.org/partners)  
-* A [***Consulting Engagement***](https://cascadesteam.org/consulting) included or donated to one of our nonprofit [***Partners***](https://cascadesteam.org/partners)
-
-# Customization
-
-Interested in supporting Cascade STEAM in a customized fashion? Please let us know!
+* A [***Collaborative Internship***](https://cascadesteam.org/collaborative-internship) included or donated to a nonprofit organization
+* A [***Consulting Project***](https://cascadesteam.org/consulting) included or donated to one of our nonprofit organization
 
 # Let’s Collaborate
+
+Interested in supporting Cascade STEAM in a customized fashion? Please let us know!
 
 Please contact us at [***sponsorship@cascadesteam.org***](mailto:sponsorship@cascadesteam.org) regarding [***Sponsorship***](https://cascadesteam.org/sponsorship).
