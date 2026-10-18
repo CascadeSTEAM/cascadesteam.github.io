@@ -23,7 +23,8 @@ We welcome and celebrate your financial support as an annual [***Sponsor***](htt
 * Name and logo displayed on our website and in-person events
 
 ## Bronze: **\$5,000**
-* Exhibition table and event sponsorship at our Annual Conference in 2027
+Everything in Copper, plus:
+* Exhibition table and Event Sponsorship at our Annual Conference in 2027
 
 ## Silver: **\$10,000**
 
