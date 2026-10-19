@@ -13,7 +13,7 @@ Welcome to Cascade STEAM's Cybersecurity-focused community group!
 
 ## Important Announcement - New Organizers Needed!
 
-Marty and Dave, the Cyber group organizers, are hanging up their hats at the end of 2026.  November will be the final meeting they will organize.  They are looking forward to the next phase of the Cyber group, under new leadership.  Anybody can help make this group even greater than it is today!  If you are interested (even if you don't want to go solo), contact [Marty](mailto:marty.mulholland@cascadesteam.org?subject=Interested%20in%20co-organizing%20STEAM%20Cyber%20group), [Dave](mailto:david.hirsch@cascadesteam.org?subject=Interested%20in%20co-organizing%20STEAM%20Cyber%20group), or [Michael Gan](mailto:michael.gan@cascadesteam.org?subject=Interested%20in%20co-organizing%20STEAM%20Cyber%20group), leader of Cascade STEAM.
+Marty and Dave, the Cyber group organizers, are hanging up their hats at the end of 2026.  They are looking forward to the next phase of the Cyber group, under new leadership.  Anybody can help make this group even greater than it is today!  If you are interested (even if you don't want to go solo), contact [Marty](mailto:marty.mulholland@cascadesteam.org?subject=Interested%20in%20co-organizing%20STEAM%20Cyber%20group), [Dave](mailto:david.hirsch@cascadesteam.org?subject=Interested%20in%20co-organizing%20STEAM%20Cyber%20group), or [Michael Gan](mailto:michael.gan@cascadesteam.org?subject=Interested%20in%20co-organizing%20STEAM%20Cyber%20group), leader of Cascade STEAM.
 
 ## Upcoming Meetings
 
