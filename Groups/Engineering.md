@@ -22,7 +22,7 @@ The Engineering group coordinates support for the [Bellingham Public Schools VEX
 
 ## Meetings
 
-We plan to meet monthly in conjunction with the Bellingham Public Schools Whatcom VEX League on each event date and location from 6:30-7:30pm directly following the event. You are welcome and encouraged to arrive early!
+Beginning on November 19th: We plan to meet monthly in conjunction with the Bellingham Public Schools Whatcom VEX League on each event date and location from 6:30-7:30pm directly following the event. You are welcome and encouraged to arrive early!
 
 The Whatcom VEX League provides students with valuable local competition experience to prepare for larger and more strictly judged competitions.
 
@@ -34,7 +34,7 @@ Whatcom VEX League Dates:
 - January 14th 3:30-6:30pm @ Sehome High School
 - February 11th 3:30-6:30pm @ Sehome High School (Finals)
 
-Meeting details will be available on the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/) and the [Cascade STEAM Meetup Page](https://www.meetup.com/cascadesteam).
+Meeting details will be available on the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/) and the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam).
 
 ## Organizers
 
