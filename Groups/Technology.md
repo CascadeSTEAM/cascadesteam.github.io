@@ -5,6 +5,9 @@ description: Cascade STEAM Technology Community Group — technology and technol
 tags:
   - community-group
   - "#artificial-intelligence"
+  - "#cybersecurity"
+  - "#data-engineering"
+  - "#information-technology"
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
 banner-x: 60
 banner-y: 40
