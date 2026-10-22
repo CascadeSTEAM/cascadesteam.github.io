@@ -22,18 +22,18 @@ Community Groups are made possible through the commitment of [volunteer organize
 
 Community Groups include:
 
-- **[Artificial Intelligence (AI)](Artificial-Intelligence)**: artificial intelligence (AI) — tools, research, local deployment, and community impact
-- **[Citizen Science](Citizen-Science)**: science, in particular life sciences and environmental monitoring
-- **[Cyber](Cyber)**: cybersecurity
-- **[Engineering](Engineering)**: engineering, including robotics
+- **[Science](Science)**: everything science, including biology, chemistry, and social issues such as climate and the environment
+- **[Technology](Technology)**: everything technology, including artificial intelligence, cybersecurity, data engineering, and information technology
+- **[Engineering](Engineering)**: everything engineering, including robotics
 - **[Spectrum](Spectrum)**: all things wireless, including WiFi, Meshtastic and Meshcore, and Amateur Radio
 
-Other local community groups include:
+Other local community groups and organizations include:
 
 - **[Bellingham Codes](https://bellingham.codes)**: software development ([Meetup](https://meetup.com/bellinghamcodes))
 - **[Bellingham Linux Users Group](https://blug.org)**: Linux
 - **[Bellingham Tableau User Group](https://usergroups.tableau.com/bellingham-tableau-user-group/)**: Tableau Software and related data analytics topics
-- **[BTC RaspberryPi Club](https://www.raspberrypiclub.org/)**: Bellingham Technical College technology students sharing what they know
+- **[BTC RaspberryPi Club](https://www.raspberrypiclub.org/)**: Bellingham Technical College Technology Club
+- **[Innovate Bellingham](https://innovatebellingham.org)**: economic, civic, and climate innovation
 
 ## Are you interested to start a new community group?
 
@@ -42,8 +42,8 @@ Are your interests in alignment of the mission of Cascade STEAM? Create a Cascad
 ### Shared resources include:
 
 - Entry on the Cascade STEAM website to raise awareness.
-- Online discussion and virtual events on our [Community Hub](http://hub.cascadesteam.org) (Discord).
-- [Meetup](https://meetup.com/cascadesteam) to manage and promote your events to the public.
-- [LinkedIn](https://linkedin.com/company/cascadesteam) to promote your activities to professional networks.
-- [Facebook](https://facebook.com/cascadesteam) to promote your activities to personal networks.
-- [Google Workspace](https://workspace.google.com) with an organization email address and shared community group email address and Google Drive Shared Folder to organize collaboration.
+- [Community Hub](http://hub.cascadesteam.org) for online discussion and virtual events.
+- [Events](http://events.cascadesteam.org) to manage and promote your events to the public.
+- [LinkedIn](http://linkedin.cascadesteam.org) to promote your activities to professional networks.
+- [Facebook](http://facebook.cascadesteam.org) to promote your activities to personal networks.
+- [Google Workspace](https://workspace.google.com) to organize via email and collaborative documents.
