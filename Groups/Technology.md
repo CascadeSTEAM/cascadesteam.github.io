@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Artificial Intelligence
+title: Technology
 description: Cascade STEAM Technology Community Group — technology and technology-related community projects
 tags:
   - community-group
   - "#artificial-intelligence"
+  - "#cybersecurity"
+  - "#data-engineering"
+  - "#information-technology"
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
 banner-x: 60
 banner-y: 40
@@ -23,7 +26,7 @@ aliases:
 ---
 Cascade STEAM Technology is a [Community Group](https://cascadesteam.org/community-groups) with a focus on technology and technology-related [Community Projects](https://cascadesteam.org/community-projects). Anyone interested in technology-related technical topics, discussion, socializing, community-building, and collaboration among local organizations is welcome to attend.
 
-As of November 2026 we have combined the separate Artificial Intelligence, Cyber, Data Engineering, and Information Techology meetings into a single Technology event!
+As of November 2026 we have combined our separate Artificial Intelligence, Cyber, Data Engineering, and Information Technology meetings into a single Technology event.
 
 ## Meetings
 
