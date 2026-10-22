@@ -31,7 +31,6 @@ Logos and materials to assist outreach. Thank you for your support!
 - [[Cascade STEAM Flyer - Collaborative Internship.pdf]]
 - [[Cascade STEAM Flyer - Consulting.pdf]]
 - [[Cascade STEAM Flyer - Digital Navigators.pdf]]
-- [[Cascade STEAM Flyer - Help Desk.pdf]]
 - [[Cascade STEAM Flyer - Reuse.pdf]]
 - [[Cascade STEAM Flyer - Asks.pdf]]
 - [[Cascade STEAM Flyer - Donate.pdf]]
