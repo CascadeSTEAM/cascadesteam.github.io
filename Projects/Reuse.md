@@ -25,17 +25,17 @@ aliases:
 
 Members of our community donate their equipment in **GOOD** condition:
 
-* Desktop and laptop computers and accessories  
-* Monitors and TVs  
-* Networking equipment  
-* Servers and server equipment  
-* Audio/Video equipment  
+* Desktop and laptop computers and accessories
+* Monitors and TVs
+* Networking equipment
+* Servers and server equipment
+* Audio/Video equipment
 * Office equipment, including desks, chairs, tables, shelving, and storage
 
 Our [***Service Corps***](https://cascadesteam.org/service-corps) team of students and mentors refurbish the donated equipment:
 
-* Security wipe to completely erase existing data  
-* Physical assessment, repair, cleaning, and modification  
+* Security wipe to completely erase existing data
+* Physical assessment, repair, cleaning, and modification
 * New operating system installation and basic configuration
 
 We then [***Reuse***](https://cascadesteam.org/reuse) the refurbished equipment in our own [***Community Projects***](https://cascadesteam.org/community-projects), such as [***Digital Navigators***](https://cascadesteam.org/digital-navigators), or provide to our student interns and volunteers for **FREE** to support their education, or provide to other members of our community by suggested donation.

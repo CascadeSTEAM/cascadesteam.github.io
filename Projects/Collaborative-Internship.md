@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Collaborative Internship
-description: Cascade STEAM Service Corps is a quarterly technology training and community service program — student interns and volunteers work with mentor tech professionals on real systems.
+description: Collaborative Internship provides students hands-on, real-world experience while simplifying the internship process for employers
 tags:
   - projects
   - community
@@ -16,21 +16,21 @@ banner-display: auto
 aliases:
   - /collaborative-internship
 ---
-[***Collaborative Internship***](https://cascadesteam.org/collaborative-internship) is an extension of [***Service Corps***](https://cascadesteam.org/service-corps), our technology training and community service program for social good, by partnering with local businesses and nonprofit organizations to give students hands-on, real-world experience while simplifying the internship process for employers.
+[***Collaborative Internship***](https://cascadesteam.org/collaborative-internship) is an extension of [***Service Corps***](https://cascadesteam.org/service-corps), our technology training and community service program for social good, by partnering with local businesses and nonprofit organizations to provide students hands-on, real-world experience while simplifying the internship process for employers.
 
 ## How It Works
 
 We handle everything: recruiting, hiring, onboarding, training, supervision, management, mentorship, payment, and internship coordination with education partners. You get a motivated intern without the administrative burden.
 
-* We meet with you to understand your needs and identify the right internship opportunity.  
-* We match and interview candidates from our high school and college partner networks.  
-* We hire your intern, enroll them in our [***Service Corps***](https://cascadesteam.org/service-corps) program, and provide baseline training.  
-* We help onboard them into your organization alongside your team.  
+* We meet with you to understand your needs and identify the right internship opportunity.
+* We match and interview candidates from our high school and college partner networks.
+* We hire your intern, enroll them in our [***Service Corps***](https://cascadesteam.org/service-corps) program, and provide baseline training.
+* We help onboard them into your organization alongside your team.
 * We support everyone throughout — weekly reports, regular check-ins, and a final review.
 
 ## Cost
 
-For a typical quarter-long internship: an employer pays $10,000 to Cascade STEAM, which covers $5,000 to the intern ($25/hr × 200 hours) and $5,000 to Cascade STEAM to facilitate the program.
+For an example quarter-long internship: an employer pays \$10,000 to Cascade STEAM, which provides \$5,000 to the intern (\$25/hr × 200 hours) and \$5,000 to Cascade STEAM to manage the program.
 
 ## Let’s Collaborate
 

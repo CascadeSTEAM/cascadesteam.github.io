@@ -17,20 +17,20 @@ STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, an
 
 Our efforts are organized into [***Community Groups***](https://cascadesteam.org/community-groups) and [***Community Projects***](https://cascadesteam.org/community-projects).
 
-[***Community Groups***](https://cascadesteam.org/community-groups) convene community members interested in a STEAM topic to connect, participate in shared learning experiences, and socialize. Our current [***Community Groups***](https://cascadesteam.org/community-groups) include [***Artificial Intelligence***](https://cascadesteam.org/artificial-intelligence), [***Citizen Science***](https://cascadesteam.org/citizen-science), [***Cyber***](https://cascadesteam.org/cyber), [***Engineering***](https://cascadesteam.org/engineering), and [***Spectrum***](https://cascadesteam.org/spectrum).
+[***Community Groups***](https://cascadesteam.org/community-groups) convene community members interested in a STEAM topic to connect, participate in shared learning experiences, and socialize. Our current [***Community Groups***](https://cascadesteam.org/community-groups) include [***Science***](https://cascadesteam.org/science), [***Technology***](https://cascadesteam.org/technology), [***Engineering***](https://cascadesteam.org/engineering), and [***Spectrum***](https://cascadesteam.org/spectrum).
 
 As collaborative interests evolve, these efforts are organized as [***Community Projects***](https://cascadesteam.org/community-projects) to further our goals of community building and community service. As [***Service Corps***](https://cascadesteam.org/service-corps) also functions as our volunteer coordination program, many of our [***Community Projects***](https://cascadesteam.org/community-projects) are expansions of [***Service Corps***](https://cascadesteam.org/service-corps).
 
 Community Service:
 
-* [***Service Corps***](https://cascadesteam.org/service-corps) is a technology training and community service program for social good.  
-* [***Collaborative Internship***](https://cascadesteam.org/collaborative-internship) works with students and local organizations to provide internships.  
-* [***Consulting***](https://cascadesteam.org/consulting) provides business, technology, and education services to the community.  
-* [***Digital Navigators***](https://cascadesteam.org/digital-navigators) provides FREE basic technology support for social service patrons.  
+* [***Service Corps***](https://cascadesteam.org/service-corps) is a technology training and community service program for social good.
+* [***Collaborative Internship***](https://cascadesteam.org/collaborative-internship) works with students and local organizations to provide internships.
+* [***Consulting***](https://cascadesteam.org/consulting) provides business, technology, and education services to the community.
+* [***Digital Navigators***](https://cascadesteam.org/digital-navigators) provides FREE basic technology support for social service patrons.
 * [***Reuse***](https://cascadesteam.org/reuse) refurbishes donated technology and office equipment for a new productive purpose.
 
 Community Building:
-* [***Educational Robotics***](https://cascadesteam.org/educational-robotics) provides support for the Bellingham Public Schools Robotics Program.  
+* [***Educational Robotics***](https://cascadesteam.org/educational-robotics) provides support for the Bellingham Public Schools Robotics Program.
 * [***LinuxFest Northwest***](https://cascadesteam.org/linuxfest-northwest) is an annual open source technology conference that we co-organize.
 
 Cascade STEAM programs and events strive to be ***Free. Open to everyone. Bring your friends.***
@@ -39,11 +39,11 @@ Cascade STEAM programs and events strive to be ***Free. Open to everyone. Bring 
 
 We use online platforms to connect with our community, manage events, and do outreach:
 
-- [Community Calendar](/calendar) for our public events.
-- [Discord](http://hub.cascadesteam.org) to participate in online discussion, planning, and hybrid or virtual events.
-- [Meetup](https://meetup.com/cascadesteam) to receive event announcements and to RSVP for events.
-- [LinkedIn](https://linkedin.com/company/cascadesteam) to share our activity with your professional network.
-- [Facebook](https://facebook.com/cascadesteam) to share our activity with your personal network.
+- [Community Calendar](/calendar) for our both community events and our own events.
+- [Community Hub](http://hub.cascadesteam.org) to participate in online discussion, planning, and hybrid or virtual events.
+- [Events](http://events.cascadesteam.org) to receive event announcements and to RSVP for events.
+- [LinkedIn](http://linkedin.cascadesteam.org) to share our activity with your professional network.
+- [Facebook](http://facebook.cascadesteam.org) to share our activity with your personal network.
 
 ## Code of Conduct
 

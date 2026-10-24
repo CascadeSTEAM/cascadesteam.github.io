@@ -1,6 +1,6 @@
 ---
 title: Community Events
-description: Cascade STEAM community calendar — find upcoming meetings, workshops, and events for all our community groups and projects in Bellingham, WA.
+description: Community Events Calendar — our public and private events, and related community events
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
 banner-x: 60
 banner-y: 40
@@ -16,7 +16,7 @@ tags:
   - calendar
 permalink: events
 ---
-In addition to our own events, the Cascade STEAM Community Calendar also includes partner events. Refer to the [Cascade STEAM Meetup Page](https://www.meetup.com/cascadesteam/) for additional details and to RSVP for our events. Take note that some events require registration.
+Our Community Calendar includes our public and private events, and related community events. Refer to the [Cascade STEAM Events](http://events.cascadesteam.org) platform for our own event details and to RSVP for our events. Online discussion occurs on our [Community Hub](http://hub.cascadesteam.org). Note that some events require registration and are limited.
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=America%2FLos_Angeles&showPrint=0&showCalendars=0&mode=AGENDA&showTabs=0&showNav=0&showDate=0&title=Cascade%20STEAM%20Community%20Calendar&src=Y184M2IzZGQwMDBmNDE0NDhkMTEwOGM2MjNlNWNjZTQ4MThmM2IyZDkyNTZhYzRkM2M1MGQ3YzViMmFlOGJkZWU1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23f4511e" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 

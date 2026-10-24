@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Consulting
-description: Cascade STEAM Consulting leverages our team’s extensive combined experience collaborating with employer, nonprofit, education, and local government partners in service of their business, technology, and community engagement goals.
+description: Consulting provides business, technology, education, and community engagement services
 tags:
   - projects
   - community
@@ -17,7 +17,7 @@ banner-display: auto
 aliases:
   - /consulting
 ---
-[***Consulting***](https://cascadesteam.org/consulting) is now available from Cascade STEAM, leveraging our team’s extensive experience collaborating with partners and clients to progress their business, technology, education, and community engagement goals.
+[***Consulting***](https://cascadesteam.org/consulting) leverages our team’s extensive experience collaborating with partners and clients to provide business, technology, education, and community engagement services.
 
 Our **Consulting Projects** are led by highly experienced business and technology professionals. We partner with trusted local service providers as needed, and feature distinguished student interns and accomplished mentors via our [***Service Corps***](https://cascadesteam.org/service-corps) program when appropriate.
 
@@ -29,7 +29,7 @@ If we require additional information to solidify our project together: We’ll p
 
 # Cost
 
-While every project varies, a discount is provided when including student interns and mentors via our [***Service Corps***](https://cascadesteam.org/service-corps) program, and an additional 20% discount is provided to fellow non-profit organizations.
+While every project varies, a discount is provided when including student interns and mentors via our [***Service Corps***](https://cascadesteam.org/service-corps) program, and an additional discount is provided to fellow non-profit organizations.
 
 # Let’s Collaborate
 

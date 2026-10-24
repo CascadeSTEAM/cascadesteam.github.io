@@ -15,7 +15,9 @@ aliases:
   - /educational-robotics
 ---
 
-*Educational Robotics* is a collaboration of the Cascade STEAM [Engineering Community Group](../Groups/Engineering) and [Bellingham Public Schools](https://www.bellinghamschools.org) to support their [VEX Robotics Program](https://www.vexrobotics.com/). With VEX Robotics, hundreds of students throughout the district participate in a range of casual to globally-competitive robotics development, including mechanical engineering, fabrication, assembly, software development, technical writing, and project management. We help students learn robotics and host local robotics events.
+*Educational Robotics* is a collaboration of the Cascade STEAM [Engineering Community Group](/engineering) and [Bellingham Public Schools](https://www.bellinghamschools.org) to support their [VEX Robotics Program](https://www.vexrobotics.com/).
+
+With VEX Robotics, hundreds of students throughout the district participate in a range of casual to globally-competitive robotics development, including mechanical engineering, fabrication, assembly, software development, technical writing, and project management. We help students learn robotics and host local robotics events.
 
 # Volunteers
 
@@ -46,9 +48,9 @@ Regional Competition Dates:
 
 # Cascade STEAM Engineering
 
-Are you a student, professional, or business interested in engineering and robotics? Come check out the Whatcom VEX League! And join [*Cascade STEAM Engineering*](../Groups/Engineering) at the Whatcom VEX League event location each month from 6:30-7:30pm to connect with fellow community members, discuss engineering topics, and explore how we can get involved in the community.
+Are you a student, professional, or business interested in engineering and robotics? Come check out the Whatcom VEX League! And join [*Cascade STEAM Engineering*](/engineering) at the Whatcom VEX League event location each month from 6:30-7:30pm to connect with fellow community members, discuss engineering topics, and explore how we can get involved in the community.
 
-See the [*Cascade STEAM Meetup Page*](https://meetup.com/cascadesteam) for event information regarding the [*Cascade STEAM Engineering Community Group*](../Groups/Engineering).
+See the [*Cascade STEAM Events*](https://meetup.com/cascadesteam) platform for event information regarding [*Cascade STEAM Engineering*](/engineering).
 
 ## Sponsors
 
