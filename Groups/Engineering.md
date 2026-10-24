@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Engineering
-description: Cascade STEAM Engineering community group — connecting students, founders, mentors, and teachers through monthly project presentations and the Educational Robotics program. Meets 2nd Wednesday monthly.
+description: Engineering Community Group — engineering topics and engineering-related community projects
 tags:
   - community-group
+  - "#engineering"
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
 banner-x: 60
 banner-y: 40
@@ -14,11 +15,7 @@ aliases:
   - /engineering
 ---
 
-Engineering is a Cascade STEAM [Community Group](index.md) with a focus on engineering and engineering-related [community projects](../Projects/). Cascade STEAM Engineering connects students, founders, mentors, and teachers in our community through support and collaboration. At our monthly group meetings, attendees are encouraged to present their engineering projects for 3–5 minutes and field questions to help everyone find success.
-
-## Community Project: Educational Robotics
-
-The Engineering group coordinates support for the [Bellingham Public Schools VEX Robotics Program](../Projects/Educational-Robotics) — providing mentor volunteers, event volunteers, and sponsorship coordination. See the [Educational Robotics](../Projects/Educational-Robotics) page for volunteer opportunities and upcoming events.
+Engineering is a Cascade STEAM [Community Group](/community-groups) with a focus on engineering and engineering-related [Community Projects](/projects). Anyone interested in engineering-related technical topics, discussion, socializing, community-building, and collaboration is welcome to attend.
 
 ## Meetings
 
@@ -34,8 +31,16 @@ Whatcom VEX League Dates:
 - January 14th 3:30-6:30pm @ Sehome High School
 - February 11th 3:30-6:30pm @ Sehome High School (Finals)
 
-Meeting details will be available on the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/) and the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam).
+Meeting details will be available on our [Community Hub](http://hub.cascadesteam.org/), [Community Events](/events) page, and our [Events](http://events.cascadesteam.org) platform.
 
-## Organizers
+## Online Discussion
 
-[Volunteer Organizers](../About/Leadership/) of the Cascade STEAM Engineering Community Group are Riley Liddle and [Kris Keillor](https://www.linkedin.com/in/kris-keillor-205199276/). Please contact [engineering@cascadesteam.org](mailto:engineering@cascadesteam.org) for related community group inquiries.
+Online discussion occurs on our [Community Hub](http://hub.cascadesteam.org) in the **#engineering** channel.
+
+## Educational Robotics
+
+Our Engineering Community Group helps coordinate volunteer mentorship and event support for the Bellingham Public Schools VEX Robotics Program via our [Educational Robotics](/educational-robotics) Community Project.
+
+## Contact Us
+
+Please contact [engineering@cascadesteam.org](mailto:engineering@cascadesteam.org) for community group inquiries.

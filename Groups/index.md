@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Community Groups
-description: Cascade STEAM Community Groups convene professionals, students, and enthusiasts around STEAM topics through recurring meetings, events, and community projects in Bellingham, WA.
+description: Community Groups convene aspiring, current, and retired professionals interested in a STEAM topic
 tags:
-  - groups
+  - community-groups
 banner: "![[Cascade_STEAM_horizontal_logo_primary.svg]]"
 banner-x: 60
 banner-y: 40
@@ -18,14 +18,14 @@ Cascade STEAM Community Groups convene aspiring, current, and retired profession
 
 ## Current Community Groups
 
-Community Groups are made possible through the commitment of [volunteer organizers](../About/Leadership/) and open collaboration of [Partners](../About/Partners). Scheduled events can be found on the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) and discussion at the [Cascade STEAM Community Hub (Discord)](http://hub.cascadesteam.org).
+Community Groups are made possible through the commitment of [volunteer organizers](/leadership) and open collaboration of [Partners](/partners). Meeting details will be available on our [Community Hub](http://hub.cascadesteam.org/), [Community Events](/events) page, and our [Events](http://events.cascadesteam.org) platform. Online discussion occurs on our [Community Hub](http://hub.cascadesteam.org).
 
 Community Groups include:
 
 - **[Science](Science)**: everything science, including biology, chemistry, and social issues such as climate and the environment
 - **[Technology](Technology)**: everything technology, including artificial intelligence, cybersecurity, data engineering, and information technology
 - **[Engineering](Engineering)**: everything engineering, including robotics
-- **[Spectrum](Spectrum)**: all things wireless, including WiFi, Meshtastic and Meshcore, and Amateur Radio
+- **[Spectrum](Spectrum)**: everything wireless, including WiFi, Meshtastic and Meshcore, and Amateur Radio
 
 Other local community groups and organizations include:
 
